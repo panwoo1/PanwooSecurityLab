@@ -241,7 +241,7 @@ input {
 
 .panel-heading {
   display: flex;
-  align-items: start;
+  align-items: flex-start;
   justify-content: space-between;
   gap: 14px;
   margin-bottom: 18px;

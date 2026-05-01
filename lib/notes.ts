@@ -1,6 +1,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import matter from "gray-matter";
+import { marked } from "marked";
 
 const notesDir = path.join(process.cwd(), "content", "notes");
 
@@ -68,24 +69,17 @@ export function getNoteBySlug(slug: string) {
   return getAllNotes().find((note) => note.slug === slug);
 }
 
-export function sanitizeMdx(content: string) {
-  const lines = content
+function cleanMarkdown(content: string) {
+  return content
     .replaceAll("{% raw %}", "")
     .replaceAll("{% endraw %}", "")
-    .split("\n");
+    .replace(/\{:\s*[^}]+\}/g, "");
+}
 
-  let fenced = false;
-  return lines
-    .map((line) => {
-      if (line.trim().startsWith("```")) {
-        fenced = !fenced;
-        return line;
-      }
-      if (fenced) return line;
-      return line
-        .replace(/\{:\s*[^}]+\}/g, "")
-        .replaceAll("{", "&#123;")
-        .replaceAll("}", "&#125;");
-    })
-    .join("\n");
+export async function renderMarkdown(content: string) {
+  return marked.parse(cleanMarkdown(content), {
+    async: true,
+    gfm: true,
+    breaks: false,
+  });
 }

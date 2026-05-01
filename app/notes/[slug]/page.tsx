@@ -1,6 +1,5 @@
 import { notFound } from "next/navigation";
-import { MDXRemote } from "next-mdx-remote/rsc";
-import { getAllNotes, getNoteBySlug, sanitizeMdx } from "@/lib/notes";
+import { getAllNotes, getNoteBySlug, renderMarkdown } from "@/lib/notes";
 
 type Props = {
   params: Promise<{ slug: string }>;
@@ -35,9 +34,7 @@ export default async function NotePage({ params }: Props) {
           <span>{note.tags.slice(0, 5).join(", ")}</span>
         </div>
       </header>
-      <div className="mdx-content">
-        <MDXRemote source={sanitizeMdx(note.content)} />
-      </div>
+      <div className="mdx-content" dangerouslySetInnerHTML={{ __html: await renderMarkdown(note.content) }} />
     </article>
   );
 }
