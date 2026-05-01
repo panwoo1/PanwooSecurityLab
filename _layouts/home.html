@@ -1,80 +1,102 @@
 ---
 layout: default
 ---
-{% assign featured = site.posts | first %}
-<section class="hero">
-  <div class="hero-main">
-    <p class="eyebrow">Security Lab Notes</p>
-    <h1>개발과 보안을 공부하며 남긴 기록</h1>
-    <p>{{ site.description }}</p>
-    <div class="hero-actions">
-      <a class="button primary" href="#posts">글 찾아보기</a>
-      <a class="button" href="{{ '/about/' | relative_url }}">프로필</a>
-    </div>
+<section class="dashboard-hero">
+  <div>
+    <p class="eyebrow">Private Security Dashboard</p>
+    <h1>Panwoo Security Lab</h1>
+    <p>CTF, research notes, proxy workflow, and security intelligence in one place.</p>
   </div>
-  <div class="hero-panel">
-    <span class="panel-label">Archive</span>
+  <div class="dashboard-clock">
+    <span data-dashboard-date>UTC</span>
+    <strong data-dashboard-time>--:--</strong>
+  </div>
+</section>
+
+<section class="metric-grid" aria-label="Dashboard summary">
+  <article class="metric-card">
+    <span>Notes</span>
     <strong>{{ site.posts | size }}</strong>
-    <p>posts across algorithms, web hacking, reversing, and study notes.</p>
-  </div>
+  </article>
+  <article class="metric-card">
+    <span>Categories</span>
+    <strong>{{ site.categories | size }}</strong>
+  </article>
+  <article class="metric-card">
+    <span>CTF Guides</span>
+    <strong>{{ site.categories.CTF | size | default: 0 }}</strong>
+  </article>
+  <article class="metric-card">
+    <span>Proxy</span>
+    <strong>Local</strong>
+  </article>
 </section>
 
-<section class="control-panel" aria-label="Post filters">
-  <label class="search-box">
-    <span>Search</span>
-    <input data-post-search type="search" placeholder="SQL, reversing, algorithm..." autocomplete="off">
-  </label>
-  <div class="filter-row" aria-label="Category filters">
-    <button class="filter-chip is-active" type="button" data-category-filter="all">All</button>
-    {% for category in site.categories %}
-      <button class="filter-chip" type="button" data-category-filter="{{ category[0] | downcase | escape }}">
-        {{ category[0] }}
-        <span>{{ category[1].size }}</span>
-      </button>
-    {% endfor %}
-  </div>
-</section>
-
-{% if featured %}
-  <section class="featured-strip">
-    <div>
-      <span class="panel-label">Featured</span>
-      <h2><a href="{{ featured.url | relative_url }}">{{ featured.title }}</a></h2>
-      <p>{{ featured.excerpt | strip_html | normalize_whitespace | truncate: 190 }}</p>
-    </div>
-    <a class="read-more" href="{{ featured.url | relative_url }}">Read featured</a>
-  </section>
-{% endif %}
-
-<div class="content-grid">
-  <section id="posts" class="post-section">
-    <div class="section-heading">
+<div class="dashboard-grid">
+  <section class="dashboard-panel ctf-launcher">
+    <div class="panel-heading">
       <div>
-        <span class="panel-label">Latest</span>
-        <h2>All Posts</h2>
+        <span class="panel-label">CTF</span>
+        <h2>Target Launcher</h2>
+      </div>
+      <span class="status-pill">browser proxy ready</span>
+    </div>
+    <form class="launcher-form" data-proxy-launcher>
+      <label>
+        <span>Target URL</span>
+        <input type="url" name="target" placeholder="https://challenge.example" autocomplete="off">
+      </label>
+      <div class="launcher-actions">
+        <button class="button primary" type="submit" data-launch-mode="direct">Open target</button>
+        <button class="button" type="button" data-copy-curl>Copy curl</button>
+      </div>
+    </form>
+    <div class="proxy-profile">
+      <span>HTTP proxy</span>
+      <strong>127.0.0.1:8080</strong>
+    </div>
+  </section>
+
+  <section class="dashboard-panel">
+    <div class="panel-heading">
+      <div>
+        <span class="panel-label">Shortcuts</span>
+        <h2>Toolbox</h2>
+      </div>
+    </div>
+    <div class="tool-grid">
+      {% for tool in site.data.dashboard.tools %}
+        <a class="tool-card" href="{{ tool.url | relative_url }}">
+          <strong>{{ tool.title }}</strong>
+          <span>{{ tool.meta }}</span>
+        </a>
+      {% endfor %}
+    </div>
+  </section>
+
+  <section class="dashboard-panel news-panel">
+    <div class="panel-heading">
+      <div>
+        <span class="panel-label">Intel</span>
+        <h2>Security News</h2>
+      </div>
+      <a href="https://www.cisa.gov/cybersecurity-advisories">CISA</a>
+    </div>
+    <div class="news-list" data-news-list>
+      <p class="empty-state">Loading security news...</p>
+    </div>
+  </section>
+
+  <section class="dashboard-panel notes-panel">
+    <div class="panel-heading">
+      <div>
+        <span class="panel-label">Knowledge Base</span>
+        <h2>Recent Notes</h2>
       </div>
       <a href="{{ '/year-archive/' | relative_url }}">Archive</a>
     </div>
-    {% include post-list.html posts=site.posts %}
-    <p class="empty-state" data-empty-state hidden>No posts match your search.</p>
+    {% assign latest_count = site.home.latest_count | default: 6 %}
+    {% assign recent_posts = site.posts | slice: 0, latest_count %}
+    {% include post-list.html posts=recent_posts %}
   </section>
-
-  <aside class="rail" aria-label="Author and shortcuts">
-    <section class="profile-card">
-      <img src="{{ site.author.avatar | relative_url }}" alt="{{ site.author.name }}">
-      <div>
-        <strong>{{ site.author.name }}</strong>
-        <span>{{ site.author.location }}</span>
-      </div>
-      <p>{{ site.author.bio }}</p>
-      <a href="https://github.com/{{ site.author.github }}">github.com/{{ site.author.github }}</a>
-    </section>
-
-    <section class="quick-links">
-      <h2>Quick Links</h2>
-      <a href="{{ '/categories/' | relative_url }}">Browse by category</a>
-      <a href="{{ '/tags/' | relative_url }}">Browse by tag</a>
-      <a href="{{ '/year-archive/' | relative_url }}">Full archive</a>
-    </section>
-  </aside>
 </div>

@@ -1,0 +1,21 @@
+tools:
+  - title: Burp Suite
+    url: http://127.0.0.1:8080
+    meta: 127.0.0.1:8080
+  - title: OWASP ZAP
+    url: http://127.0.0.1:8080
+    meta: 127.0.0.1:8080
+  - title: Local CTFd
+    url: http://127.0.0.1:8000
+    meta: localhost:8000
+  - title: Notes
+    url: /year-archive/
+    meta: writeups
+
+feeds:
+  - name: CISA
+    url: https://www.cisa.gov/cybersecurity-advisories/all.xml
+  - name: BleepingComputer
+    url: https://www.bleepingcomputer.com/feed/
+  - name: The Hacker News
+    url: https://feeds.feedburner.com/TheHackersNews

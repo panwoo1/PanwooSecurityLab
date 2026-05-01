@@ -15,7 +15,7 @@ author:
   avatar: /assets/images/paka.jpg
 
 navigation:
-  - title: Posts
+  - title: Dashboard
     url: /
   - title: Archive
     url: /year-archive/

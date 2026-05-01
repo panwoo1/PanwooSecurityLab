@@ -1,0 +1,132 @@
+{
+  "generated_at": "2026-05-01T10:50:35.257237+00:00",
+  "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Poisoned Ruby Gems and Go Modules Exploit CI Pipelines for Credential Theft",
+      "url": "https://thehackernews.com/2026/05/poisoned-ruby-gems-and-go-modules.html",
+      "published": "Fri, 01 May 2026 15:13:00 +0530",
+      "summary": "A new software supply chain attack campaign has been observed using sleeper packages as a conduit to subsequently push malicious payloads that enabled credential theft, GitHub Actions tampering, and SSH persistence. The "
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Windows 11 KB5083631 update released with 34 changes and fixes",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5083631-update-released-with-34-changes-and-fixes/",
+      "published": "Fri, 01 May 2026 06:00:53 -0400",
+      "summary": "Microsoft has released the KB5083631 optional cumulative update for Windows 11, which includes 34 changes, such as a new Xbox mode for Windows PCs, enhanced security and performance for batch files, and performance impro"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "US ransomware negotiators get 4 years in prison over BlackCat attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/us-ransomware-negotiators-get-4-years-in-prison-over-blackcat-attacks/",
+      "published": "Fri, 01 May 2026 03:47:11 -0400",
+      "summary": "Two former employees of cybersecurity incident response companies Sygnia and DigitalMint were sentenced to four years in prison each for targeting U.S. companies in BlackCat (ALPHV) ransomware attacks. [...]"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "PyTorch Lightning and Intercom-client Hit in Supply Chain Attacks to Steal Credentials",
+      "url": "https://thehackernews.com/2026/04/pytorch-lightning-compromised-in-pypi.html",
+      "published": "Thu, 30 Apr 2026 22:01:00 +0530",
+      "summary": "In yet another software supply chain attack, threat actors have managed to compromise the popular Python package Lightning to push two malicious versions to conduct credential theft. According to Aikido Security, OX Secu"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "ThreatsDay Bulletin: SMS Blaster Busts, OpenEMR Flaws, 600K Roblox Hacks and 25 More Stories",
+      "url": "https://thehackernews.com/2026/04/threatsday-bulletin-sms-blaster-busts.html",
+      "published": "Thu, 30 Apr 2026 19:25:00 +0530",
+      "summary": "The internet is noisy this week. We are seeing some wild new tactics, like people using fake cell towers to send scam texts, while some developers are accidentally downloading tools that peek into their private files dur"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "New Python Backdoor Uses Tunneling Service to Steal Browser and Cloud Credentials",
+      "url": "https://thehackernews.com/2026/04/new-python-backdoor-uses-tunneling.html",
+      "published": "Thu, 30 Apr 2026 18:06:00 +0530",
+      "summary": "Cybersecurity researchers have disclosed details of a stealthy Python-based backdoor framework called DEEP#DOOR that comes with capabilities to establish persistent access and harvest a wide range of sensitive informatio"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "EtherRAT Distribution Spoofing Administrative Tools via GitHub Facades",
+      "url": "https://thehackernews.com/2026/04/etherrat-distribution-spoofing.html",
+      "published": "Thu, 30 Apr 2026 17:00:00 +0530",
+      "summary": "Intro A sophisticated, high-resilience malicious campaign was identified by Atos Threat Research Center (TRC) in March 2026. This operation specifically targets the high-privilege professional accounts of enterprise admi"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "New Bluekit phishing service includes an AI assistant, 40 templates",
+      "url": "https://www.bleepingcomputer.com/news/security/new-bluekit-phishing-service-includes-an-ai-assistant-40-templates/",
+      "published": "Thu, 30 Apr 2026 14:58:50 -0400",
+      "summary": "A new phishing kit named Bluekit offers more than 40 templates targeting popular services and includes basic AI features for generating campaign drafts. [...]"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "New Linux 'Copy Fail' Vulnerability Enables Root Access on Major Distributions",
+      "url": "https://thehackernews.com/2026/04/new-linux-copy-fail-vulnerability.html",
+      "published": "Thu, 30 Apr 2026 14:54:00 +0530",
+      "summary": "Cybersecurity researchers have disclosed details of a Linux local privilege escalation (LPE) flaw that could allow an unprivileged local user to obtain root. The high-severity vulnerability tracked as CVE-2026-31431 (CVS"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Romanian leader of online swatting ring gets 4 years in prison",
+      "url": "https://www.bleepingcomputer.com/news/security/romanian-leader-of-online-swatting-ring-gets-4-years-in-prison/",
+      "published": "Thu, 30 Apr 2026 13:45:12 -0400",
+      "summary": "A Romanian national who led an online swatting ring that targeted more than 75 public officials, multiple journalists, and four religious institutions was sentenced to 4 years in federal prison. [...]"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Google Fixes CVSS 10 Gemini CLI CI RCE and Cursor Flaws Enable Code Execution",
+      "url": "https://thehackernews.com/2026/04/google-fixes-cvss-10-gemini-cli-ci-rce.html",
+      "published": "Thu, 30 Apr 2026 12:37:00 +0530",
+      "summary": "Google has addressed a maximum severity security flaw in Gemini CLI -- the \"@google/gemini-cli\" npm package and the \"google-github-actions/run-gemini-cli\" GitHub Actions workflow -- that could have allowed attackers to e"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "FBI links cybercriminals to sharp surge in cargo theft attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-links-cybercriminals-to-sharp-surge-in-cargo-theft-attacks/",
+      "published": "Thu, 30 Apr 2026 12:32:18 -0400",
+      "summary": "The U.S. Federal Bureau of Investigation (FBI) warned the transportation and logistics industry of a sharp rise in cyber-enabled cargo theft, with estimated losses in the United States and Canada reaching nearly $725 mil"
+    },
+    {
+      "source": "CISA",
+      "title": "ABB AWIN Gateways",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-120-05",
+      "published": "Thu, 30 Apr 26 12:00:00 +0000",
+      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to remotely reboot the device or complete an unauthenticated query to reveal system configuration, including sensitive details. T"
+    },
+    {
+      "source": "CISA",
+      "title": "ABB Ability OPTIMAX",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-120-04",
+      "published": "Thu, 30 Apr 26 12:00:00 +0000",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to bypass user authentication on OPTIMAX installations that make use of the Azure Active Directory Single-Sign On integration. The f"
+    },
+    {
+      "source": "CISA",
+      "title": "ABB PCM600",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-120-02",
+      "published": "Thu, 30 Apr 26 12:00:00 +0000",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to send specially crafted messages to the system node resulting in execution of arbitrary code. The following versions of ABB PCM600"
+    },
+    {
+      "source": "CISA",
+      "title": "ABB Edgenius Management Portal",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-120-03",
+      "published": "Thu, 30 Apr 26 12:00:00 +0000",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to send a specially crafted message to the system node allowing the attacker to install and run arbitrary code, uninstall applicatio"
+    },
+    {
+      "source": "CISA",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/04/30/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "published": "Thu, 30 Apr 26 12:00:00 +0000",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-41940 WebPros cPanel & WHM and WP2 (WordPress Squared) Missing Authentication"
+    },
+    {
+      "source": "CISA",
+      "title": "ABB Ability Symphony Plus Engineering",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-120-06",
+      "published": "Thu, 30 Apr 26 12:00:00 +0000",
+      "summary": "View CSAF Summary ABB became aware of vulnerability in the products versions listed as affected in the advisory. The ABB S+ Engineering product versions are affected by vulnerabilities in PostgreSQL version 13.11 and ear"
+    }
+  ],
+  "errors": []
+}
