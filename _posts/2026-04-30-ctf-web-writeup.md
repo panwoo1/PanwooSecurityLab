@@ -5,8 +5,6 @@ categories: [CTF, Web Security]
 tags: [CTF, Web, SSRF, PDF, PyMuPDF, Timing Attack, robots.txt, HTTP Header, Mongoose, Flask]
 ---
 
-원문 PDF 자료: [CTF Offline All-in-One Guide]({{ '/assets/files/ctf_offline_all_in_one_guide.pdf' | relative_url }})
-
 이번 글은 여러 웹 CTF 문제를 풀면서 정리한 풀이 과정과 기법을 한 번에 묶은 기록이다.  
 단순히 “어떤 페이로드를 넣었더니 풀렸다”가 아니라, 실제 풀이 중에 어떤 가설을 세웠고, 어떤 반응을 보고 방향을 바꿨는지 중심으로 정리했다.
 
