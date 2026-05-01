@@ -2,7 +2,7 @@ locale: ko-KR
 title: Dev & Hack
 description: "Chanwoo Lim's development and security notes."
 url: "https://panwoo1.github.io"
-baseurl: ""
+baseurl: "/PanwooSecurityLab"
 words_per_minute: 200
 timezone: Asia/Seoul
 
