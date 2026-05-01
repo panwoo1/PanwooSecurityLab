@@ -252,23 +252,27 @@ input {
   font-weight: 820;
 }
 
-.launcher-form {
+.launcher-form,
+.hosted-proxy-form {
   display: grid;
   gap: 12px;
 }
 
-.launcher-form label {
+.launcher-form label,
+.hosted-proxy-form label {
   display: grid;
   gap: 6px;
 }
 
-.launcher-form label span {
+.launcher-form label span,
+.hosted-proxy-form label span {
   color: var(--muted);
   font-size: 12px;
   font-weight: 820;
 }
 
-.launcher-form input {
+.launcher-form input,
+.hosted-proxy-form input {
   width: 100%;
   min-height: 46px;
   padding: 0 14px;
@@ -279,7 +283,8 @@ input {
   outline: none;
 }
 
-.launcher-form input:focus {
+.launcher-form input:focus,
+.hosted-proxy-form input:focus {
   background: #ffffff;
   border-color: rgb(15 118 110 / 45%);
   box-shadow: 0 0 0 4px rgb(15 118 110 / 12%);
@@ -327,8 +332,9 @@ input {
 
 .tool-grid {
   display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
+  grid-template-columns: 1fr;
   gap: 12px;
+  margin-top: 18px;
 }
 
 .tool-card {

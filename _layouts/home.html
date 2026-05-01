@@ -28,7 +28,7 @@ layout: default
   </article>
   <article class="metric-card">
     <span>Proxy</span>
-    <strong>Local</strong>
+    <strong>Node</strong>
   </article>
 </section>
 
@@ -39,7 +39,7 @@ layout: default
         <span class="panel-label">CTF</span>
         <h2>Target Launcher</h2>
       </div>
-      <span class="status-pill">DreamHack :5000</span>
+      <span class="status-pill">local or hosted</span>
     </div>
     <form class="launcher-form" data-proxy-launcher>
       <label>
@@ -55,16 +55,26 @@ layout: default
       <span>Local DreamHack proxy</span>
       <strong>127.0.0.1:5000</strong>
     </div>
-    <p class="panel-hint">Run <code>npm run proxy:dreamhack</code>, then open the local proxy shortcut.</p>
+    <p class="panel-hint">Run <code>npm run proxy:dreamhack</code>, or deploy the proxy server to Replit/Render/Fly and open the hosted endpoint below.</p>
   </section>
 
   <section class="dashboard-panel">
     <div class="panel-heading">
       <div>
-        <span class="panel-label">Shortcuts</span>
-        <h2>Toolbox</h2>
+        <span class="panel-label">Proxy Access</span>
+        <h2>Connection</h2>
       </div>
     </div>
+    <form class="hosted-proxy-form" data-hosted-proxy-form>
+      <label>
+        <span>Hosted proxy URL</span>
+        <input type="url" name="proxyUrl" placeholder="https://your-proxy.replit.app" autocomplete="off">
+      </label>
+      <div class="launcher-actions">
+        <button class="button primary" type="submit">Open hosted</button>
+        <button class="button" type="button" data-save-proxy-url>Save URL</button>
+      </div>
+    </form>
     <div class="tool-grid">
       {% for tool in site.data.dashboard.tools %}
         <a class="tool-card" href="{{ tool.url | relative_url }}">

@@ -2,15 +2,6 @@ tools:
   - title: DreamHack Proxy
     url: http://127.0.0.1:5000
     meta: local proxy :5000
-  - title: Burp Suite
-    url: http://127.0.0.1:8080
-    meta: 127.0.0.1:8080
-  - title: OWASP ZAP
-    url: http://127.0.0.1:8080
-    meta: 127.0.0.1:8080
-  - title: Local CTFd
-    url: http://127.0.0.1:8000
-    meta: localhost:8000
   - title: Notes
     url: /year-archive/
     meta: writeups
