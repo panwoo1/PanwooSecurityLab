@@ -1,8 +1,11 @@
 <header class="site-header">
   <div class="header-inner">
     <a class="site-title" href="{{ '/' | relative_url }}">
-      <span class="site-mark">P</span>
-      <span>{{ site.title }}</span>
+      <span class="site-mark" aria-hidden="true">P</span>
+      <span>
+        {{ site.title }}
+        <small>Security notes</small>
+      </span>
     </a>
     <nav class="site-nav" aria-label="Main navigation">
       {% for item in site.navigation %}

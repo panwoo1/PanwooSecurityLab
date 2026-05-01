@@ -1,10 +1,11 @@
 <div class="post-list">
   {% for post in include.posts %}
-    <article class="post-card">
+    {% assign searchable = post.title | append: ' ' | append: post.categories | append: ' ' | append: post.tags | append: ' ' | append: post.excerpt | strip_html | normalize_whitespace | downcase %}
+    <article class="post-card" data-post-card data-title="{{ post.title | downcase | escape }}" data-categories="{{ post.categories | join: ',' | downcase | escape }}" data-tags="{{ post.tags | join: ',' | downcase | escape }}" data-search="{{ searchable | escape }}">
       <div class="post-meta">
         <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y.%m.%d" }}</time>
         {% if post.categories and post.categories.size > 0 %}
-          <span>{{ post.categories | join: ", " }}</span>
+          <span class="category-dot">{{ post.categories | join: ", " }}</span>
         {% endif %}
       </div>
       <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
@@ -16,7 +17,7 @@
           {% endfor %}
         </div>
       {% endif %}
-      <a class="read-more" href="{{ post.url | relative_url }}">Read post</a>
+      <a class="read-more" href="{{ post.url | relative_url }}" aria-label="{{ post.title }} 읽기">Read post</a>
     </article>
   {% endfor %}
 </div>

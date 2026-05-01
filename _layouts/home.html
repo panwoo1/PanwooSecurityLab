@@ -2,41 +2,65 @@
 layout: default
 ---
 {% assign featured = site.posts | first %}
-<section class="intro">
-  <div class="intro-copy">
+<section class="hero">
+  <div class="hero-main">
     <p class="eyebrow">Security Lab Notes</p>
-    <h1>{{ site.title }}</h1>
+    <h1>개발과 보안을 공부하며 남긴 기록</h1>
     <p>{{ site.description }}</p>
+    <div class="hero-actions">
+      <a class="button primary" href="#posts">글 찾아보기</a>
+      <a class="button" href="{{ '/about/' | relative_url }}">프로필</a>
+    </div>
   </div>
-  {% if featured %}
-    <article class="featured-post">
-      <div class="post-meta">
-        <time datetime="{{ featured.date | date_to_xmlschema }}">{{ featured.date | date: "%Y.%m.%d" }}</time>
-        {% if featured.categories and featured.categories.size > 0 %}
-          <span>{{ featured.categories | join: ", " }}</span>
-        {% endif %}
-      </div>
-      <h2><a href="{{ featured.url | relative_url }}">{{ featured.title }}</a></h2>
-      <p>{{ featured.excerpt | strip_html | normalize_whitespace | truncate: 170 }}</p>
-      <a class="read-more" href="{{ featured.url | relative_url }}">Read featured</a>
-    </article>
-  {% endif %}
+  <div class="hero-panel">
+    <span class="panel-label">Archive</span>
+    <strong>{{ site.posts | size }}</strong>
+    <p>posts across algorithms, web hacking, reversing, and study notes.</p>
+  </div>
 </section>
 
-<div class="home-grid">
-  <section>
-    <div class="section-heading">
-      <h2>Latest Posts</h2>
-      <a href="{{ '/year-archive/' | relative_url }}">All posts</a>
-    </div>
+<section class="control-panel" aria-label="Post filters">
+  <label class="search-box">
+    <span>Search</span>
+    <input data-post-search type="search" placeholder="SQL, reversing, algorithm..." autocomplete="off">
+  </label>
+  <div class="filter-row" aria-label="Category filters">
+    <button class="filter-chip is-active" type="button" data-category-filter="all">All</button>
+    {% for category in site.categories %}
+      <button class="filter-chip" type="button" data-category-filter="{{ category[0] | downcase | escape }}">
+        {{ category[0] }}
+        <span>{{ category[1].size }}</span>
+      </button>
+    {% endfor %}
+  </div>
+</section>
 
-    {% assign latest_count = site.home.latest_count | default: 6 %}
-    {% assign regular_posts = site.posts | slice: 1, latest_count %}
-    {% include post-list.html posts=regular_posts %}
+{% if featured %}
+  <section class="featured-strip">
+    <div>
+      <span class="panel-label">Featured</span>
+      <h2><a href="{{ featured.url | relative_url }}">{{ featured.title }}</a></h2>
+      <p>{{ featured.excerpt | strip_html | normalize_whitespace | truncate: 190 }}</p>
+    </div>
+    <a class="read-more" href="{{ featured.url | relative_url }}">Read featured</a>
+  </section>
+{% endif %}
+
+<div class="content-grid">
+  <section id="posts" class="post-section">
+    <div class="section-heading">
+      <div>
+        <span class="panel-label">Latest</span>
+        <h2>All Posts</h2>
+      </div>
+      <a href="{{ '/year-archive/' | relative_url }}">Archive</a>
+    </div>
+    {% include post-list.html posts=site.posts %}
+    <p class="empty-state" data-empty-state hidden>No posts match your search.</p>
   </section>
 
-  <aside class="home-sidebar">
-    <section class="profile-panel">
+  <aside class="rail" aria-label="Author and shortcuts">
+    <section class="profile-card">
       <img src="{{ site.author.avatar | relative_url }}" alt="{{ site.author.name }}">
       <div>
         <strong>{{ site.author.name }}</strong>
@@ -46,16 +70,11 @@ layout: default
       <a href="https://github.com/{{ site.author.github }}">github.com/{{ site.author.github }}</a>
     </section>
 
-    <section class="topic-panel">
-      <h2>Topics</h2>
-      <div class="topic-list">
-        {% for category in site.categories limit: 10 %}
-          <a href="{{ '/categories/' | relative_url }}#{{ category[0] | slugify }}">
-            <span>{{ category[0] }}</span>
-            <strong>{{ category[1].size }}</strong>
-          </a>
-        {% endfor %}
-      </div>
+    <section class="quick-links">
+      <h2>Quick Links</h2>
+      <a href="{{ '/categories/' | relative_url }}">Browse by category</a>
+      <a href="{{ '/tags/' | relative_url }}">Browse by tag</a>
+      <a href="{{ '/year-archive/' | relative_url }}">Full archive</a>
     </section>
   </aside>
 </div>
