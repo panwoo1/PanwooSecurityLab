@@ -1,11 +1,3 @@
-tools:
-  - title: DreamHack Proxy
-    url: http://127.0.0.1:5000
-    meta: local proxy :5000
-  - title: Notes
-    url: /year-archive/
-    meta: writeups
-
 feeds:
   - name: KISA 보안공지
     url: https://www.boho.or.kr/kr/rss.do?bbsId=B0000133

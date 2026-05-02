@@ -5,6 +5,8 @@ _site/
 Gemfile.lock
 vendor/
 node_modules/
+.next/
+tsconfig.tsbuildinfo
 .env
 __pycache__/
 *.pyc

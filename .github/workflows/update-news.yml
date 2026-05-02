@@ -1,0 +1,36 @@
+name: Update Security News
+
+on:
+  schedule:
+    - cron: "15 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch security news
+        run: python3 scripts/fetch_security_news.py
+
+      - name: Commit updated news
+        run: |
+          if git diff --quiet -- assets/data/security-news.json; then
+            echo "No news changes"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/data/security-news.json
+          git commit -m "Update security news feed"
+          git push

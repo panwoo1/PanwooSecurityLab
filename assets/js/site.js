@@ -62,67 +62,6 @@ function updateClock() {
 updateClock();
 setInterval(updateClock, 30000);
 
-const launcher = document.querySelector("[data-proxy-launcher]");
-const copyCurlButton = document.querySelector("[data-copy-curl]");
-const hostedProxyForm = document.querySelector("[data-hosted-proxy-form]");
-const saveProxyButton = document.querySelector("[data-save-proxy-url]");
-
-function currentTarget() {
-  const value = launcher?.elements.target.value.trim() || "";
-  if (!value) return "";
-  try {
-    return new URL(value).toString();
-  } catch {
-    return "";
-  }
-}
-
-launcher?.addEventListener("submit", (event) => {
-  event.preventDefault();
-  const target = currentTarget();
-  if (target) window.open(target, "_blank", "noopener");
-});
-
-copyCurlButton?.addEventListener("click", async () => {
-  const target = currentTarget();
-  if (!target) return;
-  const command = `curl -x http://127.0.0.1:8080 -k -i ${JSON.stringify(target)}`;
-  await navigator.clipboard?.writeText(command);
-  copyCurlButton.textContent = "Copied";
-  setTimeout(() => {
-    copyCurlButton.textContent = "Copy curl";
-  }, 1400);
-});
-
-function validUrl(value) {
-  try {
-    return new URL(value).toString();
-  } catch {
-    return "";
-  }
-}
-
-const savedProxyUrl = localStorage.getItem("panwoo.hostedProxyUrl");
-if (hostedProxyForm?.elements.proxyUrl && savedProxyUrl) {
-  hostedProxyForm.elements.proxyUrl.value = savedProxyUrl;
-}
-
-hostedProxyForm?.addEventListener("submit", (event) => {
-  event.preventDefault();
-  const proxyUrl = validUrl(hostedProxyForm.elements.proxyUrl.value.trim());
-  if (proxyUrl) window.open(proxyUrl, "_blank", "noopener");
-});
-
-saveProxyButton?.addEventListener("click", () => {
-  const proxyUrl = validUrl(hostedProxyForm?.elements.proxyUrl.value.trim() || "");
-  if (!proxyUrl) return;
-  localStorage.setItem("panwoo.hostedProxyUrl", proxyUrl);
-  saveProxyButton.textContent = "Saved";
-  setTimeout(() => {
-    saveProxyButton.textContent = "Save URL";
-  }, 1400);
-});
-
 const newsList = document.querySelector("[data-news-list]");
 
 function formatPublished(value) {
