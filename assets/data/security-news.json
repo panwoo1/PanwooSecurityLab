@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-02T13:45:48.261422+00:00",
+  "generated_at": "2026-05-02T19:16:05.763561+00:00",
   "items": [
     {
       "source": "보안뉴스",
@@ -412,6 +412,16 @@
       "summary": "Cybersecurity company Trellix has announced that it suffered a breach that enabled unauthorized access to a \"portion\" of its source code. It said it \"recently identified\" the compromise of its source code repository and "
     },
     {
+      "source": "BleepingComputer",
+      "region": "global",
+      "slug": "598778c616e2",
+      "title": "ConsentFix v3 attacks target Azure with automated OAuth abuse",
+      "url": "https://www.bleepingcomputer.com/news/security/consentfix-v3-attacks-target-azure-with-automated-oauth-abuse/",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Fconsentfix-v3-attacks-target-azure-with-automated-oauth-abuse%2F",
+      "published": "Sat, 02 May 2026 10:32:25 -0400",
+      "summary": "A new attack type, dubbed ConsentFix v3, has been circulating on hacker forums, building on the previous technique by adding automation and scaling potential. [...]"
+    },
+    {
       "source": "The Hacker News",
       "region": "global",
       "slug": "c964fa83825e",
@@ -590,16 +600,6 @@
       "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F04%2Fpytorch-lightning-compromised-in-pypi.html",
       "published": "Thu, 30 Apr 2026 22:01:00 +0530",
       "summary": "In yet another software supply chain attack, threat actors have managed to compromise the popular Python package Lightning to push two malicious versions to conduct credential theft. According to Aikido Security, OX Secu"
-    },
-    {
-      "source": "The Hacker News",
-      "region": "global",
-      "slug": "2cb115c84d54",
-      "title": "ThreatsDay Bulletin: SMS Blaster Busts, OpenEMR Flaws, 600K Roblox Hacks and 25 More Stories",
-      "url": "https://thehackernews.com/2026/04/threatsday-bulletin-sms-blaster-busts.html",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F04%2Fthreatsday-bulletin-sms-blaster-busts.html",
-      "published": "Thu, 30 Apr 2026 19:25:00 +0530",
-      "summary": "The internet is noisy this week. We are seeing some wild new tactics, like people using fake cell towers to send scam texts, while some developers are accidentally downloading tools that peek into their private files dur"
     }
   ],
   "errors": []
