@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-03T13:46:37.175610+00:00",
+  "generated_at": "2026-05-03T19:16:08.369167+00:00",
   "items": [
     {
       "source": "보안뉴스",
@@ -402,6 +402,16 @@
       "summary": ""
     },
     {
+      "source": "BleepingComputer",
+      "region": "global",
+      "slug": "f8a96b7cb0a6",
+      "title": "Microsoft Defender wrongly flags DigiCert certs as Trojan:Win32/Cerdigent.A!dha",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-defender-wrongly-flags-digicert-certs-as-trojan-win32-cerdigentadha/",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Fmicrosoft-defender-wrongly-flags-digicert-certs-as-trojan-win32-cerdigentadha%2F",
+      "published": "Sun, 03 May 2026 14:11:25 -0400",
+      "summary": "Microsoft Defender is detecting legitimate DigiCert root certificates as Trojan:Win32/Cerdigent.A!dha, resulting in widespread false-positive alerts, and in some cases, removing certificates from Windows. [...]"
+    },
+    {
       "source": "The Hacker News",
       "region": "global",
       "slug": "12c77eec7a30",
@@ -410,6 +420,16 @@
       "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Fcisa-adds-actively-exploited-linux-root.html",
       "published": "Sun, 03 May 2026 11:56:00 +0530",
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a recently disclosed security flaw impacting various Linux distributions to its Known Exploited Vulnerabilities (KEV) catalog, citing evide"
+    },
+    {
+      "source": "BleepingComputer",
+      "region": "global",
+      "slug": "25dc67657c4d",
+      "title": "Telegram Mini Apps abused for crypto scams, Android malware delivery",
+      "url": "https://www.bleepingcomputer.com/news/security/telegram-mini-apps-abused-for-crypto-scams-android-malware-delivery/",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Ftelegram-mini-apps-abused-for-crypto-scams-android-malware-delivery%2F",
+      "published": "Sun, 03 May 2026 10:11:21 -0400",
+      "summary": "Cybersecurity researchers have uncovered a large-scale fraud operation that uses Telegram's Mini App feature to run crypto scams, impersonate well-known brands, and distribute Android malware. [...]"
     },
     {
       "source": "BleepingComputer",
@@ -580,26 +600,6 @@
       "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fmicrosoft%2Fmicrosoft-fixes-remote-desktop-warnings-displaying-incorrectly%2F",
       "published": "Fri, 01 May 2026 08:46:48 -0400",
       "summary": "Microsoft has fixed a known issue causing newly introduced Windows security warnings to display incorrectly when opening Remote Desktop (.rdp) files. [...]"
-    },
-    {
-      "source": "BleepingComputer",
-      "region": "global",
-      "slug": "4d32c916863a",
-      "title": "Microsoft now lets admins choose pre-installed Store apps to uninstall",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-lets-admins-choose-pre-installed-store-apps-to-uninstall/",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fmicrosoft%2Fmicrosoft-now-lets-admins-choose-pre-installed-store-apps-to-uninstall%2F",
-      "published": "Fri, 01 May 2026 07:10:07 -0400",
-      "summary": "Microsoft has updated a Windows 11 in-box app removal policy introduced in October to include a dynamic list that lets IT admins choose which preinstalled Store apps to uninstall. [...]"
-    },
-    {
-      "source": "BleepingComputer",
-      "region": "global",
-      "slug": "f515b1cad25a",
-      "title": "Windows 11 KB5083631 update released with 34 changes and fixes",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5083631-update-released-with-34-changes-and-fixes/",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fmicrosoft%2Fwindows-11-kb5083631-update-released-with-34-changes-and-fixes%2F",
-      "published": "Fri, 01 May 2026 06:00:53 -0400",
-      "summary": "Microsoft has released the KB5083631 optional cumulative update for Windows 11, which includes 34 changes, such as a new Xbox mode for Windows PCs, enhanced security and performance for batch files, and performance impro"
     }
   ],
   "errors": []
