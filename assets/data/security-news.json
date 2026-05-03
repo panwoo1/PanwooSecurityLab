@@ -1,6 +1,46 @@
 {
-  "generated_at": "2026-05-03T08:15:14.218045+00:00",
+  "generated_at": "2026-05-03T13:46:37.175610+00:00",
   "items": [
+    {
+      "source": "보안뉴스",
+      "region": "domestic",
+      "slug": "17600f19a241",
+      "title": "[2026 SIEM 솔루션 리포트] SIEM, 지능형 보안 통합 관제 시스템으로 진화하다",
+      "url": "http://www.boannews.com/media/view.asp?idx=143395&kind=&sub_kind=",
+      "translateUrl": "",
+      "published": "Sun, 3 May 2026 22:18:00 +0900",
+      "summary": "보안 정보 관리와 보안 이벤트 관리의 만남... 로그 분석 넘어 데이터 플랫폼으로 발전[설문조사] SIEM 운용을 위한 연간 운용비용 ‘1000~3000만원’이 가장 많아SIEM 솔루션 전문기업 집중분석: 로그프레소, 쿼리시스템즈[보안뉴스 원병철 기자] 최근 국내·외에서 발생한 주요 보안 사고에서 공통으로 꼽히는 보안 솔루션이 있다. 바로 SIEM(Secu"
+    },
+    {
+      "source": "보안뉴스",
+      "region": "domestic",
+      "slug": "3e3867afe412",
+      "title": "[해킹을 결제하시겠습니까?] #2.결제한 적 없는 카드 결제 문자가 왔다면?",
+      "url": "http://www.boannews.com/media/view.asp?idx=143380&kind=&sub_kind=",
+      "translateUrl": "",
+      "published": "Sun, 3 May 2026 21:56:00 +0900",
+      "summary": "정상 승인 문자로 위장한 카드 결제 문자 피싱 확산발신번호·링크·승인정보·공식 앱 확인 중심의 사전 점검 필요검색 광고형 피싱 주의와 카드사 공식 확인 경로 점검 중요[보안뉴스 강초희 기자] 인터넷뱅킹과 온라인 쇼핑, 결제가 일상화되면서 피싱과 사기 수법도 더 교묘해지고 있다. 특히 최근에는 정상 서비스와 구분이 어려워 사용자가 평소처럼 이용하는 과정에서"
+    },
+    {
+      "source": "보안뉴스",
+      "region": "domestic",
+      "slug": "654457216559",
+      "title": "[속담으로 배우는 100가지 보안 습관-8] 꺼진 불도 다시 보자(8)-공용 PC 로그인, 절대 하면 안 되는 이유",
+      "url": "http://www.boannews.com/media/view.asp?idx=143039&kind=&sub_kind=",
+      "translateUrl": "",
+      "published": "Sun, 3 May 2026 21:53:00 +0900",
+      "summary": "카페 등 공용 PC에서 금융 거래나 로그인을 하지 마세요[보안뉴스 박미영 기자] 공용장치가 악성 코드에 노출되거나 남은 쿠키·자동로그인 정보로 계정이 탈취될 위험이 크기 때문에, 카페 등 공용 PC에서 금융 거래나 로그인을 하지 말아야 한다. 급히 이용해야 한다면 공인인증서·보안카드·비밀번호를 인터넷에 저장하지 말고, OTP·보안토큰 등 이중인증을 쓰며,"
+    },
+    {
+      "source": "보안뉴스",
+      "region": "domestic",
+      "slug": "c3aa56b033c0",
+      "title": "검색한 카카오톡 설치 페이지, 알고보니 피싱... “국가 배후 해킹 의심”",
+      "url": "http://www.boannews.com/media/view.asp?idx=143468&kind=&sub_kind=",
+      "translateUrl": "",
+      "published": "Sun, 3 May 2026 18:42:00 +0900",
+      "summary": "[보안뉴스 강현주 기자] 검색 결과 상단에 공식 노출된 ‘카카오톡’ 설치 페이지를 통해 560건의 악성코드가 다운로드된 것으로 나타났다. 3일 한국인터넷진흥원(KISA)는 국가 배후로 의심되는 미상의 해킹 조직이 카카오톡 공식 다운로드 페이지를 사칭한 피싱 사이트를 제작해 유포했다고 밝혔다. 이용자들이 구글과 빙 등 검색 엔진에서 ‘카카오톡 PC 버전’을"
+    },
     {
       "source": "보안뉴스",
       "region": "domestic",
@@ -60,46 +100,6 @@
       "translateUrl": "",
       "published": "Sat, 2 May 2026 09:37:00 +0900",
       "summary": "[보안뉴스 김형근 기자] 깃허브(GitHub)의 내부 자산 관리 인프라에서 수백만 개의 비공개 저장소를 무자비하게 탈취할 수 있는 치명적 RCE 취약점(CVE-2026-3854)이 발견됐다. 이번 결함은 보안기업 위즈(Wiz) 연구진이 AI 도구를 활용해 폐쇄형 소스인 이진(Binary) 파일을 정밀히 분석하는 과정에서 그 민낯을 드러냈다.원인은 내부 프록"
-    },
-    {
-      "source": "보안뉴스",
-      "region": "domestic",
-      "slug": "9b50efa5e98a",
-      "title": "AI 사이버전 시대 국가 안보 전략은?... ‘이란 전쟁의 사이버·AI戰 양상과 한국’ 컨퍼런스",
-      "url": "http://www.boannews.com/media/view.asp?idx=143462&kind=&sub_kind=",
-      "translateUrl": "",
-      "published": "Sat, 2 May 2026 09:09:00 +0900",
-      "summary": "한국사이버안보학회·김건 의원실·김영배 의원실 공동 개최[보안뉴스 강현주 기자] 이란전으로 더욱 부각된 AI 기반 사이버전의 현황과 미래를 분석하고 이에 따른 국가 안보 전략을 모색하는 자리가 마련된다. 한국사이버안보학회(회장 손기욱)는 김건 의원실(국민의힘), 김영배 의원실(더불어민주당)과 공동으로 5월 18일 국회의원회관 제6간담회실에서 ‘이란 전쟁의 사"
-    },
-    {
-      "source": "보안뉴스",
-      "region": "domestic",
-      "slug": "d16595f325aa",
-      "title": "[부고] 김은영 LIG D&A 연구소장 부친상",
-      "url": "http://www.boannews.com/media/view.asp?idx=143461&kind=&sub_kind=",
-      "translateUrl": "",
-      "published": "Fri, 1 May 2026 17:20:00 +0900",
-      "summary": "△내용: 김은영 LIG D&A 연구소장 부친상△고인: 故 김용세님 (향년 81세)△빈소: 대전 유성선병원장례식장 1호실 △발인: 2026년 5월 3일 09시△장지: 대전 추모공원[강현주 기자(jjoo@boannews.com)]"
-    },
-    {
-      "source": "보안뉴스",
-      "region": "domestic",
-      "slug": "93b95e5f26b0",
-      "title": "리눅스 커널 초고위험 취약점, 티오리 AI 솔루션 ‘진트 코드’가 찾았다",
-      "url": "http://www.boannews.com/media/view.asp?idx=143460&kind=&sub_kind=",
-      "translateUrl": "",
-      "published": "Fri, 1 May 2026 16:25:00 +0900",
-      "summary": "2017년 이후 모든 리눅스 배포판에서 100% 확률로 해킹 가능한 논리적 결함... 즉각 패치 권고티오리 자체 개발 AI 기반 코드 분석 솔루션 ‘진트 코드’(Xint Code)가 1시간 만에 발견[보안뉴스 한세희 기자] 티오리(대표 박세준)가 리눅스(Linux) 운영체제에서 시스템 권한을 100% 탈취할 수 있는 초고위험 보안 취약점을 발견했다.이번에"
-    },
-    {
-      "source": "보안뉴스",
-      "region": "domestic",
-      "slug": "6e60210be1c1",
-      "title": "[2026 ITS 제품 & 솔루션 리포트] ITS, AI·센서 융합으로 여는 교통혁신의 미래",
-      "url": "http://www.boannews.com/media/view.asp?idx=143406&kind=&sub_kind=",
-      "translateUrl": "",
-      "published": "Fri, 1 May 2026 07:36:00 +0900",
-      "summary": "ITS, 단속에서 예방형 안전관리로 진화AI 기반 교통단속, 국민 안전과 글로벌 경쟁력 강화[보안뉴스 엄호식 기자] 우리나라의 지능형 교통 체계(ITS)는 교통정보 제공에서 자율주행 지원까지 지난 30년간 꾸준히 진화해 왔다. 최근에는 CCTV와 LiDAR, AI 영상분석 등 다양한 센서와 기술이 교통단속 시장에 접목되며, 단순 적발을 넘어 실시간 흐름 분"
     },
     {
       "source": "KISA 보안공지",
