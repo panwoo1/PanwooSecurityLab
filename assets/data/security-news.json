@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-04T08:41:55.277837+00:00",
+  "generated_at": "2026-05-04T14:28:52.404582+00:00",
   "items": [
     {
       "source": "보안뉴스",
@@ -404,12 +404,92 @@
     {
       "source": "The Hacker News",
       "region": "global",
+      "slug": "86ea4b30666e",
+      "title": "2026: The Year of AI-Assisted Attacks",
+      "url": "https://thehackernews.com/2026/05/2026-year-of-ai-assisted-attacks.html",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2F2026-year-of-ai-assisted-attacks.html",
+      "published": "Mon, 04 May 2026 17:28:00 +0530",
+      "summary": "On December 4, 2025, a 17-year-old was arrested in Osaka under Japan’s Unauthorized Access Prohibition Act. The young man had run malicious code to extract the personal data of over 7 million users of Kaikatsu Club, Japa"
+    },
+    {
+      "source": "The Hacker News",
+      "region": "global",
+      "slug": "57006dbae346",
+      "title": "Silver Fox Deploys ABCDoor Malware via Tax-Themed Phishing in India and Russia",
+      "url": "https://thehackernews.com/2026/05/silver-fox-deploys-abcdoor-malware-via.html",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Fsilver-fox-deploys-abcdoor-malware-via.html",
+      "published": "Mon, 04 May 2026 17:27:00 +0530",
+      "summary": "The China-based cybercrime group known as Silver Fox has been linked to a new campaign targeting organizations in Russia and India with a new malware called ABCDoor. The activity involved using phishing emails that mimic"
+    },
+    {
+      "source": "The Hacker News",
+      "region": "global",
+      "slug": "7775e1d32ffc",
+      "title": "Critical cPanel Vulnerability Weaponized to Target Government and MSP Networks",
+      "url": "https://thehackernews.com/2026/05/critical-cpanel-vulnerability.html",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Fcritical-cpanel-vulnerability.html",
+      "published": "Mon, 04 May 2026 14:57:00 +0530",
+      "summary": "A previously unknown threat actor has been observed targeting government and military entities in Southeast Asia, alongside a smaller cluster of managed service providers (MSPs) and hosting providers in the Philippines, "
+    },
+    {
+      "source": "The Hacker News",
+      "region": "global",
       "slug": "01d5fc440eeb",
       "title": "Global Crackdown Arrests 276, Shuts 9 Crypto Scam Centers, Seizes $701M",
       "url": "https://thehackernews.com/2026/05/global-crackdown-arrests-276-shuts-9.html",
       "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Fglobal-crackdown-arrests-276-shuts-9.html",
       "published": "Mon, 04 May 2026 11:29:00 +0530",
       "summary": "A coordinated international operation involving U.S. and Chinese authorities has arrested at least 276 suspects and shut down nine scam centers used for cryptocurrency investment fraud schemes targeting Americans, result"
+    },
+    {
+      "source": "BleepingComputer",
+      "region": "global",
+      "slug": "d48ed78f2c8b",
+      "title": "They don’t hack, they borrow: How fraudsters target credit unions",
+      "url": "https://www.bleepingcomputer.com/news/security/they-dont-hack-they-borrow-how-fraudsters-target-credit-unions/",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Fthey-dont-hack-they-borrow-how-fraudsters-target-credit-unions%2F",
+      "published": "Mon, 04 May 2026 09:42:51 -0400",
+      "summary": "Fraudsters aren't hacking credit unions, they are exploiting normal business processes. Flare reveals how structured loan fraud methods use stolen identities to pass verification and secure funds. [...]"
+    },
+    {
+      "source": "BleepingComputer",
+      "region": "global",
+      "slug": "52b8385565ee",
+      "title": "Progress warns of critical MOVEit Automation auth bypass flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/moveit-automation-customers-warned-to-patch-critical-auth-bypass-flaw/",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Fmoveit-automation-customers-warned-to-patch-critical-auth-bypass-flaw%2F",
+      "published": "Mon, 04 May 2026 08:18:57 -0400",
+      "summary": "Progress Software warned customers to patch a critical authentication bypass vulnerability in its MOVEit Automation enterprise-grade managed file transfer (MFT) application. [...]"
+    },
+    {
+      "source": "BleepingComputer",
+      "region": "global",
+      "slug": "deb3f18327e8",
+      "title": "Webinar: Why MSPs must rethink security and backup strategies",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-why-msps-must-rethink-security-and-backup-strategies/",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Fwebinar-why-msps-must-rethink-security-and-backup-strategies%2F",
+      "published": "Mon, 04 May 2026 08:16:24 -0400",
+      "summary": "Security breaches don't just test your defenses—they test your recovery. Join Kaseya in our upcoming webinar to learn how MSPs strengthen resilience with SaaS backups and BCDR to stay operational after attacks. [...]"
+    },
+    {
+      "source": "BleepingComputer",
+      "region": "global",
+      "slug": "b03489e5cbcf",
+      "title": "CISA says ‘Copy Fail’ flaw now exploited to root Linux systems",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-says-copy-fail-flaw-now-exploited-to-root-linux-systems/",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Fcisa-says-copy-fail-flaw-now-exploited-to-root-linux-systems%2F",
+      "published": "Mon, 04 May 2026 07:28:15 -0400",
+      "summary": "CISA has warned that threat actors have started exploiting the \"Copy Fail\" Linux security vulnerability in the wild, one day after Theori researchers disclosed it and shared a proof-of-concept (PoC) exploit. [...]"
+    },
+    {
+      "source": "BleepingComputer",
+      "region": "global",
+      "slug": "68384e76c976",
+      "title": "Microsoft confirms April Windows updates cause backup failures",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-backup-failures-caused-by-vulnerable-driver-block/",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fmicrosoft%2Fmicrosoft-confirms-backup-failures-caused-by-vulnerable-driver-block%2F",
+      "published": "Mon, 04 May 2026 06:40:11 -0400",
+      "summary": "Microsoft has confirmed that the April 2026 security updates are causing failures in third-party backup applications using the psmounterex.sys driver. [...]"
     },
     {
       "source": "BleepingComputer",
@@ -492,16 +572,6 @@
       "summary": "A newly discovered Vietnamese-linked operation has been observed using a Google AppSheet as a \"phishing relay\" to distribute phishing emails with an aim to compromise Facebook accounts. The activity has been codenamed Ac"
     },
     {
-      "source": "BleepingComputer",
-      "region": "global",
-      "slug": "5db4b74126f5",
-      "title": "Microsoft tests modern Windows Run, says it's faster than legacy dialog",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-modern-windows-run-says-its-faster-than-legacy-dialog/",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fmicrosoft%2Fmicrosoft-tests-modern-windows-run-says-its-faster-than-legacy-dialog%2F",
-      "published": "Fri, 01 May 2026 20:18:05 -0400",
-      "summary": "Microsoft has confirmed that Windows 11 is getting a new modern Run dialog with dark mode support and faster performance in a new preview build. [...]"
-    },
-    {
       "source": "The Hacker News",
       "region": "global",
       "slug": "40a5d9dea62a",
@@ -510,16 +580,6 @@
       "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Fcybercrime-groups-using-vishing-and-sso.html",
       "published": "Fri, 01 May 2026 19:56:00 +0530",
       "summary": "Cybersecurity researchers are warning of two cybercrime groups that are carrying out \"rapid, high-impact attacks\" operating almost within the confines of SaaS environments, while leaving minimal traces of their actions. "
-    },
-    {
-      "source": "BleepingComputer",
-      "region": "global",
-      "slug": "a5e6c5f39ca3",
-      "title": "Edu tech firm Instructure discloses cyber incident, probes impact",
-      "url": "https://www.bleepingcomputer.com/news/security/edu-tech-firm-instructure-discloses-cyber-incident-probes-impact/",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Fedu-tech-firm-instructure-discloses-cyber-incident-probes-impact%2F",
-      "published": "Fri, 01 May 2026 19:43:35 -0400",
-      "summary": "Instructure, the company behind the widely used Canvas learning platform, has disclosed that it recently suffered a cybersecurity incident and is now investigating its impact. [...]"
     },
     {
       "source": "The Hacker News",
@@ -540,66 +600,6 @@
       "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Ftop-five-sales-challenges-costing-msps.html",
       "published": "Fri, 01 May 2026 16:00:00 +0530",
       "summary": "The managed security services market is projected to grow from $38.31 billion in 2025 to $69.16 billion by 2030[1], with cybersecurity being the fastest-growing sector[2]. Despite this opportunity, many MSPs leave revenu"
-    },
-    {
-      "source": "The Hacker News",
-      "region": "global",
-      "slug": "27199cef802e",
-      "title": "Two Cybersecurity Professionals Get 4-Year Sentences in BlackCat Ransomware Attacks",
-      "url": "https://thehackernews.com/2026/05/two-cybersecurity-professionals-get-4.html",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Ftwo-cybersecurity-professionals-get-4.html",
-      "published": "Fri, 01 May 2026 15:26:00 +0530",
-      "summary": "The U.S. Department of Justice (DoJ) on Thursday announced the sentencing of two cybersecurity professionals to four years each in prison for their role in facilitating BlackCat ransomware attacks in 2023. Ryan Goldberg,"
-    },
-    {
-      "source": "The Hacker News",
-      "region": "global",
-      "slug": "07a7968ae70a",
-      "title": "Poisoned Ruby Gems and Go Modules Exploit CI Pipelines for Credential Theft",
-      "url": "https://thehackernews.com/2026/05/poisoned-ruby-gems-and-go-modules.html",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Fpoisoned-ruby-gems-and-go-modules.html",
-      "published": "Fri, 01 May 2026 15:13:00 +0530",
-      "summary": "A new software supply chain attack campaign has been observed using sleeper packages as a conduit to subsequently push malicious payloads that enabled credential theft, GitHub Actions tampering, and SSH persistence. The "
-    },
-    {
-      "source": "BleepingComputer",
-      "region": "global",
-      "slug": "a389943a374b",
-      "title": "15-year-old detained over French govt agency data breach",
-      "url": "https://www.bleepingcomputer.com/news/security/15-year-old-detained-over-french-govt-agency-data-breach/",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2F15-year-old-detained-over-french-govt-agency-data-breach%2F",
-      "published": "Fri, 01 May 2026 13:52:06 -0400",
-      "summary": "French authorities have detained a 15-year-old suspected of selling data stolen in a cyberattack on France Titres (ANTS), the country's agency for issuing and managing administrative documents. [...]"
-    },
-    {
-      "source": "BleepingComputer",
-      "region": "global",
-      "slug": "9f8998ecdfc4",
-      "title": "Story retracted",
-      "url": "https://www.bleepingcomputer.com/news/security/story-retracted/",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Fstory-retracted%2F",
-      "published": "Fri, 01 May 2026 12:26:28 -0400",
-      "summary": "BleepingComputer initially published a story about a new data breach at Instructure. Shortly after publication, we determined that the information was incorrect and primarily based on outdated details from a prior incide"
-    },
-    {
-      "source": "CISA",
-      "region": "global",
-      "slug": "e3e4b9b232d3",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/05/01/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.cisa.gov%2Fnews-events%2Falerts%2F2026%2F05%2F01%2Fcisa-adds-one-known-exploited-vulnerability-catalog",
-      "published": "Fri, 01 May 26 12:00:00 +0000",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-31431 Linux Kernel Incorrect Resource Transfer Between Spheres Vulnerability "
-    },
-    {
-      "source": "CISA",
-      "region": "global",
-      "slug": "1f2415e7dfad",
-      "title": "Careful Adoption of Agentic AI Services",
-      "url": "https://www.cisa.gov/resources-tools/resources/careful-adoption-agentic-ai-services",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.cisa.gov%2Fresources-tools%2Fresources%2Fcareful-adoption-agentic-ai-services",
-      "published": "Fri, 01 May 26 12:00:00 +0000",
-      "summary": "CISA, in collaboration with the Australian Signals Directorate’s Australian Cyber Security Centre (ASD’s ACSC) and other international and U.S. partners, released guidance for organizations on adopting agentic artificial"
     }
   ],
   "errors": []
