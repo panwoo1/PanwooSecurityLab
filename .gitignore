@@ -12,6 +12,7 @@ __pycache__/
 *.pyc
 
 # Local agent/workspace files
+.agents/
 .codex/
 README_APPLY.md
 
