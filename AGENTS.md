@@ -95,7 +95,7 @@ For every task in this workspace, apply the local agent profiles automatically:
 - Read the selected profile and follow its operating rules.
 - If multiple roles apply, use the smallest useful sequence: master first when planning is needed, coder for implementation, qa for validation, and security for security-sensitive changes.
 - Apply this routing silently unless the user asks which role is being used.
-- Do not spawn runtime sub-agents unless the user explicitly asks for sub-agents, delegation, or parallel agent work.
+- The user has given a standing workspace request to use runtime agents together with Codex work. For each non-trivial task, spawn the relevant runtime agent(s) for the selected local roles and keep their work scoped to useful parallel validation, implementation, review, or handoff. For trivial questions or tasks where spawning would add no useful work, apply the local profile directly and state that no runtime agent was needed.
 
 ## 7. Local Skill Auto-Use
 
