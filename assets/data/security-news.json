@@ -1,105 +1,125 @@
 {
-  "generated_at": "2026-05-05T19:51:18.915433+00:00",
+  "generated_at": "2026-05-06T04:01:30.198177+00:00",
   "items": [
     {
       "source": "보안뉴스",
       "region": "domestic",
-      "slug": "d4a4fbf49134",
-      "title": "불가리아 사이버보안 규제 강화, ‘CCTV·망분리’ 등 보안 인프라 교체 수요 청신호",
-      "url": "http://www.boannews.com/media/view.asp?idx=143478&kind=&sub_kind=",
+      "slug": "228e0bcb15ac",
+      "title": "양자암호통신 기술 실증으로 산업 활용 앞당긴다",
+      "url": "http://www.boannews.com/media/view.asp?idx=143491&kind=&sub_kind=",
       "translateUrl": "",
-      "published": "Tue, 5 May 2026 18:54:00 +0900",
-      "summary": "불가리아 2026년 EU NIS2 지침을 반영한 개정 사이버보안법 발효18개 핵심 산업군으로 규제 대상 확대 및 경영진 책임 강화ICT, CCTV 등 물리 보안과 네트워크 보안 솔루션의 융합 수요 증대 기대[보안뉴스 원병철 기자] 불가리아는 EU의 강화된 네트워크 및 정보 보안 지침인 NIS2(Network and Information Systems 2)를"
+      "published": "Wed, 6 May 2026 12:00:00 +0900",
+      "summary": "과기정통부, 개방형 양자 테스트베드 고도화·확산 사업 공모양자통신기술 상용화 촉진, 국가 간 연결, 차세대 기술 확보 위한 거점 확대[보안뉴스 한세희 기자] 우리나라 개방형 양자 테스트베드를 해외로 확대하고 차세대 기술을 확보하기 위한 지원 사업이 시작된다. 과학기술정보통신부(부총리 겸 장관 배경훈’)는 6일 ‘개방형 양자 테스트베드 고도화·확산 사업’ 공"
     },
     {
       "source": "보안뉴스",
       "region": "domestic",
-      "slug": "9a5cc07ce0a1",
-      "title": "AI 인재양성 주도할 ‘AI중심대학’ 7개교 선정",
-      "url": "http://www.boannews.com/media/view.asp?idx=143476&kind=&sub_kind=",
+      "slug": "2358971dc46f",
+      "title": "[양자와 보안] 정부, 양자내성암호 실증 확대 나선다... 핵심 기술 개발도 본격 착수",
+      "url": "http://www.boannews.com/media/view.asp?idx=143489&kind=&sub_kind=",
       "translateUrl": "",
-      "published": "Tue, 5 May 2026 12:00:00 +0900",
-      "summary": "기존 SW중심대학에서 AI중심대학으로 전환하는 7개 대학 선정 완료SW중심대학 외 대학을 대상으로 AI중심대학 3개교 선정 예정(6월중)최장 8년간 최대 240억원 지원(연 30억원 규모)[보안뉴스 원병철 기자] 과학기술정보통신부(부총리 겸 과기정통부 장관 배경훈)는 올해 새롭게 추진하는 인공지능(AI)중심대학에 참여할 대학 10개교 중 7개교를 선정했다고"
+      "published": "Wed, 6 May 2026 12:00:00 +0900",
+      "summary": "의료·에너지·행정 넘어 통신·금융·교통·국방·우주까지 시범전환 확대수작업 없는 PQC 자율 전환 기술 등 4대 핵심 기술개발 과제 착수[보안뉴스 한세희 기자] 기업 내 암호자산을 탐지하고 양자내성암호(PQC) 체계로 자동 전환하는 자율 전환 기술이 개발된다. 국가 과학기술 연구망에 대한 PQC 전환 실증 작업이 시작된다. 과학기술정보통신부(부총리 겸 장관"
     },
     {
       "source": "보안뉴스",
       "region": "domestic",
-      "slug": "1376ea32baa0",
-      "title": "아마존의 간편 이메일 서비스 악용하는 피싱 이메일 급증",
-      "url": "http://www.boannews.com/media/view.asp?idx=143477&kind=&sub_kind=",
+      "slug": "507d037d6cf0",
+      "title": "넷앤드, AI로 ISMS·ISMS-P 준비 효율 높이는 기술 특허 등록",
+      "url": "http://www.boannews.com/media/view.asp?idx=143493&kind=&sub_kind=",
       "translateUrl": "",
-      "published": "Tue, 5 May 2026 10:36:00 +0900",
-      "summary": "아마존 SES 악용해 SPF, DKIM, DMARC 프로토콜과 같은 인증 검사 통과공격자들, 오픈소스 ‘TruffleHog’ 유틸리티를 기반으로 구축된 봇 등 자동화된 공격 활용[보안뉴스 원병철 기자] 아마존의 간편 이메일 서비스(SES)를 이용해 보안 필터를 우회하고 평판 기반 차단을 무력화하는 정교한 피싱 이메일을 발송하는 악용 사례가 급증하고 있다."
+      "published": "Wed, 6 May 2026 11:38:00 +0900",
+      "summary": "ISMS·ISMS-P 다단계 자동 적합성 판단’ 특허 등록컨설턴트 주관적 편차 해소 및 증적 자료 분석 시간 단축[보안뉴스 강현주 기자] 통합 접근제어 및 계정관리(IAM) 솔루션 전문 기업 넷앤드(대표 신호철)가 정보보호 관리체계(ISMS·ISMS-P) 인증 대응의 효율성과 정확도를 비약적으로 높일 수 있는 핵심 기술에 대한 특허 등록을 마쳤다고 6일 밝"
     },
     {
       "source": "보안뉴스",
       "region": "domestic",
-      "slug": "1e91b24fa04a",
-      "title": "쿤텍, 공급망 보안 플랫폼 ‘이지즈(AEZIZ) 3.0’ 출시... SBOM 넘어 AI-BOM까지 확장",
-      "url": "http://www.boannews.com/media/view.asp?idx=143475&kind=&sub_kind=",
+      "slug": "bdefc4ade9b8",
+      "title": "그룹아이비(Group-IB), 가트너 매직쿼더런트 최초 ‘사이버 위협 인텔리전스 기술’ 부문 ‘리더’ 선정",
+      "url": "http://www.boannews.com/media/view.asp?idx=143492&kind=&sub_kind=",
       "translateUrl": "",
-      "published": "Tue, 5 May 2026 09:30:00 +0900",
-      "summary": "SW 개발 전 과정 공급망 보안 통합 관리할 오픈소스·바이너리·레파지토리 통합 플랫폼 구현AI-BOM 도입해 AI 공급망 보안 대응 및 공공·국방·금융 검증된 레퍼런스 기반 안정성 확보[보안뉴스 원병철 기자] 융합보안 전문기업 쿤텍(대표 방혁준)이 SBOM 및 AI-BOM(AI 모델 구성 요소 검증) 기반으로 전체 공급망 보안을 통합적으로 관리할 수 있는"
+      "published": "Wed, 6 May 2026 11:37:00 +0900",
+      "summary": "공격자 중심 예측형 위협 인텔리전스 플랫폼으로 피해 입기 전 차단할 수 있는 가시성 제공[보안뉴스 원병철 기자] 디지털 범죄를 조사, 예방 및 대응하기 위한 사이버 보안 기술 분야의 글로벌 선도적 기업인 그룹아이비(Group-IB, 지사장 김기태)는 6일, 2026년 Gartner® 사이버 위협 인텔리전스 기술 Magic Quadrant™에서 ‘리더’(Le"
     },
     {
       "source": "보안뉴스",
       "region": "domestic",
-      "slug": "c3124c63fec6",
-      "title": "복잡한 ‘빛 움직임’을 열쇠로... 기존 보안 한계 극복하는 홀로그램 개발",
-      "url": "http://www.boannews.com/media/view.asp?idx=143474&kind=&sub_kind=",
+      "slug": "bc5165333f6e",
+      "title": "[속담으로 배우는 100가지 보안 습관-9] 꺼진 불도 다시 보자(9)-자리 비울 때 화면 안 잠그면 생기는 일",
+      "url": "http://www.boannews.com/media/view.asp?idx=143040&kind=&sub_kind=",
       "translateUrl": "",
-      "published": "Mon, 4 May 2026 13:35:00 +0900",
-      "summary": "특정 빛 조건에서만 정보 구현되는 ‘벡터 홀로그램’ 구현위조 방지 보안 라벨,· 초고속 통신, AR/VR 등 활용 기대[보안뉴스 한세희 기자] 빛의 움직임을 열쇠처럼 활용해 특정 조건에서만 정보가 드러나는 홀로그램이 개발됐다. 복제가 어려운 보안 라벨이나 초고속 광통신 등 다양한 분야에 활용이 기대된다.KAIST(총장 이광형)는 신종화 신소재공학과 교수"
+      "published": "Wed, 6 May 2026 11:17:00 +0900",
+      "summary": "PC를 켜둔 채 자리를 비울 때는 반드시 화면 잠금(Win+L)을 하세요[보안뉴스 박미영 기자] PC를 켜둔 채 자리를 비울 때는 화면을 잠그는 것이 개인정보·업무자료 노출을 막는 가장 기본적인 방법이다. 화면보호기 비밀번호 설정과 함께 Win+L 단축키로 즉시 잠그는 습관을 들이면, 잠금 전 노출 시간을 줄일 수 있다.PC를 잠그는 방법△즉시 잠그기: W"
     },
     {
       "source": "보안뉴스",
       "region": "domestic",
-      "slug": "d7f7bb2d0789",
-      "title": "백악관의 압박... AI 사이버 위기 앞두고 빅테크에 “보안 대책 내놔라!”",
-      "url": "http://www.boannews.com/media/view.asp?idx=143473&kind=&sub_kind=",
+      "slug": "6229431ca200",
+      "title": "[Global Security TOP 100] 최일환 세환엠에스 대표이사 “설치부터 유지보수까지 ‘원팀 체계’가 핵심 경쟁력”",
+      "url": "http://www.boannews.com/media/view.asp?idx=143360&kind=&sub_kind=",
       "translateUrl": "",
-      "published": "Mon, 4 May 2026 11:22:00 +0900",
-      "summary": "정부, 빅테크 기업에 AI 보안 실태 조사... 민감한 기업 보안 관련 정보도 포함돼 논란[보안뉴스 김형근 기자] 백악관 산하 국가사이버국(ONCD)이 최근 미국 주요 빅테크 기업들을 대상으로 AI 보안 실태를 조사한 것으로 알려졌다. 보안 전문 매체 사이버시큐리티다이브에 따르면, 정부는 기업들이 AI를 활용해 어떻게 네트워크를 보호하고 사이버 위기에 대비"
+      "published": "Wed, 6 May 2026 11:05:00 +0900",
+      "summary": "출입통제 게이트 기반 통합형 물리보안 운영 체계 구축금속 탐지기·액체 폭발물 검사 장비 중심 제품군 확대기술 투자와 제조 경쟁력 강화를 위한 산업 구조 개선 필요[보안뉴스 강초희 기자] 출입통제 게이트를 중심으로 국내 물리보안 시장을 개척해 온 세환엠에스가 통합형 보안 솔루션 기업으로의 확장을 이어가고 있다. 보안 장비 공급에 그치지 않고 설계·시공·유지보"
     },
     {
       "source": "보안뉴스",
       "region": "domestic",
-      "slug": "1e2f512b9c02",
-      "title": "ADT캡스, ‘안전점검의 날’ 연계 안전 예방 활동",
-      "url": "http://www.boannews.com/media/view.asp?idx=143472&kind=&sub_kind=",
+      "slug": "7b2e4850dc2d",
+      "title": "MS 위장한 ‘마이크로스틸러’ 습격... 사회공학적 기만술에 통신·교육분야 비상",
+      "url": "http://www.boannews.com/media/view.asp?idx=143484&kind=&sub_kind=",
       "translateUrl": "",
-      "published": "Mon, 4 May 2026 11:00:00 +0900",
-      "summary": "현장 중심 안전관리 나서VR 기반 체험형 안전 교육 도입... 실제 사고 상황 가정한 현장 대응력 제고[보안뉴스 한세희 기자] SK쉴더스(대표 민기식) 물리보안 브랜드 ADT캡스가 4일 ‘안전점검의 날’을 맞아 현장 중심의 안전 예방 활동을 진행했다고 4일 밝혔다.‘안전점검의 날’은 매월 4일 ‘재난 및 안전관리 기본법’에 따라 시행되는 안전문화 운동으로"
+      "published": "Wed, 6 May 2026 10:51:00 +0900",
+      "summary": "가짜 소프트웨어 설치 프로그램으로 관리자 권한 획득 후 활성 세션 탈취미국과 독일 등 세계 전역서 확산... 기업 내부망 침투 위한 교두보 활용[보안뉴스 김형근 기자] 마이크로소프트(MS)를 사칭해 시스템 권한을 탈취하고 기업의 핵심 정보를 빼가는 신종 악성코드 ‘마이크로스틸러’(MicroStealer)가 세계 통신과 교육 분야를 공격하고 있다.글로벌 보안"
     },
     {
       "source": "보안뉴스",
       "region": "domestic",
-      "slug": "509aca105405",
-      "title": "안랩, 엔드포인트 통합 보안 플랫폼 ‘안랩 EPP’ 중국어 번체 지원… 중화권 공략 가속",
-      "url": "http://www.boannews.com/media/view.asp?idx=143471&kind=&sub_kind=",
+      "slug": "7863af7bab68",
+      "title": "‘재난안전기업 사업화 역량 강화 컨설팅’으로 해외시장 진출 수월하게... 참여기업 공고",
+      "url": "http://www.boannews.com/media/view.asp?idx=143485&kind=&sub_kind=",
       "translateUrl": "",
-      "published": "Mon, 4 May 2026 10:43:00 +0900",
-      "summary": "현지 고객 수요 맞춘 현지화 전략... 글로벌 사업 경쟁력 지속 강화[보안뉴스 한세희 기자] 안랩(대표 강석균)이 중화권 고객의 접근성과 사용 편의성을 높이기 위해 엔드포인트 통합 보안 플랫폼 ‘안랩 EPP’ 지원 언어에 중국어 번체를 추가했다고 4일 밝혔다. 대만 등 중화권 시장에서 안랩 엔드포인트 보안 솔루션 도입 수요가 증가함에 따라, 고객이 다양한"
+      "published": "Wed, 6 May 2026 10:46:00 +0900",
+      "summary": "5월 27일까지 공모 접수... 사업화·해외 인증 분야 1:1 맞춤형 지원제품 고도화·해외 인증·수출 확대 지원으로 재난안전기업 판로 강화[보안뉴스 강초희 기자] 행정안전부(장관 윤호중)는 ‘2026년 재난안전기업 사업화 역량 강화 컨설팅’에 참가할 기업을 5월 27일까지 공모한다.‘재난안전기업 사업화 역량 강화 컨설팅’은 우수한 기술과 제품을 보유하고 있"
     },
     {
       "source": "보안뉴스",
       "region": "domestic",
-      "slug": "cdb71043896d",
-      "title": "공급망 위헙 대비 어려운 이유는 ‘전문 인력 부족’",
-      "url": "http://www.boannews.com/media/view.asp?idx=143470&kind=&sub_kind=",
+      "slug": "555ef62d9833",
+      "title": "[카드뉴스] “눈앞의 트럭이 사라졌다?”… 인지 조작하는 ‘고스트 픽셀’ 해킹의 실체",
+      "url": "http://www.boannews.com/media/view.asp?idx=143487&kind=&sub_kind=",
       "translateUrl": "",
-      "published": "Mon, 4 May 2026 10:34:00 +0900",
-      "summary": "카스퍼스키, 공급망 위험 대응 현황 보고서 발표[보안뉴스 한세희 기자] 공급망 보안 강화를 위한 과제로 전문 인력 양성과 보안 업무 효율 제고를 위한 우선순위 설정 등이 꼽혔다. 4일 카스퍼스키가 발표한 공급망 위험 대응 현황 보고서에 따르면, 최근 1년 간 조사 대상 기업 3곳 중 1곳이 공급망 공격을 당한 경험이 있는 것으로 나타났다. 공급망 위협에"
+      "published": "Wed, 6 May 2026 10:35:00 +0900",
+      "summary": "혼합현실(MR) 기기의 영상 처리 과정(렌더링 파이프라인)에 침투하여 사용자에게 가짜 시각 정보를 전달하거나 실제 위험 요소를 삭제하는 ‘고스트 픽셀’ 공격이 새로운 위협으로 부상했다. 이러한 인지 조작 공격은 스마트 팩토리의 작업 공정이나 정밀 의료 수술 등 고도의 시각 정보가 필요한 현장에서 심각한 신체적 사고와 물리적 피해를 야기할 수 있다. 기술의"
     },
     {
       "source": "보안뉴스",
       "region": "domestic",
-      "slug": "72a9b9cab3ed",
-      "title": "창립 23주년 SGA그룹, AI시대 통합 보안 강화... 창립 23주년 맞아 ‘Security for AI’ 비전 선포",
-      "url": "http://www.boannews.com/media/view.asp?idx=143469&kind=&sub_kind=",
+      "slug": "098f1148adfb",
+      "title": "“취약점 공개 후 공격시간, 4.76일→1일로 대폭 단축”",
+      "url": "http://www.boannews.com/media/view.asp?idx=143486&kind=&sub_kind=",
       "translateUrl": "",
-      "published": "Mon, 4 May 2026 08:53:00 +0900",
-      "summary": "보안·투자·IT인프라 및 솔루션 3축 중심으로 성장 가속AI 3대 강국 시대 대응 위한 ‘Security for AI’ 비전 제시[보안뉴스 한세희 기자] SGA그룹이 창립 23주년을 맞아 AI 중심으로 사업 체계를 탈바꿈한다. 지난해 추진한 사업 재편을 기반으로 본격적 성장을 추진한다는 목표다.SGA그룹은 창립 23주년을 맞아 AI 시대를 겨냥한 신규 성"
+      "published": "Wed, 6 May 2026 10:30:00 +0900",
+      "summary": "AI 공격 도구, 다크웹서 일반 SW처럼 판매랜섬웨어 피해 전년 대비 389% 급증... 제조·서비스·소매업 타격[보안뉴스 강현주 기자] 2025년 한 해동안 취약점 공개 후 평균 공격 시간이 전년 4.76일에서 24시간~48시간으로 대폭 단축됐다. AI 공격 도구가 다크웹에서 일반 소프트웨어처럼 판매되는 등 해킹 진입 장벽이 낮아졌다. 랜섬웨어 피해는 전"
+    },
+    {
+      "source": "KISA 보안공지",
+      "region": "domestic",
+      "slug": "bb75248f8837",
+      "title": "Spring 제품 보안 업데이트 권고",
+      "url": "https://www.boho.or.kr/kr/bbs/view.do?searchCnd=&bbsId=B0000133&searchWrd=&menuNo=205020&pageIndex=1&categoryCode=&nttId=72041",
+      "translateUrl": "",
+      "published": "2026-05-06",
+      "summary": ""
+    },
+    {
+      "source": "KISA 보안공지",
+      "region": "domestic",
+      "slug": "9441c5307785",
+      "title": "Apache 제품 보안 업데이트 권고",
+      "url": "https://www.boho.or.kr/kr/bbs/view.do?searchCnd=&bbsId=B0000133&searchWrd=&menuNo=205020&pageIndex=1&categoryCode=&nttId=72040",
+      "translateUrl": "",
+      "published": "2026-05-06",
+      "summary": ""
     },
     {
       "source": "KISA 보안공지",
@@ -242,26 +262,6 @@
       "summary": "내용. 금융권 대상 피싱, 웹셸, 드로퍼, 백도어, 다운로더, 인포스틸러, 코인마이너 등 다수 악성코드 샘플이 유포된 정황이 확인되었다. 한글 위장 첨부파일명과 HTML/JS 실행 유도 방식이 피싱 전파에 활용된 사례가 다수 관찰되었다. 텔레그램 API를 통한 계정 유출 캠페인이 확인되었으며, 조사기간 내 금융권 계정 유출 비중이 약 4%로 집계되었다. Lazarus 그룹의 워터링홀 공격에서"
     },
     {
-      "source": "KISA 보안공지",
-      "region": "domestic",
-      "slug": "d6a83c88b269",
-      "title": "고유가 피해 지원금 사칭 피싱 주의 권고",
-      "url": "https://www.boho.or.kr/kr/bbs/view.do?searchCnd=&bbsId=B0000133&searchWrd=&menuNo=205020&pageIndex=1&categoryCode=&nttId=72029",
-      "translateUrl": "",
-      "published": "2026-04-16",
-      "summary": ""
-    },
-    {
-      "source": "KISA 보안공지",
-      "region": "domestic",
-      "slug": "be2318d71256",
-      "title": "국내 중소기업 대상 신규 랜섬웨어 범죄 확산에 따른 보안 권고문",
-      "url": "https://www.boho.or.kr/kr/bbs/view.do?searchCnd=&bbsId=B0000133&searchWrd=&menuNo=205020&pageIndex=1&categoryCode=&nttId=72028",
-      "translateUrl": "",
-      "published": "2026-04-16",
-      "summary": ""
-    },
-    {
       "source": "ASEC KR",
       "region": "domestic",
       "slug": "eea7a7fb0f54",
@@ -284,22 +284,22 @@
     {
       "source": "ASEC KR",
       "region": "domestic",
+      "slug": "3d6e8bea65d7",
+      "title": "2026년 1분기 윈도우 웹 서버 대상 악성코드 통계 보고서",
+      "url": "https://asec.ahnlab.com/ko/93332/",
+      "translateUrl": "",
+      "published": "Sun, 12 Apr 2026 15:00:00 +0000",
+      "summary": "내용. AhnLab SEcurity intelligence Center(ASEC)는 AhnLab Smart Defense(ASD) 로그를 기반으로 2026년 1분기 윈도우 웹 서버 대상 공격 현황과 악성코드 통계를 분석했다. 분석 대상은 윈도우 환경의 Internet Information Services(IIS)와 아파치 톰캣 웹 서버이다. 웹쉘을 통한 명령 실행이 주요 침해 경로이며 권한 "
+    },
+    {
+      "source": "ASEC KR",
+      "region": "domestic",
       "slug": "3faa2ecd143e",
       "title": "2026년 3월 다크웹 침해사고 동향 보고서",
       "url": "https://asec.ahnlab.com/ko/93320/",
       "translateUrl": "",
       "published": "Sun, 12 Apr 2026 15:00:00 +0000",
       "summary": "알림 본 보고서는 딥웹·다크웹 포럼에 게시된 데이터 유출 및 초기 접근권 판매 사례를 중심으로 작성되었다. 보고서의 일부 내용은 출처 특성상 사실 여부를 완전히 확인하기 어려운 정보가 포함되어 있다. 주요 이슈 ShinyHunters의 연속적 유출 주장이 다수 관측되었다. 글로벌 기업과 EU 기관을 포함해 Hall, Zen, Wof, Aur, European * 등 광범위한 표적화가 보고되었"
-    },
-    {
-      "source": "ASEC KR",
-      "region": "domestic",
-      "slug": "524312ed62d5",
-      "title": "2026년 3월 다크웹 이슈 동향 보고서",
-      "url": "https://asec.ahnlab.com/ko/93321/",
-      "translateUrl": "",
-      "published": "Sun, 12 Apr 2026 15:00:00 +0000",
-      "summary": "알림 본 보고서는 딥웹 및 다크웹 출처 기반 자료를 요약한 것이며 일부 사실관계는 출처 특성상 완전 확인이 어려운 내용이 포함되어 있다. 주요 이슈 BreachForums 내부 붕괴와 재구축 시도가 관측되었다. 운영자 배신과 자금 이동 정황으로 신뢰가 손상되었으며 다수 클론(.ac, .us 등)과 사칭 도메인 난립으로 이용자 혼선이 심화되었다. BreachForums는 Vect 및 Spear"
     },
     {
       "source": "KISA 취약점정보",
@@ -432,6 +432,16 @@
       "summary": "A sophisticated China-nexus advanced persistent threat (APT) group has been attributed to attacks targeting government entities in South America since at least late 2024 and government agencies in southeastern Europe in "
     },
     {
+      "source": "BleepingComputer",
+      "region": "global",
+      "slug": "b4d56c065233",
+      "title": "New stealthy Quasar Linux malware targets software developers",
+      "url": "https://www.bleepingcomputer.com/news/security/new-stealthy-quasar-linux-malware-targets-software-developers/",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Fnew-stealthy-quasar-linux-malware-targets-software-developers%2F",
+      "published": "Tue, 05 May 2026 18:01:39 -0400",
+      "summary": "A previously undocumented Linux implant named Quasar Linux (QLNX) is targeting developers' systems with a mix of rootkit, backdoor, and credential-stealing capabilities. [...]"
+    },
+    {
       "source": "The Hacker News",
       "region": "global",
       "slug": "0422c4bf71eb",
@@ -450,6 +460,16 @@
       "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Fmetinfo-cms-cve-2026-29014-exploited.html",
       "published": "Tue, 05 May 2026 17:26:00 +0530",
       "summary": "Threat actors are actively exploiting a critical security flaw impacting an open-source content management system (CMS) known as MetInfo, according to new findings from VulnCheck. The vulnerability in question is CVE-202"
+    },
+    {
+      "source": "BleepingComputer",
+      "region": "global",
+      "slug": "d67855837393",
+      "title": "Instructure hacker claims data theft from 8,800 schools, universities",
+      "url": "https://www.bleepingcomputer.com/news/security/instructure-hacker-claims-data-theft-from-8-800-schools-universities/",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Finstructure-hacker-claims-data-theft-from-8-800-schools-universities%2F",
+      "published": "Tue, 05 May 2026 17:20:23 -0400",
+      "summary": "The hacker behind a breach at education technology giant Instructure claims to have stolen 280 million data records for students and staff from 8,809 colleges, school districts, and online education platforms. [...]"
     },
     {
       "source": "The Hacker News",
@@ -580,26 +600,6 @@
       "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Fthe-eol-blind-spot-in-your-cve-feed-what-sca-tools-miss%2F",
       "published": "Tue, 05 May 2026 10:00:10 -0400",
       "summary": "Critical vulnerabilities can exist in open source software your scanners don't check. HeroDevs reveals how EOL software creates blind spots in CVE feeds and SCA tools, and how you can receive a free end-of-life scan for "
-    },
-    {
-      "source": "BleepingComputer",
-      "region": "global",
-      "slug": "1ce97e2f1c45",
-      "title": "Vimeo data breach exposes personal information of 119,000 people",
-      "url": "https://www.bleepingcomputer.com/news/security/vimeo-data-breach-exposes-personal-information-of-119-000-people/",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Fvimeo-data-breach-exposes-personal-information-of-119-000-people%2F",
-      "published": "Tue, 05 May 2026 09:03:46 -0400",
-      "summary": "The ShinyHunters extortion gang stole personal information belonging to over 119,000 people after hacking the Vimeo online video platform in April, according to data breach notification service Have I Been Pwned. [...]"
-    },
-    {
-      "source": "BleepingComputer",
-      "region": "global",
-      "slug": "b41a8a1df029",
-      "title": "Google now offers up to $1.5 million for some Android exploits",
-      "url": "https://www.bleepingcomputer.com/news/security/google-now-offers-up-to-15-million-for-some-android-exploits/",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Fgoogle-now-offers-up-to-15-million-for-some-android-exploits%2F",
-      "published": "Tue, 05 May 2026 07:24:48 -0400",
-      "summary": "Google overhauls its Android and Chrome vulnerability rewards programs, offering bounties of up to $1.5 million for the most difficult exploits while scaling back payouts for flaws that artificial intelligence (AI) has m"
     }
   ],
   "errors": []
