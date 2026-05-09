@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-09T03:53:15.603364+00:00",
+  "generated_at": "2026-05-09T08:08:42.648497+00:00",
   "items": [
     {
       "source": "보안뉴스",
@@ -294,12 +294,12 @@
     {
       "source": "ASEC KR",
       "region": "domestic",
-      "slug": "3faa2ecd143e",
-      "title": "2026년 3월 다크웹 침해사고 동향 보고서",
-      "url": "https://asec.ahnlab.com/ko/93320/",
+      "slug": "3d6e8bea65d7",
+      "title": "2026년 1분기 윈도우 웹 서버 대상 악성코드 통계 보고서",
+      "url": "https://asec.ahnlab.com/ko/93332/",
       "translateUrl": "",
       "published": "Sun, 12 Apr 2026 15:00:00 +0000",
-      "summary": "알림 본 보고서는 딥웹·다크웹 포럼에 게시된 데이터 유출 및 초기 접근권 판매 사례를 중심으로 작성되었다. 보고서의 일부 내용은 출처 특성상 사실 여부를 완전히 확인하기 어려운 정보가 포함되어 있다. 주요 이슈 ShinyHunters의 연속적 유출 주장이 다수 관측되었다. 글로벌 기업과 EU 기관을 포함해 Hall, Zen, Wof, Aur, European * 등 광범위한 표적화가 보고되었"
+      "summary": "내용. AhnLab SEcurity intelligence Center(ASEC)는 AhnLab Smart Defense(ASD) 로그를 기반으로 2026년 1분기 윈도우 웹 서버 대상 공격 현황과 악성코드 통계를 분석했다. 분석 대상은 윈도우 환경의 Internet Information Services(IIS)와 아파치 톰캣 웹 서버이다. 웹쉘을 통한 명령 실행이 주요 침해 경로이며 권한 "
     },
     {
       "source": "KISA 취약점정보",
@@ -400,6 +400,16 @@
       "translateUrl": "",
       "published": "2024-02-23",
       "summary": ""
+    },
+    {
+      "source": "The Hacker News",
+      "region": "global",
+      "slug": "aa67df4b7186",
+      "title": "cPanel, WHM Release Fixes for Three New Vulnerabilities — Patch Now",
+      "url": "https://thehackernews.com/2026/05/cpanel-whm-patch-3-new-vulnerabilities.html",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Fcpanel-whm-patch-3-new-vulnerabilities.html",
+      "published": "Sat, 09 May 2026 12:46:00 +0530",
+      "summary": "cPanel has released updates to address three vulnerabilities in cPanel and Web Host Manager (WHM) that could be exploited to achieve privilege escalation, code execution, and denial-of-service. The list of vulnerabilitie"
     },
     {
       "source": "The Hacker News",
@@ -570,16 +580,6 @@
       "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Fpcpjack-credential-stealer-exploits-5.html",
       "published": "Thu, 07 May 2026 23:15:00 +0530",
       "summary": "Cybersecurity researchers have disclosed details of a new credential theft framework dubbed PCPJack that targets exposed cloud infrastructure and ousts any artifacts linked to TeamPCP from the environments. \"The toolset "
-    },
-    {
-      "source": "The Hacker News",
-      "region": "global",
-      "slug": "f33726726b95",
-      "title": "PAN-OS RCE Exploit Under Active Use Enabling Root Access and Espionage",
-      "url": "https://thehackernews.com/2026/05/pan-os-rce-exploit-under-active-use.html",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Fpan-os-rce-exploit-under-active-use.html",
-      "published": "Thu, 07 May 2026 19:04:00 +0530",
-      "summary": "Palo Alto Networks has disclosed that threat actors may have attempted to unsuccessfully exploit a recently disclosed critical security flaw as early as April 9, 2026. The vulnerability in question is CVE-2026-0300 (CVSS"
     },
     {
       "source": "BleepingComputer",
