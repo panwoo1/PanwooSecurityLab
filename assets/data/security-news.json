@@ -1,6 +1,26 @@
 {
-  "generated_at": "2026-05-10T08:21:15.380256+00:00",
+  "generated_at": "2026-05-10T13:53:18.718256+00:00",
   "items": [
+    {
+      "source": "보안뉴스",
+      "region": "domestic",
+      "slug": "c24e96254d00",
+      "title": "“통제 잃은 AI는 재앙” 글로벌 보안 당국, 자율형 AI 도입 가이드라인 발표",
+      "url": "http://www.boannews.com/media/view.asp?idx=143540&kind=&sub_kind=",
+      "translateUrl": "",
+      "published": "Sun, 10 May 2026 17:35:00 +0900",
+      "summary": "미국 CISA 및 영국 NCSC 등 주도해 자율형 인공지능 오남용 방지 안전장치 마련데이터 탈취 및 시스템 파괴 막기 위한 긴급 정지 기능 의무화 등 세부 지침 공개[보안뉴스 김형근 기자] 미국 사이버보안 및 인프라보안국(CISA)과 영국 국가사이버보안센터(NCSC)를 비롯한 주요국 사이버 보안 기관들이 자율형 인공지능(Agentic AI) 도입을 위한 새"
+    },
+    {
+      "source": "보안뉴스",
+      "region": "domestic",
+      "slug": "9e926005b57e",
+      "title": "[이슈 칼럼] 가정의 달에 제언하는 대한민국 보안의 ‘성인식’",
+      "url": "http://www.boannews.com/media/view.asp?idx=143534&kind=&sub_kind=",
+      "translateUrl": "",
+      "published": "Sun, 10 May 2026 17:35:00 +0900",
+      "summary": "규제의 역설을 넘어, 레질리언스와 자율적 책임의 시대로[보안뉴스= 김정덕 중앙대 산업보안학과 명예교수/인간중심보안포럼 의장] 5월은 가정의 달로서 어린이날(5일)과 성년의 날(18일)이 공존하는 시기입니다. 어린이날이 보호자의 세심한 보살핌과 안전을 기원하는 날이라면, 성년의 날은 사회적 주체로서의 권리와 그에 따르는 무거운 책임을 자각하는 날입니다. 현재"
+    },
     {
       "source": "보안뉴스",
       "region": "domestic",
@@ -80,26 +100,6 @@
       "translateUrl": "",
       "published": "Fri, 8 May 2026 15:58:00 +0900",
       "summary": "지능형 CCTV가 단순한 물리 보안을 넘어 고객의 동선과 체류 시간 등을 분석해 경영 전략을 수립하는 ‘비즈니스 인텔리전스(BI)’ 도구로 진화하고 있다.기업 보안 카메라가 수집하는 영상이 수익 창출을 위한 핵심 ‘데이터 자산’으로 간주되면서, 보안에 대한 인식이 단순 비용 지출에서 가치 투자로 전환되는 추세다. 다만 정밀한 데이터 추출 과정에서 발생할 수"
-    },
-    {
-      "source": "보안뉴스",
-      "region": "domestic",
-      "slug": "b0fc3adeaddc",
-      "title": "과기정통부, 글로벌 AI 보안 파장 정조준... “한국형 특화 모델로 방어”",
-      "url": "http://www.boannews.com/media/view.asp?idx=143531&kind=&sub_kind=",
-      "translateUrl": "",
-      "published": "Fri, 8 May 2026 15:46:00 +0900",
-      "summary": "8일 산학연 간담회 열고 앤트로픽 등 빅테크 보안 프로젝트 파급력 및 대응 논의3만여 개사 CISO 대상 대비 태세 점검 완료 및 인공지능 보안 가이드라인 선제 배포[보안뉴스 조재호 기자] 미국 앤트로픽과 오픈AI 등 빅테크 기업들의 독자적인 보안 프로젝트 전개에 맞서 정부가 대응에 나섰다. 과학기술정보통신부는 국내 3만여 CISO 대상 대비 태세 점검에"
-    },
-    {
-      "source": "보안뉴스",
-      "region": "domestic",
-      "slug": "3597b8521870",
-      "title": "방화벽이 뚫렸다... 팔로알토 PAN-OS, ‘루트 권한’ 내주는 중대 보안 구멍",
-      "url": "http://www.boannews.com/media/view.asp?idx=143530&kind=&sub_kind=",
-      "translateUrl": "",
-      "published": "Fri, 8 May 2026 15:09:00 +0900",
-      "summary": "[보안뉴스 김형근 기자] 팔로알토 네트웍스의 PAN-OS 소프트웨어에서 인증 없이 원격으로 코드를 실행할 수 있는 취약점(CVE-2026-0300)이 발견됐다. 이 결함은 사용자 인증 포털 서비스의 버퍼 오버플로우 취약점으로, 공격자가 특수 제작된 패킷을 보내 루트 권한을 탈취할 수 있게 한다. 보안 위험 점수인 CVSS가 10점 만점에 무려 9.3에 달하"
     },
     {
       "source": "KISA 보안공지",
@@ -402,6 +402,16 @@
       "summary": ""
     },
     {
+      "source": "The Hacker News",
+      "region": "global",
+      "slug": "1b2d8f48a93e",
+      "title": "Ollama Out-of-Bounds Read Vulnerability Allows Remote Process Memory Leak",
+      "url": "https://thehackernews.com/2026/05/ollama-out-of-bounds-read-vulnerability.html",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Follama-out-of-bounds-read-vulnerability.html",
+      "published": "Sun, 10 May 2026 18:11:00 +0530",
+      "summary": "Cybersecurity researchers have disclosed a critical security vulnerability in Ollama that, if successfully exploited, could allow a remote, unauthenticated attacker to leak its entire process memory. The out-of-bounds re"
+    },
+    {
       "source": "BleepingComputer",
       "region": "global",
       "slug": "60a7c6fdc027",
@@ -590,16 +600,6 @@
       "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Fivanti-epmm-cve-2026-6973-rce-under.html",
       "published": "Thu, 07 May 2026 23:25:00 +0530",
       "summary": "Ivanti is warning that a new security flaw impacting Endpoint Manager Mobile (EPMM) has been explored in limited attacks in the wild. The high-severity vulnerability, CVE-2026-6973 (CVSS score: 7.2), is a case of imprope"
-    },
-    {
-      "source": "The Hacker News",
-      "region": "global",
-      "slug": "577f122a38d5",
-      "title": "PCPJack Credential Stealer Exploits 5 CVEs to Spread Worm-Like Across Cloud Systems",
-      "url": "https://thehackernews.com/2026/05/pcpjack-credential-stealer-exploits-5.html",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Fpcpjack-credential-stealer-exploits-5.html",
-      "published": "Thu, 07 May 2026 23:15:00 +0530",
-      "summary": "Cybersecurity researchers have disclosed details of a new credential theft framework dubbed PCPJack that targets exposed cloud infrastructure and ousts any artifacts linked to TeamPCP from the environments. \"The toolset "
     }
   ],
   "errors": []
