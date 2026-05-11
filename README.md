@@ -1,6 +1,5 @@
-# PanwooSecurityLab - Browser-Only Deployment Template
+# PanwooSecurityLab
 
-제한된 네트워크(예: 80/443만 허용)에서도 브라우저 중심으로 운영 가능한 무료 우선 아키텍처 템플릿입니다.
 
 ## 목표
 - GitHub 기반 코드/운영
