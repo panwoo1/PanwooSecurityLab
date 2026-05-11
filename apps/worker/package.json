@@ -5,8 +5,8 @@
   "type": "module",
   "scripts": {
     "dev": "wrangler dev",
-    "build": "WRANGLER_LOG_PATH=/tmp/wrangler.log wrangler deploy src/index.ts --dry-run --name panwoo-worker --compatibility-date 2026-05-09",
-    "deploy": "wrangler deploy"
+    "build": "WRANGLER_LOG_PATH=/tmp/wrangler.log wrangler deploy src/index.ts --dry-run --name panwoo-security-lab --compatibility-date 2026-05-09",
+    "deploy": "wrangler deploy src/index.ts --name panwoo-security-lab --compatibility-date 2026-05-09"
   },
   "devDependencies": {
     "typescript": "^5.6.3",

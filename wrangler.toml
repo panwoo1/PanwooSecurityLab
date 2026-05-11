@@ -1,0 +1,3 @@
+name = "panwoo-security-lab"
+main = "apps/worker/src/index.ts"
+compatibility_date = "2026-05-09"
