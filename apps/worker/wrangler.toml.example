@@ -2,7 +2,6 @@ name = "panwoo-security-lab"
 main = "src/index.ts"
 compatibility_date = "2026-05-09"
 
-# Example KV binding
-[[kv_namespaces]]
-binding = "KV"
-id = "your_kv_namespace_id"
+# Configure these in Cloudflare dashboard or with Wrangler secrets/vars:
+# SUPABASE_URL
+# SUPABASE_ANON_KEY
