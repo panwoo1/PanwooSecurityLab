@@ -1,105 +1,105 @@
 {
-  "generated_at": "2026-05-09T08:08:42.648497+00:00",
+  "generated_at": "2026-05-11T04:22:13.113211+00:00",
   "items": [
     {
       "source": "보안뉴스",
       "region": "domestic",
-      "slug": "ea21ab00020d",
-      "title": "CVE 발급보다 빠른 AI의 역추론, 길 잃은 ‘책임감 있는 공개’",
-      "url": "http://www.boannews.com/media/view.asp?idx=143537&kind=&sub_kind=",
+      "slug": "ee4280b94eac",
+      "title": "KAIST 이광형 총장 “AI 반도체 ‘풀스택’ 전략으로 대한민국 AI 천하삼분지계 이끌 것”... KCAMP 조찬 포럼 개최",
+      "url": "http://www.boannews.com/media/view.asp?idx=143554&kind=&sub_kind=",
       "translateUrl": "",
-      "published": "Sat, 9 May 2026 12:50:00 +0900",
-      "summary": "‘더티 프래그’ 사태로 본 정보 비대칭의 위협, 즉시 공개 요청한 리눅스 진영쏟아지는 AI 리포트에 메인테이너 업무 과중... 기존 보안 거버넌스 무력화[보안뉴스 조재호 기자] 리눅스 커널 취약점 ‘더티 프래그’(Dirty Frag)의 엠바고 파기를 계기로 취약점 분석 체계가 한계를 드러내고 있다. AI를 활용한 코드 분석이 보편화되면서 ‘책임감 있는 공개"
+      "published": "Mon, 11 May 2026 12:59:00 +0900",
+      "summary": "KCAMP 포럼서 이광형 총장 ‘AI 반도체의 미래와 대한민국의 전략’ 주제로 강연“미래는 온디바이스 및 피지컬 AI 시대... 양자 컴퓨팅이 새로운 판도 변화 가져올 것”[보안뉴스 원병철 기자] “AI 시대의 진정한 승자가 되기 위해서는 반도체를 단순한 부품이 아닌 계산 모델부터 운영 소프트웨어까지 아우르는 ‘풀스택’ 관점에서 바라봐야 합니다. 대한민국은"
     },
     {
       "source": "보안뉴스",
       "region": "domestic",
-      "slug": "48d473d993d3",
-      "title": "타포, 실내외 활용도 높인 듀얼 렌즈 보안 카메라 ‘Tapo C246D’ 출시",
-      "url": "http://www.boannews.com/media/view.asp?idx=143536&kind=&sub_kind=",
+      "slug": "3ed4a6987455",
+      "title": "원모어시큐리티, AI 산불 감지 솔루션 조달 혁신제품 지정",
+      "url": "http://www.boannews.com/media/view.asp?idx=143553&kind=&sub_kind=",
       "translateUrl": "",
-      "published": "Fri, 8 May 2026 18:02:00 +0900",
-      "summary": "2K 듀얼 렌즈와 스마트 추적 기능 통해 실내외 모니터링 지원 IP65 방수·방진 적용으로 현관·마당·실내 공간까지 활용 가능[보안뉴스 강초희 기자] 티피링크(tp-link)의 스마트홈 브랜드 타포(Tapo)는 실내외 환경에서 모두 활용할 수 있는 듀얼 렌즈 회전형 보안 카메라 ‘타포 C246D’를 출시했다고 밝혔다.Tapo C246D는 하나의 장치에 두"
+      "published": "Mon, 11 May 2026 11:53:00 +0900",
+      "summary": "원모어아이(산불) v1.0 솔루션 지정, 2019년 법인 설립 이후 3번째 혁신제품합성곱신경망(CNN) 및 시각언어모델(VLM) 하이브리드 기술로 기상 변수 오탐 완화[보안뉴스 조재호 기자] 원모어시큐리티는 자사 산불 감지 솔루션 ‘원모어아이(산불) v1.0’이 조달청 혁신제품으로 지정됐다고 밝혔다. 2019년 법인 설립 이후 원모어시큐리티의 3번째 조달청"
     },
     {
       "source": "보안뉴스",
       "region": "domestic",
-      "slug": "8cdb2040a4ff",
-      "title": "국내 첫 육·해·공 무인이동체 통합 실증시험장 개소... 해양 감시 활용 확대",
-      "url": "http://www.boannews.com/media/view.asp?idx=143535&kind=&sub_kind=",
+      "slug": "07780a34d05f",
+      "title": "스마트 폴로 ‘묻지마 범죄’ 막는다... 전남자치경찰위, 예방 치안 인프라 확충",
+      "url": "http://www.boannews.com/media/view.asp?idx=143552&kind=&sub_kind=",
       "translateUrl": "",
-      "published": "Fri, 8 May 2026 18:00:00 +0900",
-      "summary": "다수·이종 무인이동체 통합관제 기반 해안 감시, 경비 실증 추진밀입국·오염원·해양사고 대응 위한 무인이동체 활용 확대[보안뉴스 강초희 기자] 과학기술정보통신부(부총리 겸 장관 배경훈, 이하 과기정통부)는 당진시와의 협력을 통해 당진시 드론산업지원센터(당진시 석문면 석문방조제로 1775, 30,886.5㎡ 규모)에 ‘무인이동체 해안임무 실증시험장’(이하 실증"
+      "published": "Mon, 11 May 2026 11:19:00 +0900",
+      "summary": "화순·장성·영광·진도 등 15개 시군에 지능형 스마트폴 등 설치총 17억5000만원 투입해 범죄 취약지역 중심 예방형 안전환경 조성 계획[보안뉴스 강초희 기자] 전라남도자치경찰위원회(위원장 정순관)가 이른바 ‘묻지마 범죄’라 불리는 이상동기 범죄로부터 도민 안전을 지키기 위해 치안 인프라 확충에 나선다.전남도자치경찰위원회는 최근 공모를 거쳐 화순·장성·영광"
     },
     {
       "source": "보안뉴스",
       "region": "domestic",
-      "slug": "bd1835559d23",
-      "title": "[카드뉴스] “범인 잡던 CCTV, 이제 매출 올린다”… 경영진이 주목하는 ‘제3의 눈’ 정체",
-      "url": "http://www.boannews.com/media/view.asp?idx=143533&kind=&sub_kind=",
+      "slug": "140278453876",
+      "title": "강릉시 CCTV 통합관제센터, 범인 검거 540건 기여하며 안전도시 구축 기여",
+      "url": "http://www.boannews.com/media/view.asp?idx=143551&kind=&sub_kind=",
       "translateUrl": "",
-      "published": "Fri, 8 May 2026 15:58:00 +0900",
-      "summary": "지능형 CCTV가 단순한 물리 보안을 넘어 고객의 동선과 체류 시간 등을 분석해 경영 전략을 수립하는 ‘비즈니스 인텔리전스(BI)’ 도구로 진화하고 있다.기업 보안 카메라가 수집하는 영상이 수익 창출을 위한 핵심 ‘데이터 자산’으로 간주되면서, 보안에 대한 인식이 단순 비용 지출에서 가치 투자로 전환되는 추세다. 다만 정밀한 데이터 추출 과정에서 발생할 수"
+      "published": "Mon, 11 May 2026 11:16:00 +0900",
+      "summary": "강릉시 CCTV 통합관제센터, 2026년 1분기 영상정보 열람·제공 8135건 기록관제사 실시간 대응과 경찰 공조로 수사 목적 검거 540건·실시간 범죄 해결 52건 지원[보안뉴스 강초희 기자] 강릉시(시장 김홍규)는 2026년 1분기 방범용 CCTV 영상정보 열람·제공 실적이 총 8135건에 달하며, 이 과정에서 CCTV 통합관제센터 관제사들의 보이지 않"
     },
     {
       "source": "보안뉴스",
       "region": "domestic",
-      "slug": "b0fc3adeaddc",
-      "title": "과기정통부, 글로벌 AI 보안 파장 정조준... “한국형 특화 모델로 방어”",
-      "url": "http://www.boannews.com/media/view.asp?idx=143531&kind=&sub_kind=",
+      "slug": "a1f3a0b39203",
+      "title": "누리랩, 딥페이크 탐지 데이터셋 DQ 최고 등급 획득... “AI 방어망 신뢰 입증”",
+      "url": "http://www.boannews.com/media/view.asp?idx=143550&kind=&sub_kind=",
       "translateUrl": "",
-      "published": "Fri, 8 May 2026 15:46:00 +0900",
-      "summary": "8일 산학연 간담회 열고 앤트로픽 등 빅테크 보안 프로젝트 파급력 및 대응 논의3만여 개사 CISO 대상 대비 태세 점검 완료 및 인공지능 보안 가이드라인 선제 배포[보안뉴스 조재호 기자] 미국 앤트로픽과 오픈AI 등 빅테크 기업들의 독자적인 보안 프로젝트 전개에 맞서 정부가 대응에 나섰다. 과학기술정보통신부는 국내 3만여 CISO 대상 대비 태세 점검에"
+      "published": "Mon, 11 May 2026 11:14:00 +0900",
+      "summary": "500만건 이상 이미지 및 영상 기반 비정형 데이터셋으로 정합률 0.99 달성과학기술정보통신부 주관 데이터 내용 인증 ‘Class A’ 확보, 기술 무결성 증명[보안뉴스 조재호 기자] 누리랩 딥페이크 탐지 모델 개발용 데이터셋이 정부 데이터품질(DQ) 인증 평가 최고 등급인 ‘클래스 A’(Class A)를 획득했다. 누리랩은 11일 딥페이크 탐지 모델 개발"
     },
     {
       "source": "보안뉴스",
       "region": "domestic",
-      "slug": "3597b8521870",
-      "title": "방화벽이 뚫렸다... 팔로알토 PAN-OS, ‘루트 권한’ 내주는 중대 보안 구멍",
-      "url": "http://www.boannews.com/media/view.asp?idx=143530&kind=&sub_kind=",
+      "slug": "e984a106a71b",
+      "title": "이지서티, 경남교육청 교육정보원에 클라우드형 개인정보 필터링 공급 완료",
+      "url": "http://www.boannews.com/media/view.asp?idx=143548&kind=&sub_kind=",
       "translateUrl": "",
-      "published": "Fri, 8 May 2026 15:09:00 +0900",
-      "summary": "[보안뉴스 김형근 기자] 팔로알토 네트웍스의 PAN-OS 소프트웨어에서 인증 없이 원격으로 코드를 실행할 수 있는 취약점(CVE-2026-0300)이 발견됐다. 이 결함은 사용자 인증 포털 서비스의 버퍼 오버플로우 취약점으로, 공격자가 특수 제작된 패킷을 보내 루트 권한을 탈취할 수 있게 한다. 보안 위험 점수인 CVSS가 10점 만점에 무려 9.3에 달하"
+      "published": "Mon, 11 May 2026 11:01:00 +0900",
+      "summary": "온프레미스 환경과 동일한 보안 성능 클라우드에 구현클라우드 네이티브 전환 정책 부응... 시스템 연속성 확보[보안뉴스 조재호 기자] 이지서티가 경상남도교육청 교육정보원에 자사 개인정보 필터링 솔루션 ‘U-프라이버시 세이퍼 클라우드’(U-PRIVACY SAFER CLOUD)를 공급하고 클라우드 보안 전환을 완료했다고 11일 밝혔다.이 사업은 2024년부터 단"
     },
     {
       "source": "보안뉴스",
       "region": "domestic",
-      "slug": "8ea6dd49a2b8",
-      "title": "[Global Security TOP] 박윤하 스피어AX 대표이사 “엣지에서 완성되는 AI 영상보안, 현장에서 즉시 판단하다”",
-      "url": "http://www.boannews.com/media/view.asp?idx=143361&kind=&sub_kind=",
+      "slug": "fbfab9908659",
+      "title": "개인정보위, SNS상 정부·공공기관 사칭피해 방지 지원",
+      "url": "http://www.boannews.com/media/view.asp?idx=143549&kind=&sub_kind=",
       "translateUrl": "",
-      "published": "Fri, 8 May 2026 15:03:00 +0900",
-      "summary": "온디바이스 AI 기반 엣지 중심 영상보안 플랫폼 확장자체 AI 모델·dara 기반 공공·산업안전 적용 확대NPU 협력 기반 엣지 AI 통합 솔루션 시장 확대[보안뉴스 강초희 기자] AI 영상보안 기술이 엣지 중심으로 전환되는 가운데, 스피어AX가 온디바이스 AI 기반 통합 플랫폼 전략을 앞세워 시장 확대에 나서고 있다. 자체 AI 모델과 플랫폼 ‘dara’"
+      "published": "Mon, 11 May 2026 10:57:00 +0900",
+      "summary": "[보안뉴스 강현주 기자] 개인정보보호위원회(위원장 송경희)가 개인정보 사칭 피해 방지 지원체계를 11일부터 본격 운영한다. 최근 사회관계망서비스(SNS)에서 국무위원을 비롯한 공공기관장의 개인정보를 이용한 사칭 시도가 증가하여 사기 등 국민 피해가 우려됨에 따른 조치다. 개인정보위는 메타(페이스북·인스타그램), 구글(유튜브), X, 틱톡, 네이버, 카카오"
     },
     {
       "source": "보안뉴스",
       "region": "domestic",
-      "slug": "9c36ace78ed0",
-      "title": "오만 정부 12개 부처 뚫렸다... 이란 연계 해커, 웹쉘과 SQL 동원 공습",
-      "url": "http://www.boannews.com/media/view.asp?idx=143529&kind=&sub_kind=",
+      "slug": "427eed479b17",
+      "title": "아마노코리아·안전한공간, 전기차 화재 사전 예방 협력",
+      "url": "http://www.boannews.com/media/view.asp?idx=143547&kind=&sub_kind=",
       "translateUrl": "",
-      "published": "Fri, 8 May 2026 15:02:00 +0900",
-      "summary": "이번 캠페인, 과거 이란 정보통신부(MOIS)와 연계된 조직 수법과 일치하는 것으로 밝혀져[보안뉴스 김형근 기자] 이란과 연계된 것으로 추정되는 해커 조직이 오만의 12개 정부 부처를 대상으로 정밀한 사이버 공격을 감행했다. 이번 공격의 실체는 공격자들이 UAE에 구축한 전초기지인 스테이징 서버(Staging Server)의 디렉토리를 인증 없이 접근 가능"
+      "published": "Mon, 11 May 2026 10:56:00 +0900",
+      "summary": "주차관제 시스템과 전기차 화재 예방 기술 연동, ‘통합 안전관리 솔루션’ 공동 구축전기차 배터리 이상 징후 실시간 분석, 아파트·다중이용시설 중심 예방형 스마트 주차장 시장 확대[보안뉴스 강초희 기자] 아마노코리아(대표 전명진)가 안전한공간(대표 신영철)과 지하주차장 안전관리 고도화를 위해 협력한다. 양사는 전기차 화재 사전 예방 및 스마트 주차관제 플랫폼"
     },
     {
       "source": "보안뉴스",
       "region": "domestic",
-      "slug": "839859d8aea0",
-      "title": "“AI 위협, AI로 잡는다” KISA, 120억 투입해 차세대 보안기업 육성",
-      "url": "http://www.boannews.com/media/view.asp?idx=143523&kind=&sub_kind=",
+      "slug": "13830806d1a3",
+      "title": "엔비디아 ‘지포스 나우’ 게이머 신상 대거 유출... 서비스 업체 해킹",
+      "url": "http://www.boannews.com/media/view.asp?idx=143546&kind=&sub_kind=",
       "translateUrl": "",
-      "published": "Fri, 8 May 2026 14:58:00 +0900",
-      "summary": "[보안뉴스 조재호 기자] 한국인터넷진흥원(KISA)이 과학기술정보통신부와 함께 차세대 보안 제품 및 서비스 개발을 위한 지원 사업에 돌입했다. AI 보안과 제로트러스트 등 4대 핵심 분야에 120억원의 예산을 투입해 50개 수행기업을 집중 육성하며 2026년 국가 사이버안보 거버넌스의 질적 상향을 주도할 방침이다.KISA는 이와 같은 내용의 ‘2026년 정"
+      "published": "Mon, 11 May 2026 10:23:00 +0900",
+      "summary": "[보안뉴스 김형근 기자] 엔비디아의 클라우드 기반 구독형 게임 서비스 ‘지포스 나우’ 이용자 신상 정보가 대거 유출됐다. 해외 보안 전문 매체 사이버시큐리티뉴스는 지포스 나우 공식 서비스 제공사 GFN.AM의 백엔드 데이터베이스가 해커들에게 털렸다고 보도했다. 이번 공격은 3월 9일(현지시간)에 발생했으나, 업체는 약 두 달이 지난 5월 2일에야 이를 인지"
     },
     {
       "source": "보안뉴스",
       "region": "domestic",
-      "slug": "9dc1a598b2dd",
-      "title": "[속담으로 배우는 100가지 보안 습관-11] 돌다리도 두드려 보고 건너라(1)-문자 링크 하나 눌렀다가 털리는 이유",
-      "url": "http://www.boannews.com/media/view.asp?idx=143236&kind=&sub_kind=",
+      "slug": "843196cf5ed5",
+      "title": "통제 잃은 AI 로봇 막는다... 라온시큐어, 피지컬 AI 보안 인프라 설계 착수",
+      "url": "http://www.boannews.com/media/view.asp?idx=143545&kind=&sub_kind=",
       "translateUrl": "",
-      "published": "Fri, 8 May 2026 13:32:00 +0900",
-      "summary": "출처가 불분명한 문자(SMS) 내 링크는 절대 클릭하지 마세요[보안뉴스 박미영 기자] 출처가 불분명한 문자(SMS)나 이메일의 링크를 클릭하는 것은 안전하지 않을 가능성이 있다. 이러한 메일이나 메시지에서 제공되는 링크에는 악성 코드나 바이러스가 포함돼 있을 수도 있으며, 개인정보 유출 등의 위험이 따를 수 있다. 특히 택배 조회·청첩장·쿠폰·정부지원금 등"
+      "published": "Mon, 11 May 2026 10:08:00 +0900",
+      "summary": "한국전자기술연구원과 전략적 연대 통해 물리적 위협 차단하는 보안 기준 검증클린룸 및 비식별화 기술 적용해 보안 담보된 인공지능 학습 환경 선제 조성[보안뉴스 조재호 기자] 사이버 공간의 데이터를 넘어 로봇과 드론 등 물리적 시스템을 통제하는 AI 보안 위협을 원천 차단하기 위한 민관 공동 기술 실증이 본격화된다.라온시큐어와 한국전자기술연구원(KETI)은 A"
     },
     {
       "source": "KISA 보안공지",
@@ -294,12 +294,12 @@
     {
       "source": "ASEC KR",
       "region": "domestic",
-      "slug": "3d6e8bea65d7",
-      "title": "2026년 1분기 윈도우 웹 서버 대상 악성코드 통계 보고서",
-      "url": "https://asec.ahnlab.com/ko/93332/",
+      "slug": "524312ed62d5",
+      "title": "2026년 3월 다크웹 이슈 동향 보고서",
+      "url": "https://asec.ahnlab.com/ko/93321/",
       "translateUrl": "",
       "published": "Sun, 12 Apr 2026 15:00:00 +0000",
-      "summary": "내용. AhnLab SEcurity intelligence Center(ASEC)는 AhnLab Smart Defense(ASD) 로그를 기반으로 2026년 1분기 윈도우 웹 서버 대상 공격 현황과 악성코드 통계를 분석했다. 분석 대상은 윈도우 환경의 Internet Information Services(IIS)와 아파치 톰캣 웹 서버이다. 웹쉘을 통한 명령 실행이 주요 침해 경로이며 권한 "
+      "summary": "알림 본 보고서는 딥웹 및 다크웹 출처 기반 자료를 요약한 것이며 일부 사실관계는 출처 특성상 완전 확인이 어려운 내용이 포함되어 있다. 주요 이슈 BreachForums 내부 붕괴와 재구축 시도가 관측되었다. 운영자 배신과 자금 이동 정황으로 신뢰가 손상되었으며 다수 클론(.ac, .us 등)과 사칭 도메인 난립으로 이용자 혼선이 심화되었다. BreachForums는 Vect 및 Spear"
     },
     {
       "source": "KISA 취약점정보",
@@ -404,12 +404,62 @@
     {
       "source": "The Hacker News",
       "region": "global",
+      "slug": "1b2d8f48a93e",
+      "title": "Ollama Out-of-Bounds Read Vulnerability Allows Remote Process Memory Leak",
+      "url": "https://thehackernews.com/2026/05/ollama-out-of-bounds-read-vulnerability.html",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Follama-out-of-bounds-read-vulnerability.html",
+      "published": "Sun, 10 May 2026 18:11:00 +0530",
+      "summary": "Cybersecurity researchers have disclosed a critical security vulnerability in Ollama that, if successfully exploited, could allow a remote, unauthenticated attacker to leak its entire process memory. The out-of-bounds re"
+    },
+    {
+      "source": "BleepingComputer",
+      "region": "global",
+      "slug": "f1734d857a8d",
+      "title": "Hackers abuse Google ads, Claude.ai chats to push Mac malware",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-claudeai-chats-to-push-mac-malware/",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Fhackers-abuse-google-ads-claudeai-chats-to-push-mac-malware%2F",
+      "published": "Sun, 10 May 2026 13:52:15 -0400",
+      "summary": "Attackers are abusing Google Ads and legitimate Claude.ai shared chats in an active malvertising campaign. Users searching for \"Claude mac download\" may come across sponsored search results that list claude.ai as the tar"
+    },
+    {
+      "source": "BleepingComputer",
+      "region": "global",
+      "slug": "d378098fb435",
+      "title": "Police shut down reboot of Crimenetwork marketplace, arrest admin",
+      "url": "https://www.bleepingcomputer.com/news/security/police-shut-down-reboot-of-crimenetwork-marketplace-arrest-admin/",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Fpolice-shut-down-reboot-of-crimenetwork-marketplace-arrest-admin%2F",
+      "published": "Sun, 10 May 2026 10:16:47 -0400",
+      "summary": "German authorities have shut down a relaunch version of the criminal marketplace 'Crimenetwork' that generated more than 3.6 million euros, and arrested its operator. [...]"
+    },
+    {
+      "source": "BleepingComputer",
+      "region": "global",
+      "slug": "60a7c6fdc027",
+      "title": "JDownloader site hacked to replace installers with Python RAT malware",
+      "url": "https://www.bleepingcomputer.com/news/security/jdownloader-site-hacked-to-replace-installers-with-python-rat-malware/",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Fjdownloader-site-hacked-to-replace-installers-with-python-rat-malware%2F",
+      "published": "Sat, 09 May 2026 15:27:58 -0400",
+      "summary": "The website for the popular JDownloader download manager was compromised earlier this week to distribute malicious Windows and Linux installers, with the Windows payload found deploying a Python-based remote access troja"
+    },
+    {
+      "source": "The Hacker News",
+      "region": "global",
       "slug": "aa67df4b7186",
       "title": "cPanel, WHM Release Fixes for Three New Vulnerabilities — Patch Now",
       "url": "https://thehackernews.com/2026/05/cpanel-whm-patch-3-new-vulnerabilities.html",
       "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Fcpanel-whm-patch-3-new-vulnerabilities.html",
       "published": "Sat, 09 May 2026 12:46:00 +0530",
       "summary": "cPanel has released updates to address three vulnerabilities in cPanel and Web Host Manager (WHM) that could be exploited to achieve privilege escalation, code execution, and denial-of-service. The list of vulnerabilitie"
+    },
+    {
+      "source": "BleepingComputer",
+      "region": "global",
+      "slug": "d5d38f3d7b7a",
+      "title": "Fake OpenAI repository on Hugging Face pushes infostealer malware",
+      "url": "https://www.bleepingcomputer.com/news/security/fake-openai-repository-on-hugging-face-pushes-infostealer-malware/",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Ffake-openai-repository-on-hugging-face-pushes-infostealer-malware%2F",
+      "published": "Sat, 09 May 2026 10:26:03 -0400",
+      "summary": "A malicious Hugging Face repository that reached the platform's trending list impersonated OpenAI's \"Privacy Filter\" project to deliver information-stealing malware to Windows users. [...]"
     },
     {
       "source": "The Hacker News",
@@ -550,56 +600,6 @@
       "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Fformer-govt-contractor-convicted-for-wiping-dozens-of-federal-databases%2F",
       "published": "Fri, 08 May 2026 04:45:04 -0400",
       "summary": "A 34-year-old Virginia man was found guilty of conspiring to destroy dozens of government databases after getting fired from his job as a federal contractor. [...]"
-    },
-    {
-      "source": "BleepingComputer",
-      "region": "global",
-      "slug": "dd319165afcf",
-      "title": "New Linux 'Dirty Frag' zero-day gives root on all major distros",
-      "url": "https://www.bleepingcomputer.com/news/security/new-linux-dirty-frag-zero-day-with-poc-exploit-gives-root-privileges/",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Fnew-linux-dirty-frag-zero-day-with-poc-exploit-gives-root-privileges%2F",
-      "published": "Fri, 08 May 2026 03:45:24 -0400",
-      "summary": "A new Linux zero-day exploit, named Dirty Frag, allows local attackers to gain root privileges on most major Linux distributions with a single command. [...]"
-    },
-    {
-      "source": "The Hacker News",
-      "region": "global",
-      "slug": "9b6419969ce3",
-      "title": "Ivanti EPMM CVE-2026-6973 RCE Under Active Exploitation Grants Admin-Level Access",
-      "url": "https://thehackernews.com/2026/05/ivanti-epmm-cve-2026-6973-rce-under.html",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Fivanti-epmm-cve-2026-6973-rce-under.html",
-      "published": "Thu, 07 May 2026 23:25:00 +0530",
-      "summary": "Ivanti is warning that a new security flaw impacting Endpoint Manager Mobile (EPMM) has been explored in limited attacks in the wild. The high-severity vulnerability, CVE-2026-6973 (CVSS score: 7.2), is a case of imprope"
-    },
-    {
-      "source": "The Hacker News",
-      "region": "global",
-      "slug": "577f122a38d5",
-      "title": "PCPJack Credential Stealer Exploits 5 CVEs to Spread Worm-Like Across Cloud Systems",
-      "url": "https://thehackernews.com/2026/05/pcpjack-credential-stealer-exploits-5.html",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Fpcpjack-credential-stealer-exploits-5.html",
-      "published": "Thu, 07 May 2026 23:15:00 +0530",
-      "summary": "Cybersecurity researchers have disclosed details of a new credential theft framework dubbed PCPJack that targets exposed cloud infrastructure and ousts any artifacts linked to TeamPCP from the environments. \"The toolset "
-    },
-    {
-      "source": "BleepingComputer",
-      "region": "global",
-      "slug": "93be192ca401",
-      "title": "Canvas login portals hacked in mass ShinyHunters extortion campaign",
-      "url": "https://www.bleepingcomputer.com/news/security/canvas-login-portals-hacked-in-mass-shinyhunters-extortion-campaign/",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Fcanvas-login-portals-hacked-in-mass-shinyhunters-extortion-campaign%2F",
-      "published": "Thu, 07 May 2026 18:36:54 -0400",
-      "summary": "The ShinyHunters extortion gang has breached education technology giant Instructure again, this time exploiting another vulnerability to deface Canvas login portals for hundreds of colleges and universities. [...]"
-    },
-    {
-      "source": "BleepingComputer",
-      "region": "global",
-      "slug": "e2c9a7fe7af0",
-      "title": "New TCLBanker malware self-spreads over WhatsApp and Outlook",
-      "url": "https://www.bleepingcomputer.com/news/security/new-tclbanker-malware-self-spreads-over-whatsapp-and-outlook/",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Fnew-tclbanker-malware-self-spreads-over-whatsapp-and-outlook%2F",
-      "published": "Thu, 07 May 2026 18:06:52 -0400",
-      "summary": "A new trojan named TCLBanker, which targets 59 banking, fintech, and cryptocurrency platforms, uses a trojanized MSI installer for Logitech AI Prompt Builder to infect systems. [...]"
     }
   ],
   "errors": []
