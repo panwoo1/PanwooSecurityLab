@@ -1,6 +1,7 @@
 export interface Env {
   SUPABASE_URL?: string
   SUPABASE_ANON_KEY?: string
+  ASSETS?: Fetcher
 }
 
 const DEFAULT_MESSAGE = 'Hello from Cloudflare Worker'
@@ -81,6 +82,10 @@ export default {
     if (pathname === '/api/message') {
       const message = await getMessageFromSupabase(env)
       return Response.json({ message })
+    }
+
+    if (env.ASSETS) {
+      return env.ASSETS.fetch(request)
     }
 
     return new Response('Not Found', { status: 404 })
