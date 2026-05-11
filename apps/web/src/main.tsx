@@ -100,7 +100,7 @@ function BlogReader({ posts }: { posts: BlogPost[] }) {
             ))}
           </div>
         ) : null}
-        <pre className="markdown">{selected.content}</pre>
+        <div className="markdown-body" dangerouslySetInnerHTML={{ __html: selected.html }} />
       </article>
     </div>
   )
