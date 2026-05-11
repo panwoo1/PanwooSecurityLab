@@ -1,15 +1,12 @@
-_site/
-.sass-cache/
-.jekyll-cache/
-.jekyll-metadata
-Gemfile.lock
-vendor/
 node_modules/
 .next/
+_site/
 out/
-apps/web/dist/
-public/assets/data/
+public/
+Gemfile.lock
 tsconfig.tsbuildinfo
+apps/web/dist/
+apps/web/src/generated-content.ts
 .env
 __pycache__/
 *.pyc
@@ -19,6 +16,6 @@ __pycache__/
 .codex/
 README_APPLY.md
 
-# Source files copied into the blog
+# Local import sources
 /ctf_offline_all_in_one_guide.pdf
 /ctf_web_writeup_blog.md
