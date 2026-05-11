@@ -9,6 +9,24 @@ function isSupabaseProjectUrl(url: URL): boolean {
   return url.protocol === 'https:' && url.hostname.endsWith('.supabase.co')
 }
 
+function getSupabaseStatus(env: Env) {
+  let validUrl = false
+
+  if (env.SUPABASE_URL) {
+    try {
+      validUrl = isSupabaseProjectUrl(new URL(env.SUPABASE_URL))
+    } catch {
+      validUrl = false
+    }
+  }
+
+  return {
+    urlConfigured: Boolean(env.SUPABASE_URL),
+    anonKeyConfigured: Boolean(env.SUPABASE_ANON_KEY),
+    validUrl
+  }
+}
+
 async function getMessageFromSupabase(env: Env): Promise<string> {
   if (!env.SUPABASE_URL || !env.SUPABASE_ANON_KEY) {
     return DEFAULT_MESSAGE
@@ -50,10 +68,13 @@ export default {
     const { pathname } = new URL(request.url)
 
     if (pathname === '/api/health') {
+      const supabase = getSupabaseStatus(env)
+
       return Response.json({
         ok: true,
         service: 'worker',
-        database: env.SUPABASE_URL && env.SUPABASE_ANON_KEY ? 'supabase' : 'not-configured'
+        database: supabase.urlConfigured && supabase.anonKeyConfigured ? 'supabase' : 'not-configured',
+        supabase
       })
     }
 
