@@ -1,105 +1,135 @@
 {
-  "generated_at": "2026-05-11T04:22:13.113211+00:00",
+  "generated_at": "2026-05-11T09:58:44.206209+00:00",
   "items": [
     {
       "source": "보안뉴스",
       "region": "domestic",
-      "slug": "ee4280b94eac",
-      "title": "KAIST 이광형 총장 “AI 반도체 ‘풀스택’ 전략으로 대한민국 AI 천하삼분지계 이끌 것”... KCAMP 조찬 포럼 개최",
-      "url": "http://www.boannews.com/media/view.asp?idx=143554&kind=&sub_kind=",
+      "slug": "b1362aa965d7",
+      "title": "[한국정보공학기술사 보안을 論하다-38] AI 거버넌스, 보안과 함께 작동해야 한다",
+      "url": "http://www.boannews.com/media/view.asp?idx=143566&kind=&sub_kind=",
       "translateUrl": "",
-      "published": "Mon, 11 May 2026 12:59:00 +0900",
-      "summary": "KCAMP 포럼서 이광형 총장 ‘AI 반도체의 미래와 대한민국의 전략’ 주제로 강연“미래는 온디바이스 및 피지컬 AI 시대... 양자 컴퓨팅이 새로운 판도 변화 가져올 것”[보안뉴스 원병철 기자] “AI 시대의 진정한 승자가 되기 위해서는 반도체를 단순한 부품이 아닌 계산 모델부터 운영 소프트웨어까지 아우르는 ‘풀스택’ 관점에서 바라봐야 합니다. 대한민국은"
+      "published": "Mon, 11 May 2026 17:55:00 +0900",
+      "summary": "AI가 조직 의사결정 개입하는 환경... 보안 패러다임 대전환시스템 침해 차단 넘어 판단 신뢰성 훼손 막는 능동적 대책 필요[보안뉴스= 강병일 한국정보공학기술사회 미래융합기술원 위원] AI의 도입 속도는 우리가 예상한 것보다 훨씬 빠르다. 기업과 공공기관은 업무 자동화와 의사결정 지원 영역까지 AI를 도입하고 있으며, 이제 AI는 단순 보조 도구를 넘어 조"
     },
     {
       "source": "보안뉴스",
       "region": "domestic",
-      "slug": "3ed4a6987455",
-      "title": "원모어시큐리티, AI 산불 감지 솔루션 조달 혁신제품 지정",
-      "url": "http://www.boannews.com/media/view.asp?idx=143553&kind=&sub_kind=",
+      "slug": "54835441193b",
+      "title": "[신간] ‘달리는 호모 사피엔스’",
+      "url": "http://www.boannews.com/media/view.asp?idx=143568&kind=&sub_kind=",
       "translateUrl": "",
-      "published": "Mon, 11 May 2026 11:53:00 +0900",
-      "summary": "원모어아이(산불) v1.0 솔루션 지정, 2019년 법인 설립 이후 3번째 혁신제품합성곱신경망(CNN) 및 시각언어모델(VLM) 하이브리드 기술로 기상 변수 오탐 완화[보안뉴스 조재호 기자] 원모어시큐리티는 자사 산불 감지 솔루션 ‘원모어아이(산불) v1.0’이 조달청 혁신제품으로 지정됐다고 밝혔다. 2019년 법인 설립 이후 원모어시큐리티의 3번째 조달청"
+      "published": "Mon, 11 May 2026 17:50:00 +0900",
+      "summary": "700만 년 전 사바나의 사냥꾼이, 지금 한강변을 달리는 당신에게[보안뉴스 원병철 기자] “왜 우리는 이렇게 지치고, 외롭고, 불안한가” 진화생물학이 답하다.하루 종일 화면 앞에 앉아 있었는데도 왜 이렇게 피곤한가. 사람들 속에 있으면서도 왜 이렇게 외로운가. 딱히 위험한 일도 없는데 왜 이렇게 불안한가. 출판 브랜드 소금나무(시간팩토리)가 펴낸 신간 ‘달"
     },
     {
       "source": "보안뉴스",
       "region": "domestic",
-      "slug": "07780a34d05f",
-      "title": "스마트 폴로 ‘묻지마 범죄’ 막는다... 전남자치경찰위, 예방 치안 인프라 확충",
-      "url": "http://www.boannews.com/media/view.asp?idx=143552&kind=&sub_kind=",
+      "slug": "ce19e4b0c3a3",
+      "title": "다온기술, CAASM 핵심 기술 특허 5건 확보... 미식별 자산 탐지부터 위험 기반 운영까지 자체 기술화",
+      "url": "http://www.boannews.com/media/view.asp?idx=143567&kind=&sub_kind=",
       "translateUrl": "",
-      "published": "Mon, 11 May 2026 11:19:00 +0900",
-      "summary": "화순·장성·영광·진도 등 15개 시군에 지능형 스마트폴 등 설치총 17억5000만원 투입해 범죄 취약지역 중심 예방형 안전환경 조성 계획[보안뉴스 강초희 기자] 전라남도자치경찰위원회(위원장 정순관)가 이른바 ‘묻지마 범죄’라 불리는 이상동기 범죄로부터 도민 안전을 지키기 위해 치안 인프라 확충에 나선다.전남도자치경찰위원회는 최근 공모를 거쳐 화순·장성·영광"
+      "published": "Mon, 11 May 2026 17:19:00 +0900",
+      "summary": "DHCP·고정 IP 환경 무관 자산 식별, 자산 변화 감지·중복 제거, 위험도 관리 등 핵심 기술 확보RiskMap 기반으로 미식별 자산과 보안 운영 공백 해소하는 CAASM 기술 포트폴리오 구축[보안뉴스 원병철 기자] 다온기술은 사이버 자산 공격표면 관리(CAASM) 플랫폼 ‘RiskMap’의 핵심 기반 기술과 관련해 총 5건의 특허를 확보했다고 밝혔다."
     },
     {
       "source": "보안뉴스",
       "region": "domestic",
-      "slug": "140278453876",
-      "title": "강릉시 CCTV 통합관제센터, 범인 검거 540건 기여하며 안전도시 구축 기여",
-      "url": "http://www.boannews.com/media/view.asp?idx=143551&kind=&sub_kind=",
+      "slug": "d9dbb48bc770",
+      "title": "“AI CCTV가 하천 고립사고 막는다” 서울시, 풍수해 대응 강화",
+      "url": "http://www.boannews.com/media/view.asp?idx=143565&kind=&sub_kind=",
       "translateUrl": "",
-      "published": "Mon, 11 May 2026 11:16:00 +0900",
-      "summary": "강릉시 CCTV 통합관제센터, 2026년 1분기 영상정보 열람·제공 8135건 기록관제사 실시간 대응과 경찰 공조로 수사 목적 검거 540건·실시간 범죄 해결 52건 지원[보안뉴스 강초희 기자] 강릉시(시장 김홍규)는 2026년 1분기 방범용 CCTV 영상정보 열람·제공 실적이 총 8135건에 달하며, 이 과정에서 CCTV 통합관제센터 관제사들의 보이지 않"
+      "published": "Mon, 11 May 2026 16:53:00 +0900",
+      "summary": "서울시, 지능형 CCTV·AI 침수예측 도입해 풍수해 대응체계 강화하천 고립사고 예방 위해 CCTV 640대 운영골목 단위 침수 감시망·빗물그릇 확대 통해 집중호우 대응력 강화[보안뉴스 강초희 기자] 서울시(시장 오세훈)가 올여름 집중호우와 국지성 호우 등 풍수해종 피해를 막기 위해 재해 발생 우려 지역에 대한 집중 관리에 나선다. 서울시는 저지대와 지하차"
     },
     {
       "source": "보안뉴스",
       "region": "domestic",
-      "slug": "a1f3a0b39203",
-      "title": "누리랩, 딥페이크 탐지 데이터셋 DQ 최고 등급 획득... “AI 방어망 신뢰 입증”",
-      "url": "http://www.boannews.com/media/view.asp?idx=143550&kind=&sub_kind=",
+      "slug": "8b3a3c775991",
+      "title": "위험할 때 버튼 한 번... 강력범죄 불안에 ‘안심헬프미’ 신청 급증",
+      "url": "http://www.boannews.com/media/view.asp?idx=143564&kind=&sub_kind=",
       "translateUrl": "",
-      "published": "Mon, 11 May 2026 11:14:00 +0900",
-      "summary": "500만건 이상 이미지 및 영상 기반 비정형 데이터셋으로 정합률 0.99 달성과학기술정보통신부 주관 데이터 내용 인증 ‘Class A’ 확보, 기술 무결성 증명[보안뉴스 조재호 기자] 누리랩 딥페이크 탐지 모델 개발용 데이터셋이 정부 데이터품질(DQ) 인증 평가 최고 등급인 ‘클래스 A’(Class A)를 획득했다. 누리랩은 11일 딥페이크 탐지 모델 개발"
+      "published": "Mon, 11 May 2026 16:49:00 +0900",
+      "summary": "버튼 누르면 경고음, CCTV 관제센터 신고, 경찰 출동까지2024년 도입 후 청소년·여성 등 현재까지 11만개 배포이용시민 73% ‘만족’, 56%는 ‘두려움 줄었다’ 답해... 안전정책 실질 체감으로 연결[보안뉴스 강초희 기자] 최근 강력범죄 발생으로 시민 불안이 높아지는 가운데, 서울시(시장 오세훈)는 시민들이 안전하게 일상을 누릴 수 있도록 다양한"
     },
     {
       "source": "보안뉴스",
       "region": "domestic",
-      "slug": "e984a106a71b",
-      "title": "이지서티, 경남교육청 교육정보원에 클라우드형 개인정보 필터링 공급 완료",
-      "url": "http://www.boannews.com/media/view.asp?idx=143548&kind=&sub_kind=",
+      "slug": "9b6996aa67ec",
+      "title": "금융보안원, 스마트 컨트랙트 보안 검증 도구 개발... “디지털자산 신뢰 제고”",
+      "url": "http://www.boannews.com/media/view.asp?idx=143562&kind=&sub_kind=",
       "translateUrl": "",
-      "published": "Mon, 11 May 2026 11:01:00 +0900",
-      "summary": "온프레미스 환경과 동일한 보안 성능 클라우드에 구현클라우드 네이티브 전환 정책 부응... 시스템 연속성 확보[보안뉴스 조재호 기자] 이지서티가 경상남도교육청 교육정보원에 자사 개인정보 필터링 솔루션 ‘U-프라이버시 세이퍼 클라우드’(U-PRIVACY SAFER CLOUD)를 공급하고 클라우드 보안 전환을 완료했다고 11일 밝혔다.이 사업은 2024년부터 단"
+      "published": "Mon, 11 May 2026 16:47:00 +0900",
+      "summary": "토큰증권(STO) 및 가상자산 2단계 입법 대비, 3대 핵심 추진 과제 선정AI 기술 활용... 재진입 공격 등 빈출 취약점 자동 탐지하는 통합 룰셋 구축[보안뉴스 조재호 기자] 금융사가 안전하게 디지털자산 비즈니스를 전개할 수 있도록 금융보안원이 ‘스마트 컨트랙트 보안 안내서’ 발간과 전문 인력 양성 등 전방위 지원 생태계를 조성한다.금융보안원은 토큰증권"
     },
     {
       "source": "보안뉴스",
       "region": "domestic",
-      "slug": "fbfab9908659",
-      "title": "개인정보위, SNS상 정부·공공기관 사칭피해 방지 지원",
-      "url": "http://www.boannews.com/media/view.asp?idx=143549&kind=&sub_kind=",
+      "slug": "3cf68fda6be2",
+      "title": "SK쉴더스, 기업 보안 실무자 대상 ‘생성형 AI’ 실전 훈련 가동",
+      "url": "http://www.boannews.com/media/view.asp?idx=143560&kind=&sub_kind=",
       "translateUrl": "",
-      "published": "Mon, 11 May 2026 10:57:00 +0900",
-      "summary": "[보안뉴스 강현주 기자] 개인정보보호위원회(위원장 송경희)가 개인정보 사칭 피해 방지 지원체계를 11일부터 본격 운영한다. 최근 사회관계망서비스(SNS)에서 국무위원을 비롯한 공공기관장의 개인정보를 이용한 사칭 시도가 증가하여 사기 등 국민 피해가 우려됨에 따른 조치다. 개인정보위는 메타(페이스북·인스타그램), 구글(유튜브), X, 틱톡, 네이버, 카카오"
+      "published": "Mon, 11 May 2026 16:41:00 +0900",
+      "summary": "지능형 위협 환경 대응 위한 실무 교육 운영취약점 분석 및 침해사고 탐지 전반에 생성형 인공지능 적용하는 문제중심학습 도입[보안뉴스 조재호 기자] 시스템 침투에 걸리는 평균 시간이 29분으로 단축되는 등 초고속 지능형 사이버 위협이 현실화된 2026년, SK쉴더스가 이에 맞설 실무자 양성에 돌입했다.SK쉴더스는 국내 기업 보안 분야 실무자를 대상으로 ‘생성"
     },
     {
       "source": "보안뉴스",
       "region": "domestic",
-      "slug": "427eed479b17",
-      "title": "아마노코리아·안전한공간, 전기차 화재 사전 예방 협력",
-      "url": "http://www.boannews.com/media/view.asp?idx=143547&kind=&sub_kind=",
+      "slug": "93e13d464efa",
+      "title": "앤트로픽 만난 정부 “취약점 공개 대응 위한 정보 공유 요청”",
+      "url": "http://www.boannews.com/media/view.asp?idx=143561&kind=&sub_kind=",
       "translateUrl": "",
-      "published": "Mon, 11 May 2026 10:56:00 +0900",
-      "summary": "주차관제 시스템과 전기차 화재 예방 기술 연동, ‘통합 안전관리 솔루션’ 공동 구축전기차 배터리 이상 징후 실시간 분석, 아파트·다중이용시설 중심 예방형 스마트 주차장 시장 확대[보안뉴스 강초희 기자] 아마노코리아(대표 전명진)가 안전한공간(대표 신영철)과 지하주차장 안전관리 고도화를 위해 협력한다. 양사는 전기차 화재 사전 예방 및 스마트 주차관제 플랫폼"
+      "published": "Mon, 11 May 2026 15:47:00 +0900",
+      "summary": "과기정통부·국정원 등 앤트로픽 글로벌 정책 총괄 만나글래스윙 참여 여부는 아직 확답 없어[보안뉴스 강현주 기자] 과학기술정보통신부(부총리 겸 장관 배경훈)가 앤트로픽을 만나 “취약점 공개에 사전 대비할 수 있도록 정보 공유를 요청했다”고 밝혔다. 글래스윙 프로젝트에 한국 기업이 참여할 가능성에 대해서는 아직 확답을 받지 못한 것으로 알려졌다. 과기정통부는"
     },
     {
       "source": "보안뉴스",
       "region": "domestic",
-      "slug": "13830806d1a3",
-      "title": "엔비디아 ‘지포스 나우’ 게이머 신상 대거 유출... 서비스 업체 해킹",
-      "url": "http://www.boannews.com/media/view.asp?idx=143546&kind=&sub_kind=",
+      "slug": "ca5eee892ea8",
+      "title": "[배종찬의 보안 빅데이터] AI 해킹을 AI 보안이 막을 수 있나",
+      "url": "http://www.boannews.com/media/view.asp?idx=143559&kind=&sub_kind=",
       "translateUrl": "",
-      "published": "Mon, 11 May 2026 10:23:00 +0900",
-      "summary": "[보안뉴스 김형근 기자] 엔비디아의 클라우드 기반 구독형 게임 서비스 ‘지포스 나우’ 이용자 신상 정보가 대거 유출됐다. 해외 보안 전문 매체 사이버시큐리티뉴스는 지포스 나우 공식 서비스 제공사 GFN.AM의 백엔드 데이터베이스가 해커들에게 털렸다고 보도했다. 이번 공격은 3월 9일(현지시간)에 발생했으나, 업체는 약 두 달이 지난 5월 2일에야 이를 인지"
+      "published": "Mon, 11 May 2026 15:21:00 +0900",
+      "summary": "고도화된 공격형 AI의 등장, 기존 방어 체계 무력화하며 보안 패러다임의 근본적인 전환 요구[보안뉴스= 배종찬 인사이트케이 연구소장] 현재 글로벌 보안 시장은 거대한 변곡점에 서 있다. 썸트렌드(SomeTrend)의 ‘빅데이터 연관어 분석’ 결과(2026년 4월 1~28일)가 보여주듯, 인공지능(AI)은 이제 기술적 도구를 넘어 국가적 안보와 금융 시스템의"
     },
     {
       "source": "보안뉴스",
       "region": "domestic",
-      "slug": "843196cf5ed5",
-      "title": "통제 잃은 AI 로봇 막는다... 라온시큐어, 피지컬 AI 보안 인프라 설계 착수",
-      "url": "http://www.boannews.com/media/view.asp?idx=143545&kind=&sub_kind=",
+      "slug": "2509aa47dccc",
+      "title": "‘숨고’, 개인정보 유출 의심 정황 공지... 선제적 대응 착수",
+      "url": "http://www.boannews.com/media/view.asp?idx=143558&kind=&sub_kind=",
       "translateUrl": "",
-      "published": "Mon, 11 May 2026 10:08:00 +0900",
-      "summary": "한국전자기술연구원과 전략적 연대 통해 물리적 위협 차단하는 보안 기준 검증클린룸 및 비식별화 기술 적용해 보안 담보된 인공지능 학습 환경 선제 조성[보안뉴스 조재호 기자] 사이버 공간의 데이터를 넘어 로봇과 드론 등 물리적 시스템을 통제하는 AI 보안 위협을 원천 차단하기 위한 민관 공동 기술 실증이 본격화된다.라온시큐어와 한국전자기술연구원(KETI)은 A"
+      "published": "Mon, 11 May 2026 14:27:00 +0900",
+      "summary": "지난달 27일 외부자 침입 흔적 발견, 결제 내역 및 식별번호 등 유출 가능성 조사당국 신고 및 보안 취약점 진단 마쳐... “플랫폼 시스템은 안전하게 정상 운영 중”[보안뉴스 조재호 기자] 생활 서비스 매칭 플랫폼 서비스 ‘숨고’ 운영사 브레이브모바일이 지난달 27일 서비스 시스템에 대한 외부자 침입 및 개인정보 유출 의심 정황을 포착했다. 브레이브모바일"
+    },
+    {
+      "source": "ASEC KR",
+      "region": "domestic",
+      "slug": "13694c21e894",
+      "title": "2026년 4월 다크웹 침해사고 동향 보고서",
+      "url": "https://asec.ahnlab.com/ko/93627/",
+      "translateUrl": "",
+      "published": "Sun, 10 May 2026 15:00:00 +0000",
+      "summary": "알림 2026년 4월 다크웹 침해사고 동향 보고서는 딥웹 및 다크웹 포럼에 게시된 Data Breach 사례를 중심으로 정리되었다. 일부 정보는 출처 특성상 사실 여부를 완전히 확인하기 어려운 사례가 포함되었다. 주요 이슈 다크웹 주요 포럼인 BreachForums(Hasan 운영), DarkForums, Exploit, Spear, PwnForums에서 군사, 정부, 금융, 기술, 의료, "
+    },
+    {
+      "source": "ASEC KR",
+      "region": "domestic",
+      "slug": "1bc16d3d8188",
+      "title": "2026년 4월 다크웹 이슈 동향 보고서",
+      "url": "https://asec.ahnlab.com/ko/93631/",
+      "translateUrl": "",
+      "published": "Sun, 10 May 2026 15:00:00 +0000",
+      "summary": "알림 2026년 4월 다크웹 이슈 동향 보고서는 딥웹 및 다크웹에서 발생한 주요 이슈를 정리한 내용이다. 일부 정보는 출처 특성상 사실 여부를 완전히 확인하기 어려운 사례가 포함되었다. 주요 이슈 BreachForums는 신규 도메인을 공개하며 재가동을 이어갔고, 운영 업데이트 공지를 반복했다. 동시에 PwnForums 같은 사칭 포럼이 등장했고, BreachForums 측은 이에 대한 경고"
+    },
+    {
+      "source": "ASEC KR",
+      "region": "domestic",
+      "slug": "18b0344ccac7",
+      "title": "2026년 4월 다크웹 위협 행위자 동향 보고서",
+      "url": "https://asec.ahnlab.com/ko/93632/",
+      "translateUrl": "",
+      "published": "Sun, 10 May 2026 15:00:00 +0000",
+      "summary": "알림 2026년 4월 다크웹 위협 행위자 동향 보고서는 딥웹 및 다크웹에서 활동하는 핵티비스트와 위협 행위자의 동향을 정리한 내용이다. 일부 정보는 출처 특성상 사실 여부를 완전히 확인하기 어려운 사례가 포함되었다. 주요 이슈 NoName05716은 한국 지역의 정부기관, 공공기관, 기업 등 수십 곳을 대상으로 반복적인 DDoS 공격을 주장했다. 단일 주장에서는 최대 22개 기관이 동시에 표"
     },
     {
       "source": "KISA 보안공지",
@@ -272,36 +302,6 @@
       "summary": "내용. 금융권 대상 피싱, 웹셸, 드로퍼, 백도어, 다운로더, 인포스틸러, 코인마이너 등 다수 악성코드 샘플이 유포된 정황이 확인되었다. 한글 위장 첨부파일명과 HTML/JS 실행 유도 방식이 피싱 전파에 활용된 사례가 다수 관찰되었다. 텔레그램 API를 통한 계정 유출 캠페인이 확인되었으며, 조사기간 내 금융권 계정 유출 비중이 약 4%로 집계되었다. Lazarus 그룹의 워터링홀 공격에서"
     },
     {
-      "source": "ASEC KR",
-      "region": "domestic",
-      "slug": "eea7a7fb0f54",
-      "title": "Ransom & Dark Web Issues 2026년 4월 3주차",
-      "url": "https://asec.ahnlab.com/ko/93409/",
-      "translateUrl": "",
-      "published": "Wed, 15 Apr 2026 15:00:00 +0000",
-      "summary": "ASEC Blog를 통해 한 주간의 ‘Ransom & Dark Web Issues’ – 2026년 4월 3주차를 게시한다. 신규 랜섬웨어 TiMC, BlackWater, Lamashtu 등장 [1], [2], [3] NoName05716, 대한민국 공공기관 및 기업 대상 DDoS 공격 주장 [1], [2], [3] VECT·TeamPCP 캠페인 확산: 네덜란드 유명 온라인 여행 예약 플랫폼 "
-    },
-    {
-      "source": "ASEC KR",
-      "region": "domestic",
-      "slug": "1be204a0f997",
-      "title": "2026년 3월 랜섬웨어 동향 보고서",
-      "url": "https://asec.ahnlab.com/ko/93358/",
-      "translateUrl": "",
-      "published": "Tue, 14 Apr 2026 00:38:09 +0000",
-      "summary": "목적 및 범위. 이 보고서는 2026년 3월 한 달 동안 확인된 랜섬웨어 샘플 수량, 피해 시스템 수량, DLS 기반 통계와 주요 국내외 랜섬웨어 이슈를 요약한다. 주요 통계. 랜섬웨어 샘플 수량 및 피해 시스템 통계는 안랩에서 부여한 진단명 기준으로 집계되었다. 랜섬웨어 피해 업체 통계는 각 그룹의 DLS(Dedicated Leak Sites)에 공개된 정보를 ATIP 인프라 수집 시점을 "
-    },
-    {
-      "source": "ASEC KR",
-      "region": "domestic",
-      "slug": "524312ed62d5",
-      "title": "2026년 3월 다크웹 이슈 동향 보고서",
-      "url": "https://asec.ahnlab.com/ko/93321/",
-      "translateUrl": "",
-      "published": "Sun, 12 Apr 2026 15:00:00 +0000",
-      "summary": "알림 본 보고서는 딥웹 및 다크웹 출처 기반 자료를 요약한 것이며 일부 사실관계는 출처 특성상 완전 확인이 어려운 내용이 포함되어 있다. 주요 이슈 BreachForums 내부 붕괴와 재구축 시도가 관측되었다. 운영자 배신과 자금 이동 정황으로 신뢰가 손상되었으며 다수 클론(.ac, .us 등)과 사칭 도메인 난립으로 이용자 혼선이 심화되었다. BreachForums는 Vect 및 Spear"
-    },
-    {
       "source": "KISA 취약점정보",
       "region": "domestic",
       "slug": "f1ae99a00ea4",
@@ -400,6 +400,26 @@
       "translateUrl": "",
       "published": "2024-02-23",
       "summary": ""
+    },
+    {
+      "source": "The Hacker News",
+      "region": "global",
+      "slug": "146edddf2d19",
+      "title": "Fake OpenAI Privacy Filter Repo Hits #1 on Hugging Face, Draws 244K Downloads",
+      "url": "https://thehackernews.com/2026/05/fake-openai-privacy-filter-repo-hits-1.html",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Ffake-openai-privacy-filter-repo-hits-1.html",
+      "published": "Mon, 11 May 2026 12:35:00 +0530",
+      "summary": "A malicious Hugging Face repository managed to take a spot in the platform's trending list by impersonating OpenAI's Privacy Filter open-weight model to deliver a Rust-based information stealer to Windows users. The proj"
+    },
+    {
+      "source": "BleepingComputer",
+      "region": "global",
+      "slug": "5b75b7f11ebb",
+      "title": "TrickMo Android banker adopts TON blockchain for covert comms",
+      "url": "https://www.bleepingcomputer.com/news/security/trickmo-android-banker-adopts-ton-blockchain-for-covert-comms/",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Ftrickmo-android-banker-adopts-ton-blockchain-for-covert-comms%2F",
+      "published": "Mon, 11 May 2026 05:03:02 -0400",
+      "summary": "A new variant of the TrickMo Android banking malware, delivered in campaigns targeting users across Europe, introduces new commands and uses The Open Network (TON) for stealthy command-and-control communications. [...]"
     },
     {
       "source": "The Hacker News",
@@ -580,26 +600,6 @@
       "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Fcisa-gives-feds-four-days-to-patch-ivanti-flaw-exploited-as-zero-day%2F",
       "published": "Fri, 08 May 2026 08:16:32 -0400",
       "summary": "CISA has given U.S. federal agencies four days to secure their networks against a high-severity vulnerability in Ivanti Endpoint Manager Mobile (EPMM) exploited in zero-day attacks. [...]"
-    },
-    {
-      "source": "BleepingComputer",
-      "region": "global",
-      "slug": "0007c1cd081b",
-      "title": "Zara data breach exposed personal information of 197,000 people",
-      "url": "https://www.bleepingcomputer.com/news/security/zara-data-breach-exposed-personal-information-of-197-000-people/",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Fzara-data-breach-exposed-personal-information-of-197-000-people%2F",
-      "published": "Fri, 08 May 2026 06:42:22 -0400",
-      "summary": "Hackers who gained access to the databases of Spanish fast-fashion retailer Zara stole data belonging to more than 197,000 customers, according to data breach notification service Have I Been Pwned. [...]"
-    },
-    {
-      "source": "BleepingComputer",
-      "region": "global",
-      "slug": "b4d783455279",
-      "title": "Former govt contractor convicted for wiping dozens of federal databases",
-      "url": "https://www.bleepingcomputer.com/news/security/former-govt-contractor-convicted-for-wiping-dozens-of-federal-databases/",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Fformer-govt-contractor-convicted-for-wiping-dozens-of-federal-databases%2F",
-      "published": "Fri, 08 May 2026 04:45:04 -0400",
-      "summary": "A 34-year-old Virginia man was found guilty of conspiring to destroy dozens of government databases after getting fired from his job as a federal contractor. [...]"
     }
   ],
   "errors": []
