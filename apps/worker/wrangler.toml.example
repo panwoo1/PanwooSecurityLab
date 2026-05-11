@@ -1,6 +1,7 @@
 name = "panwoo-security-lab"
 main = "src/index.ts"
 compatibility_date = "2026-05-09"
+keep_vars = true
 
 # Configure these in Cloudflare dashboard or with Wrangler secrets/vars:
 # SUPABASE_URL

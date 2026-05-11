@@ -9,6 +9,8 @@
 
 `SUPABASE_URL`은 `https://<project-ref>.supabase.co` 형식의 프로젝트 URL을 사용하세요.
 이 Worker 경로에는 `service_role` key를 넣지 말고 anon key만 등록합니다.
+Cloudflare에는 두 값을 일반 plaintext variable보다 Secret 타입으로 등록하세요.
+`wrangler.toml`의 `keep_vars = true`는 GitHub 배포가 대시보드에서 등록한 변수/secret을 지우지 않도록 유지합니다.
 
 ```sql
 create table if not exists app_messages (
