@@ -1,6 +1,66 @@
 {
-  "generated_at": "2026-05-12T04:02:58.062124+00:00",
+  "generated_at": "2026-05-12T08:52:47.745195+00:00",
   "items": [
+    {
+      "source": "보안뉴스",
+      "region": "domestic",
+      "slug": "c385ffea4449",
+      "title": "이노티움, ‘AI 문서중앙화’ 반도체 등 다양한 산업 공급",
+      "url": "http://www.boannews.com/media/view.asp?idx=143595&kind=&sub_kind=",
+      "translateUrl": "",
+      "published": "Tue, 12 May 2026 17:30:00 +0900",
+      "summary": "첨단 반도체·원전·금융·프랜차이즈·공공기관에 공급“AI 경쟁력은 데이터 통제에서 시작”[보안뉴스 강현주 기자] AI 확산과 함께 기업 IT 전략의 중심이 ‘협업툴’에서 ‘데이터 통제’로 빠르게 이동하고 있다. 마이크로소프트365 등 협업 환경은 업무 효율성을 높였지만, 데이터가 클라우드와 개인 단말기에 분산되면서 보안과 통제의 한계도 동시에 나타나고 있다."
+    },
+    {
+      "source": "보안뉴스",
+      "region": "domestic",
+      "slug": "fac03af9fc7e",
+      "title": "‘제로트러스트 창시자’ 존 킨더바그 “미토스 공포? ‘격리’가 관건”",
+      "url": "http://www.boannews.com/media/view.asp?idx=143592&kind=&sub_kind=",
+      "translateUrl": "",
+      "published": "Tue, 12 May 2026 16:50:00 +0900",
+      "summary": "일루미오 간담회에서 제로트러스트 전략 제시“침해는 불가피, 격리가 전략” 강조[보안뉴스 강현주 기자] “제로트러스트는 AI 공격에 대한 완벽한 방어 전략입니다. 마이크로세그멘테이션이야말로 제로트러스트의 근간입니다.”‘제로트러스트 창시자’라고 불리는 존 킨더바그 일루미오 수석 에반젤리스트는 12일 기자들과 만나 이같이 밝혔다. 일루미오는 이날 서울 삼성동 아"
+    },
+    {
+      "source": "보안뉴스",
+      "region": "domestic",
+      "slug": "a502868b51b2",
+      "title": "개인정보위, 중대 유출 반복되면 과징금 10%... “사전 예방으로 보안 패러다임 전환”",
+      "url": "http://www.boannews.com/media/view.asp?idx=143590&kind=&sub_kind=",
+      "translateUrl": "",
+      "published": "Tue, 12 May 2026 15:00:00 +0900",
+      "summary": "개인정보 중심 설계(PbD) 제도화, 1700개 고위험 시스템 위험기반 정기 점검입증 책임 기업으로 전환... 피해 구제 실효성 높이고 보안 투자 인센티브 확대[보안뉴스 조재호 기자] 개인정보보호위원회가 사후 처벌 위주였던 국가 개인정보 안보 거버넌스를 사전 예방 및 위험 관리 중심으로 전면 개편한다. 전체 매출의 10%에 달하는 징벌적 과징금으로 기업의"
+    },
+    {
+      "source": "보안뉴스",
+      "region": "domestic",
+      "slug": "cb20e6988a4b",
+      "title": "[양자와 보안] 공공기관 양자보안 구축 의무화된다... 양자-AI 융합도 지원",
+      "url": "http://www.boannews.com/media/view.asp?idx=143591&kind=&sub_kind=",
+      "translateUrl": "",
+      "published": "Tue, 12 May 2026 14:51:00 +0900",
+      "summary": "양자기술산업법 개정안 국무회의 통과양자-AI 융합 등 새 정책 수요 반영[보안뉴스 한세희 기자] 앞으로 정부와 지자체 등은 의무적으로 양자보안 체계를 구축해야 한다. 양자컴퓨팅과 인공지능, 슈퍼컴퓨팅 기술 개발 지원을 위한 법적 근거도 마련됐다. 과학기술정보통신부는 12일 열린 국무회의에서 이같은 내용의 ‘양자과학기술 및 양자산업 육성에 관한 법률 일부개정"
+    },
+    {
+      "source": "보안뉴스",
+      "region": "domestic",
+      "slug": "3fa8655e66cc",
+      "title": "[이슈칼럼] 정밀 타격 시대, VIP 경호 패러다임의 전략적 전환",
+      "url": "http://www.boannews.com/media/view.asp?idx=143589&kind=&sub_kind=",
+      "translateUrl": "",
+      "published": "Tue, 12 May 2026 14:37:00 +0900",
+      "summary": "경호의 중심축을 물리적 ‘요새화’에서 ‘지능형 회복탄력성’으로 전환... 세 가지 핵심 전략[보안뉴스= 박진이 에스알 상임감사] 2026년 이란 전쟁의 개전과 함께 단행된 미국·이스라엘의 하메네이 제거 작전은, 2020년 솔레이마니와 2024년 나스랄라 사살로 이어진 ‘정밀 타격’ 흐름의 정점을 보여준다. 이 일련의 사건은 적대국 지도자에 대한 제거 방식"
+    },
+    {
+      "source": "보안뉴스",
+      "region": "domestic",
+      "slug": "57481a161b07",
+      "title": "[속담으로 배우는 100가지 보안 습관-12] 돌다리도 두드려 보고 건너라(2)-앱 아무 데서나 설치하면 생기는 일",
+      "url": "http://www.boannews.com/media/view.asp?idx=143237&kind=&sub_kind=",
+      "translateUrl": "",
+      "published": "Tue, 12 May 2026 13:19:00 +0900",
+      "summary": "공식 앱스토어(Google Play, App Store) 외의 경로로 앱을 설치하지 마세요보안 사고의 90%는 해킹이 아니라 ‘실수’에서 시작된다. 그래서 우리는 기술보다 습관을 배워야 한다. 속담으로 배우는 100가지 보안 습관에서는 △스마트폰 보안 △계정·비밀번호 △PC·인터넷 △생활 보안 △금융·개인정보 등 100가지 보안 습관을 속담과 연관시켜 소개"
+    },
     {
       "source": "보안뉴스",
       "region": "domestic",
@@ -42,74 +102,24 @@
       "summary": "블록체인·AI 신기술 구현 방향 제시... 참가자들 실전 감각 끌어올려오는 30일까지 참가 신청... 최종 수상팀에 상금과 최대 10억원 규모 창업지원 혜택[보안뉴스 원병철 기자] 블록체인과 인공지능(AI) 기술을 결합한 실전형 경진대회가 개막 전부터 열기를 높이고 있다. 한국디지털인증협회(회장 이기혁)는 오는 6월 열리는 ‘2026 블록체인 AI 해커톤’"
     },
     {
-      "source": "보안뉴스",
+      "source": "KISA 보안공지",
       "region": "domestic",
-      "slug": "21d421c54858",
-      "title": "유로폴의 배신... 법적 감시망 피한 ‘그림자 IT’로 시민 정보 유린",
-      "url": "http://www.boannews.com/media/view.asp?idx=143584&kind=&sub_kind=",
+      "slug": "32e2a0b2bdb4",
+      "title": "cPanel 제품 보안 업데이트 권고",
+      "url": "https://www.boho.or.kr/kr/bbs/view.do?searchCnd=&bbsId=B0000133&searchWrd=&menuNo=205020&pageIndex=1&categoryCode=&nttId=72048",
       "translateUrl": "",
-      "published": "Tue, 12 May 2026 10:44:00 +0900",
-      "summary": "유럽 시민 민감 정보 무차별 접근수사 권한 확대 및 예산 확보 노력에 찬물[보안뉴스 김형근 기자] 유럽 범죄 대응 사령부 유로폴(Europol)이 EU 법망을 교묘히 피한 채 방대한 개인정보를 다루는 비밀 분석 플랫폼을 운영해온 사실이 폭로됐다.이른바 ‘그림자 IT 환경’(Shadow IT environment)으로 불리는 시스템이 공식 데이터베이스 뒤편에"
+      "published": "2026-05-12",
+      "summary": ""
     },
     {
-      "source": "보안뉴스",
+      "source": "KISA 보안공지",
       "region": "domestic",
-      "slug": "c4e1c7d99a9f",
-      "title": "팔로알토 네트웍스, 포트키 인수 추진... “AI 에이전트 보안 강화”",
-      "url": "http://www.boannews.com/media/view.asp?idx=143583&kind=&sub_kind=",
+      "slug": "d6aca36a46d5",
+      "title": "Ollama 제품 보안 업데이트 권고",
+      "url": "https://www.boho.or.kr/kr/bbs/view.do?searchCnd=&bbsId=B0000133&searchWrd=&menuNo=205020&pageIndex=1&categoryCode=&nttId=72047",
       "translateUrl": "",
-      "published": "Tue, 12 May 2026 10:35:00 +0900",
-      "summary": "자율 AI 에이전트 운영의 핵심 제어 계층으로 AI 게이트웨이 역할 강화[보안뉴스 강현주 기자] 팔로알토 네트웍스는 AI 게이트웨이 분야 선도 기업인 포트키(Portkey)를 인수할 계획이라고 12일 밝혔다. 포트키는 자율 AI 에이전트를 관리하고 보호하기 위한 중앙화된 제어 계층을 제공하는 기업이다. 에이전트 간 통신에 필요한 낮은 지연시간을 유지하면서"
-    },
-    {
-      "source": "보안뉴스",
-      "region": "domestic",
-      "slug": "ceb1128bd388",
-      "title": "한화비전, 장애 영유아 안전 인프라 구축 프로젝트 ‘비전(Vision)지대’ 첫발",
-      "url": "http://www.boannews.com/media/view.asp?idx=143582&kind=&sub_kind=",
-      "translateUrl": "",
-      "published": "Tue, 12 May 2026 10:34:00 +0900",
-      "summary": "장애 영유아 거주시설 초록나무에 ‘AI 카메라’ 등 안전 인프라 지원최신 보안 기술 적용으로 배회·쓰러짐 감지해 안전한 생활환경 조성모든 시설 ‘평생 무상 A/S’ 지원 및 다양한 복지시설에 지원 확대[보안뉴스 엄호식 기자] 한화비전이 각종 사고에 취약한 장애 영유아들을 위해 ‘안전 인프라 조성’에 나선다. 한화비전은 새 사회공헌 프로젝트인 △비전지대를 이"
-    },
-    {
-      "source": "보안뉴스",
-      "region": "domestic",
-      "slug": "ec0da376ece9",
-      "title": "AI 위협 현실되는데... 보안 담당자는 ‘처벌 대응’에 밤샌다",
-      "url": "http://www.boannews.com/media/view.asp?idx=143579&kind=&sub_kind=",
-      "translateUrl": "",
-      "published": "Tue, 12 May 2026 10:11:00 +0900",
-      "summary": "[3줄 요약]1. 내부 유출 아닌 외부 공격에도 정직·면직·취업제한까지2. 유럽은 DPO 신분 보장 강화... 국내도 CPO 형사처벌법 폐지3. ‘회복 탄력성’ 중요한 시대에 처벌 중심 체계 맞나 [보안뉴스 강현주 기자] 미토스 충격으로 ‘회복 탄력성’의 중요성이 더욱 부각되는 가운데, 사고 대응에 집중해야 할 보안 인력들은 여전히 ‘처벌 대응’에 시달린다"
-    },
-    {
-      "source": "보안뉴스",
-      "region": "domestic",
-      "slug": "4ccae2ba1357",
-      "title": "[배종찬의 보안 빅데이터] 영화 터미네이터의 사이버 재앙은 현실이 될까",
-      "url": "http://www.boannews.com/media/view.asp?idx=143563&kind=&sub_kind=",
-      "translateUrl": "",
-      "published": "Tue, 12 May 2026 10:09:00 +0900",
-      "summary": "AI에 의한 실존적 위협, 인류는 준비됐나?[보안뉴스= 배종찬 인사이트케이 연구소장] 1984년 영화 ‘터미네이터‘가 처음 등장했을 때, 인류를 멸망시키려는 인공지능 ‘스카이넷’은 먼 미래의 허구적 장치에 불과했다. 하지만 2026년 현재, 우리는 더 이상 그것을 단순한 공상과학(SF)으로 치부하지 않는다. 최근 인공지능(AI) 기술의 비약적인 발전은 우리"
-    },
-    {
-      "source": "보안뉴스",
-      "region": "domestic",
-      "slug": "b243b3e66069",
-      "title": "비밀번호 없이 로그인한다.. ‘SKT 패스키’ GS 인증 1등급 획득",
-      "url": "http://www.boannews.com/media/view.asp?idx=143581&kind=&sub_kind=",
-      "translateUrl": "",
-      "published": "Tue, 12 May 2026 10:08:00 +0900",
-      "summary": "FIDO 표준 기반... 국가 공인 인증 취득으로 품질 입증사내 주요 시스템에 선제 도입, 기업시장 확산 추진[보안뉴스 한세희 기자] SKT가 비밀번호 없이 로그인하는 기술의 확산에 나선다. SK텔레콤(대표 정재헌)은 차세대 인증 솔루션 ‘SK텔레콤 패스키’(Passkey by SK Telecom)가 한국정보통신기술협회(TTA) 소프트웨어 품질인증 최고"
-    },
-    {
-      "source": "ASEC KR",
-      "region": "domestic",
-      "slug": "18b0344ccac7",
-      "title": "2026년 4월 다크웹 위협 행위자 동향 보고서",
-      "url": "https://asec.ahnlab.com/ko/93632/",
-      "translateUrl": "",
-      "published": "Sun, 10 May 2026 15:00:00 +0000",
-      "summary": "알림 2026년 4월 다크웹 위협 행위자 동향 보고서는 딥웹 및 다크웹에서 활동하는 핵티비스트와 위협 행위자의 동향을 정리한 내용이다. 일부 정보는 출처 특성상 사실 여부를 완전히 확인하기 어려운 사례가 포함되었다. 주요 이슈 NoName05716은 한국 지역의 정부기관, 공공기관, 기업 등 수십 곳을 대상으로 반복적인 DDoS 공격을 주장했다. 단일 주장에서는 최대 22개 기관이 동시에 표"
+      "published": "2026-05-12",
+      "summary": ""
     },
     {
       "source": "ASEC KR",
@@ -130,6 +140,16 @@
       "translateUrl": "",
       "published": "Sun, 10 May 2026 15:00:00 +0000",
       "summary": "알림 2026년 4월 다크웹 이슈 동향 보고서는 딥웹 및 다크웹에서 발생한 주요 이슈를 정리한 내용이다. 일부 정보는 출처 특성상 사실 여부를 완전히 확인하기 어려운 사례가 포함되었다. 주요 이슈 BreachForums는 신규 도메인을 공개하며 재가동을 이어갔고, 운영 업데이트 공지를 반복했다. 동시에 PwnForums 같은 사칭 포럼이 등장했고, BreachForums 측은 이에 대한 경고"
+    },
+    {
+      "source": "ASEC KR",
+      "region": "domestic",
+      "slug": "18b0344ccac7",
+      "title": "2026년 4월 다크웹 위협 행위자 동향 보고서",
+      "url": "https://asec.ahnlab.com/ko/93632/",
+      "translateUrl": "",
+      "published": "Sun, 10 May 2026 15:00:00 +0000",
+      "summary": "알림 2026년 4월 다크웹 위협 행위자 동향 보고서는 딥웹 및 다크웹에서 활동하는 핵티비스트와 위협 행위자의 동향을 정리한 내용이다. 일부 정보는 출처 특성상 사실 여부를 완전히 확인하기 어려운 사례가 포함되었다. 주요 이슈 NoName05716은 한국 지역의 정부기관, 공공기관, 기업 등 수십 곳을 대상으로 반복적인 DDoS 공격을 주장했다. 단일 주장에서는 최대 22개 기관이 동시에 표"
     },
     {
       "source": "KISA 보안공지",
@@ -222,16 +242,6 @@
       "summary": ""
     },
     {
-      "source": "KISA 보안공지",
-      "region": "domestic",
-      "slug": "cc01884cf969",
-      "title": "Tenable 제품 보안 업데이트 권고",
-      "url": "https://www.boho.or.kr/kr/bbs/view.do?searchCnd=&bbsId=B0000133&searchWrd=&menuNo=205020&pageIndex=1&categoryCode=&nttId=72037",
-      "translateUrl": "",
-      "published": "2026-04-29",
-      "summary": ""
-    },
-    {
       "source": "ASEC KR",
       "region": "domestic",
       "slug": "e720d5776690",
@@ -240,16 +250,6 @@
       "translateUrl": "",
       "published": "Tue, 28 Apr 2026 15:00:00 +0000",
       "summary": "ASEC Blog를 통해 한 주간의 ‘Ransom & Dark Web Issues’ – 2026년 4월 5주차를 게시한다. 신규 랜섬웨어 그룹 M3RX 등장 대한민국 한 종교 단체의 데이터, DarkForums에서 판매 ShinyHunters, 미국 인터렉티브 미디어 기업의 데이터 탈취 주장"
-    },
-    {
-      "source": "KISA 보안공지",
-      "region": "domestic",
-      "slug": "dce4bbb22867",
-      "title": "주민센터를 사칭한 대표번호 회신유도 보이스피싱 주의",
-      "url": "https://www.boho.or.kr/kr/bbs/view.do?searchCnd=&bbsId=B0000133&searchWrd=&menuNo=205020&pageIndex=1&categoryCode=&nttId=72036",
-      "translateUrl": "",
-      "published": "2026-04-28",
-      "summary": ""
     },
     {
       "source": "ASEC KR",
@@ -400,6 +400,36 @@
       "translateUrl": "",
       "published": "2024-02-23",
       "summary": ""
+    },
+    {
+      "source": "The Hacker News",
+      "region": "global",
+      "slug": "77e5dc26318b",
+      "title": "Instructure Reaches Ransom Agreement with ShinyHunters to Stop 3.65TB Canvas Leak",
+      "url": "https://thehackernews.com/2026/05/instructure-reaches-ransom-agreement.html",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Finstructure-reaches-ransom-agreement.html",
+      "published": "Tue, 12 May 2026 13:07:00 +0530",
+      "summary": "American educational technology company Instructure, the parent company of Canvas, said it reached an \"agreement\" with a decentralized cybercrime extortion group after it breached its network and threatened to leak stole"
+    },
+    {
+      "source": "The Hacker News",
+      "region": "global",
+      "slug": "1a0f7b141fb8",
+      "title": "OpenAI Launches Daybreak for AI-Powered Vulnerability Detection and Patch Validation",
+      "url": "https://thehackernews.com/2026/05/openai-launches-daybreak-for-ai-powered.html",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Fopenai-launches-daybreak-for-ai-powered.html",
+      "published": "Tue, 12 May 2026 12:25:00 +0530",
+      "summary": "OpenAI has launched Daybreak, a new cybersecurity initiative that brings together frontier artificial intelligence (AI) model capabilities and Codex Security to help organizations identify and patch vulnerabilities befor"
+    },
+    {
+      "source": "The Hacker News",
+      "region": "global",
+      "slug": "af3ff357cb2f",
+      "title": "iOS 26.5 Brings Default End-to-End Encrypted RCS Messaging Between iPhone and Android",
+      "url": "https://thehackernews.com/2026/05/ios-265-brings-default-end-to-end.html",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Fios-265-brings-default-end-to-end.html",
+      "published": "Tue, 12 May 2026 10:48:00 +0530",
+      "summary": "Apple on Monday officially released iOS 26.5 with support for end-to-end encryption (E2EE) to Rich Communication Services (RCS) in beta as part of a \"cross-industry effort\" to replace traditional SMS with a more secure a"
     },
     {
       "source": "The Hacker News",
@@ -570,36 +600,6 @@
       "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Fpolice-shut-down-reboot-of-crimenetwork-marketplace-arrest-admin%2F",
       "published": "Sun, 10 May 2026 10:16:47 -0400",
       "summary": "German authorities have shut down a relaunch version of the criminal marketplace 'Crimenetwork' that generated more than 3.6 million euros, and arrested its operator. [...]"
-    },
-    {
-      "source": "The Hacker News",
-      "region": "global",
-      "slug": "aa67df4b7186",
-      "title": "cPanel, WHM Release Fixes for Three New Vulnerabilities — Patch Now",
-      "url": "https://thehackernews.com/2026/05/cpanel-whm-patch-3-new-vulnerabilities.html",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Fcpanel-whm-patch-3-new-vulnerabilities.html",
-      "published": "Sat, 09 May 2026 12:46:00 +0530",
-      "summary": "cPanel has released updates to address three vulnerabilities in cPanel and Web Host Manager (WHM) that could be exploited to achieve privilege escalation, code execution, and denial-of-service. The list of vulnerabilitie"
-    },
-    {
-      "source": "The Hacker News",
-      "region": "global",
-      "slug": "209ca3a7fe4b",
-      "title": "TCLBANKER Banking Trojan Targets Financial Platforms via WhatsApp and Outlook Worms",
-      "url": "https://thehackernews.com/2026/05/tclbanker-banking-trojan-targets.html",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Ftclbanker-banking-trojan-targets.html",
-      "published": "Fri, 08 May 2026 23:42:00 +0530",
-      "summary": "Threat hunters have flagged a previously undocumented Brazilian banking trojan dubbed TCLBANKER that's capable of targeting 59 banking, fintech, and cryptocurrency platforms. The activity is being tracked by Elastic Secu"
-    },
-    {
-      "source": "The Hacker News",
-      "region": "global",
-      "slug": "4cb29afddbd8",
-      "title": "Fake Call History Apps Stole Payments From Users After 7.3 Million Play Store Downloads",
-      "url": "https://thehackernews.com/2026/05/fake-call-history-apps-stole-payments.html",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Ffake-call-history-apps-stole-payments.html",
-      "published": "Fri, 08 May 2026 20:38:00 +0530",
-      "summary": "Cybersecurity researchers have discovered fraudulent apps on the official Google Play Store for Android that falsely claimed to offer access to call histories for any phone number, only to trick users into joining a subs"
     }
   ],
   "errors": []
