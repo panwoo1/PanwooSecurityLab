@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-12T14:52:27.601019+00:00",
+  "generated_at": "2026-05-12T20:05:57.147174+00:00",
   "items": [
     {
       "source": "보안뉴스",
@@ -404,6 +404,26 @@
     {
       "source": "The Hacker News",
       "region": "global",
+      "slug": "5fb6512a0aac",
+      "title": "New Exim BDAT Vulnerability Exposes GnuTLS Builds to Potential Code Execution",
+      "url": "https://thehackernews.com/2026/05/new-exim-bdat-vulnerability-exposes.html",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Fnew-exim-bdat-vulnerability-exposes.html",
+      "published": "Tue, 12 May 2026 22:14:00 +0530",
+      "summary": "Exim has released security updates to address a severe security issue affecting certain configurations that could enable memory corruption and potential code execution. Exim is an open-source Mail Transfer Agent (MTA) de"
+    },
+    {
+      "source": "The Hacker News",
+      "region": "global",
+      "slug": "6bced755ddba",
+      "title": "RubyGems Suspends New Signups After Hundreds of Malicious Packages Are Uploaded",
+      "url": "https://thehackernews.com/2026/05/rubygems-suspends-new-signups-after.html",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Frubygems-suspends-new-signups-after.html",
+      "published": "Tue, 12 May 2026 20:17:00 +0530",
+      "summary": "RubyGems, the standard package manager for the Ruby programming language, has temporarily paused account sign ups following what has been described as a \"major malicious attack.\" \"We're dealing with a major malicious att"
+    },
+    {
+      "source": "The Hacker News",
+      "region": "global",
       "slug": "4340e9c3f058",
       "title": "New TrickMo Variant Uses TON C2 and SOCKS5 to Create Android Network Pivots",
       "url": "https://thehackernews.com/2026/05/new-trickmo-variant-uses-ton-c2-and.html",
@@ -429,7 +449,7 @@
       "url": "https://thehackernews.com/2026/05/mini-shai-hulud-worm-compromises.html",
       "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Fmini-shai-hulud-worm-compromises.html",
       "published": "Tue, 12 May 2026 17:16:00 +0530",
-      "summary": "TeamPCP, the threat actor behind the recent supply chain attack spree, has been linked to the compromise of the npm and PyPI packages from TanStack, UiPath, Mistral AI, OpenSearch, and Guardrails AI as part of a fresh Mi"
+      "summary": "TeamPCP, the threat actor behind the recentsupply chain attack spree, has been linked to the compromise of the npm and PyPI packages from TanStack, UiPath, Mistral AI, OpenSearch, and Guardrails AI as part of a fresh Min"
     },
     {
       "source": "The Hacker News",
@@ -442,6 +462,76 @@
       "summary": "Agentic AI is already running in production environments across many organizations today. It is executing tasks, consuming data, and taking actions — most likely without meaningful involvement from the security team. The"
     },
     {
+      "source": "BleepingComputer",
+      "region": "global",
+      "slug": "42ed9ffae974",
+      "title": "Webinar: Fixing the gaps in network incident response",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-fixing-the-gaps-in-network-incident-response/",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Fwebinar-fixing-the-gaps-in-network-incident-response%2F",
+      "published": "Tue, 12 May 2026 15:46:04 -0400",
+      "summary": "IT teams often struggle to quickly coordinate responses across disparate systems during network incidents. This upcoming webinar explores how automation and AI-assisted workflows can reduce response times and help preven"
+    },
+    {
+      "source": "BleepingComputer",
+      "region": "global",
+      "slug": "d4a35a7edc59",
+      "title": "Signal adds security warnings for social engineering, phishing attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/signal-adds-security-warnings-for-social-engineering-phishing-attacks/",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Fsignal-adds-security-warnings-for-social-engineering-phishing-attacks%2F",
+      "published": "Tue, 12 May 2026 15:40:31 -0400",
+      "summary": "Signal has introduced new in-app confirmations and warning messages as additional safeguards against phishing and social engineering attempts that could lead to various forms of fraud. [...]"
+    },
+    {
+      "source": "BleepingComputer",
+      "region": "global",
+      "slug": "0c116e36af6d",
+      "title": "Microsoft releases Windows 10 KB5087544 extended security update",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5087544-extended-security-update/",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fmicrosoft%2Fmicrosoft-releases-windows-10-kb5087544-extended-security-update%2F",
+      "published": "Tue, 12 May 2026 14:58:34 -0400",
+      "summary": "Microsoft has released the Windows 10 KB5087544 extended security update to fix the May 2026 Patch Tuesday vulnerabilities and resolve an issue with the new Remote Desktop warnings. [...]"
+    },
+    {
+      "source": "BleepingComputer",
+      "region": "global",
+      "slug": "be6e701efc21",
+      "title": "Fortinet warns of critical RCE flaws in FortiSandbox and FortiAuthenticator",
+      "url": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-rce-flaws-in-fortisandbox-and-fortiauthenticator/",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Ffortinet-warns-of-critical-rce-flaws-in-fortisandbox-and-fortiauthenticator%2F",
+      "published": "Tue, 12 May 2026 14:23:09 -0400",
+      "summary": "Fortinet has released security patches for two critical vulnerabilities in FortiSandbox and FortiAuthenticator that could enable attackers to run commands or arbitrary code. [...]"
+    },
+    {
+      "source": "BleepingComputer",
+      "region": "global",
+      "slug": "75fc6d015127",
+      "title": "Windows 11 KB5089549 & KB5087420 cumulative updates released",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5089549-and-kb5087420-cumulative-updates-released/",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fmicrosoft%2Fwindows-11-kb5089549-and-kb5087420-cumulative-updates-released%2F",
+      "published": "Tue, 12 May 2026 14:09:12 -0400",
+      "summary": "Microsoft has released Windows 11 KB5089549 and KB5087420 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]"
+    },
+    {
+      "source": "BleepingComputer",
+      "region": "global",
+      "slug": "6fc0c1ae4630",
+      "title": "Microsoft May 2026 Patch Tuesday fixes 120 flaws, no zero-days",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-may-2026-patch-tuesday-fixes-120-flaws-no-zero-days/",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fmicrosoft%2Fmicrosoft-may-2026-patch-tuesday-fixes-120-flaws-no-zero-days%2F",
+      "published": "Tue, 12 May 2026 14:08:06 -0400",
+      "summary": "Today is Microsoft's May 2026 Patch Tuesday, with security updates for 120 flaws and no zero-days disclosed this month. [...]"
+    },
+    {
+      "source": "BleepingComputer",
+      "region": "global",
+      "slug": "339d959fb130",
+      "title": "Škoda warns of customer data breach after online shop hack",
+      "url": "https://www.bleepingcomputer.com/news/security/skoda-warns-of-customer-data-breach-after-online-shop-hack/",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Fskoda-warns-of-customer-data-breach-after-online-shop-hack%2F",
+      "published": "Tue, 12 May 2026 13:07:01 -0400",
+      "summary": "Škoda Auto, a wholly owned subsidiary of the Volkswagen Group, has disclosed a data breach after attackers hacked its online shop and stole the personal information of an undisclosed number of customers. [...]"
+    },
+    {
       "source": "The Hacker News",
       "region": "global",
       "slug": "77e5dc26318b",
@@ -450,6 +540,16 @@
       "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Finstructure-reaches-ransom-agreement.html",
       "published": "Tue, 12 May 2026 13:07:00 +0530",
       "summary": "American educational technology company Instructure, the parent company of Canvas, said it reached an \"agreement\" with a decentralized cybercrime extortion group after it breached its network and threatened to leak stole"
+    },
+    {
+      "source": "BleepingComputer",
+      "region": "global",
+      "slug": "31d47b0667a6",
+      "title": "Android 17 to expand banking scam call and privacy protections",
+      "url": "https://www.bleepingcomputer.com/news/security/android-17-to-expand-banking-scam-call-and-privacy-protections/",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Fandroid-17-to-expand-banking-scam-call-and-privacy-protections%2F",
+      "published": "Tue, 12 May 2026 13:00:00 -0400",
+      "summary": "Android 17, expected to roll out next month, will introduce several security and privacy features focused on device theft, threat detection, and banking scam calls. [...]"
     },
     {
       "source": "The Hacker News",
@@ -464,6 +564,26 @@
     {
       "source": "CISA",
       "region": "global",
+      "slug": "1a40125c4324",
+      "title": "ABB AC500 V3 Stack Buffer Overflow in Cryptographic Message Syntax",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-132-05",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.cisa.gov%2Fnews-events%2Fics-advisories%2Ficsa-26-132-05",
+      "published": "Tue, 12 May 26 12:00:00 +0000",
+      "summary": "View CSAF Summary ABB became aware of vulnerability in the products versions listed as affected in the advisory. An update is available that resolves publicly reported vulnerability. An attacker who successfully exploite"
+    },
+    {
+      "source": "CISA",
+      "region": "global",
+      "slug": "3b08ec65ec40",
+      "title": "Subnet Solutions PowerSYSTEM Center",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-132-02",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.cisa.gov%2Fnews-events%2Fics-advisories%2Ficsa-26-132-02",
+      "published": "Tue, 12 May 26 12:00:00 +0000",
+      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an authenticated attacker to expose sensitive information or cause a CRLF injection. The following versions of Subnet Solutions PowerSYSTEM C"
+    },
+    {
+      "source": "CISA",
+      "region": "global",
       "slug": "b3b497717efe",
       "title": "Software Bill of Materials for AI - Minimum Elements",
       "url": "https://www.cisa.gov/resources-tools/resources/software-bill-materials-ai-minimum-elements",
@@ -472,134 +592,14 @@
       "summary": "CISA and the Group of Seven (G7) international partners—Germany, Canada, France, Italy, Japan, the United Kingdom, and the European Union—have released joint guidance, Software Bill of Materials for AI – Minimum Elements"
     },
     {
-      "source": "The Hacker News",
+      "source": "CISA",
       "region": "global",
-      "slug": "af3ff357cb2f",
-      "title": "iOS 26.5 Brings Default End-to-End Encrypted RCS Messaging Between iPhone and Android",
-      "url": "https://thehackernews.com/2026/05/ios-265-brings-default-end-to-end.html",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Fios-265-brings-default-end-to-end.html",
-      "published": "Tue, 12 May 2026 10:48:00 +0530",
-      "summary": "Apple on Monday officially released iOS 26.5 with support for end-to-end encryption (E2EE) to Rich Communication Services (RCS) in beta as part of a \"cross-industry effort\" to replace traditional SMS with a more secure a"
-    },
-    {
-      "source": "BleepingComputer",
-      "region": "global",
-      "slug": "28643c82c60e",
-      "title": "Shai Hulud attack ships signed malicious TanStack, Mistral npm packages",
-      "url": "https://www.bleepingcomputer.com/news/security/shai-hulud-attack-ships-signed-malicious-tanstack-mistral-npm-packages/",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Fshai-hulud-attack-ships-signed-malicious-tanstack-mistral-npm-packages%2F",
-      "published": "Tue, 12 May 2026 07:29:36 -0400",
-      "summary": "Hundreds of packages across npm and PyPI have been compromised in a new Shai-Hulud supply-chain campaign delivering credential-stealing malware targeting developers. [...]"
-    },
-    {
-      "source": "BleepingComputer",
-      "region": "global",
-      "slug": "136788c9e159",
-      "title": "SAP fixes critical vulnerabilities in Commerce Cloud and S/4HANA",
-      "url": "https://www.bleepingcomputer.com/news/security/sap-fixes-critical-vulnerabilities-in-commerce-cloud-and-s-4hana/",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Fsap-fixes-critical-vulnerabilities-in-commerce-cloud-and-s-4hana%2F",
-      "published": "Tue, 12 May 2026 07:04:55 -0400",
-      "summary": "SAP has released the May 2026 security updates addressing 15 vulnerabilities across multiple products, including two critical flaws in the Commerce Cloud enterprise-grade e-commerce platform and the S/4HANA ERP suite. [."
-    },
-    {
-      "source": "BleepingComputer",
-      "region": "global",
-      "slug": "34c0bb8300b4",
-      "title": "Instructure reaches 'agreement' with ShinyHunters to stop data leak",
-      "url": "https://www.bleepingcomputer.com/news/security/instructure-reaches-agreement-with-shinyhunters-to-stop-data-leak/",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Finstructure-reaches-agreement-with-shinyhunters-to-stop-data-leak%2F",
-      "published": "Tue, 12 May 2026 05:23:56 -0400",
-      "summary": "Instructure, the edtech giant behind the widely popular Canvas learning management system (LMS), has reached an \"agreement\" with the ShinyHunters extortion group to prevent the data stolen in a recent breach from being l"
-    },
-    {
-      "source": "The Hacker News",
-      "region": "global",
-      "slug": "5637b17b34a2",
-      "title": "TeamPCP Compromises Checkmarx Jenkins AST Plugin Weeks After KICS Supply Chain Attack",
-      "url": "https://thehackernews.com/2026/05/teampcp-compromises-checkmarx-jenkins.html",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Fteampcp-compromises-checkmarx-jenkins.html",
-      "published": "Tue, 12 May 2026 00:00:00 +0530",
-      "summary": "Checkmarx has confirmed that a modified version of the Jenkins AST plugin was published to the Jenkins Marketplace. \"If you are using Checkmarx Jenkins AST plugin, you need to ensure that you are using the version 2.0.13"
-    },
-    {
-      "source": "The Hacker News",
-      "region": "global",
-      "slug": "b6f54173009e",
-      "title": "cPanel CVE-2026-41940 Under Active Exploitation to Deploy Filemanager Backdoor",
-      "url": "https://thehackernews.com/2026/05/cpanel-cve-2026-41940-under-active.html",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Fcpanel-cve-2026-41940-under-active.html",
-      "published": "Mon, 11 May 2026 23:24:00 +0530",
-      "summary": "A threat actor named Mr_Rot13 has been attributed to the exploitation of a recently disclosed critical cPanel flaw to deploy a backdoor codenamed Filemanager on compromised environments. The attack exploits CVE-2026-4194"
-    },
-    {
-      "source": "The Hacker News",
-      "region": "global",
-      "slug": "47e72bd39a0e",
-      "title": "Hackers Used AI to Develop First Known Zero-Day 2FA Bypass for Mass Exploitation",
-      "url": "https://thehackernews.com/2026/05/hackers-used-ai-to-develop-first-known.html",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Fhackers-used-ai-to-develop-first-known.html",
-      "published": "Mon, 11 May 2026 21:15:00 +0530",
-      "summary": "Google on Monday disclosed that it identified an unknown threat actor using a zero-day exploit that it said was likely developed with an artificial intelligence (AI) system, marking the first time the technology has been"
-    },
-    {
-      "source": "BleepingComputer",
-      "region": "global",
-      "slug": "46615be7e66f",
-      "title": "GM agrees to $12.75M California settlement over sale of drivers’ data",
-      "url": "https://www.bleepingcomputer.com/news/legal/gm-agrees-to-1275m-california-settlement-over-sale-of-drivers-data/",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Flegal%2Fgm-agrees-to-1275m-california-settlement-over-sale-of-drivers-data%2F",
-      "published": "Mon, 11 May 2026 18:40:34 -0400",
-      "summary": "California Attorney General Rob Bonta announced a proposed $12.75 million settlement agreement with General Motors (GM) over allegations that the company violated the California Consumer Privacy Act (CCPA). [...]"
-    },
-    {
-      "source": "BleepingComputer",
-      "region": "global",
-      "slug": "53a8b28e2c87",
-      "title": "Official CheckMarx Jenkins package compromised with infostealer",
-      "url": "https://www.bleepingcomputer.com/news/security/official-checkmarx-jenkins-package-compromised-with-infostealer/",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Fofficial-checkmarx-jenkins-package-compromised-with-infostealer%2F",
-      "published": "Mon, 11 May 2026 18:03:06 -0400",
-      "summary": "Checkmarx warned over the weekend that a rogue version of its Jenkins Application Security Testing (AST) plugin had been published on the Jenkins Marketplace. [...]"
-    },
-    {
-      "source": "BleepingComputer",
-      "region": "global",
-      "slug": "ea0fd95ae7f5",
-      "title": "New GhostLock tool abuses Windows API to block file access",
-      "url": "https://www.bleepingcomputer.com/news/security/new-ghostlock-tool-abuses-windows-api-to-block-file-access/",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Fnew-ghostlock-tool-abuses-windows-api-to-block-file-access%2F",
-      "published": "Mon, 11 May 2026 18:02:00 -0400",
-      "summary": "A security researcher has released a proof-of-concept tool named GhostLock that demonstrates how a legitimate Windows file API can be abused in attacks to block access to files stored locally or on SMB network shares. [."
-    },
-    {
-      "source": "BleepingComputer",
-      "region": "global",
-      "slug": "461c997313ca",
-      "title": "Instructure confirms hackers used Canvas flaw to deface portals",
-      "url": "https://www.bleepingcomputer.com/news/security/instructure-confirms-hackers-used-canvas-flaw-to-deface-portals/",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Finstructure-confirms-hackers-used-canvas-flaw-to-deface-portals%2F",
-      "published": "Mon, 11 May 2026 11:26:26 -0400",
-      "summary": "Education technology giant Instructure has confirmed that a security vulnerability allowed hackers to modify Canvas login portals and leave an extortion message. [...]"
-    },
-    {
-      "source": "BleepingComputer",
-      "region": "global",
-      "slug": "abd7c8b8541d",
-      "title": "Why Changing Passwords Doesn’t End an Active Directory Breach",
-      "url": "https://www.bleepingcomputer.com/news/security/why-changing-passwords-doesnt-end-an-active-directory-breach/",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Fwhy-changing-passwords-doesnt-end-an-active-directory-breach%2F",
-      "published": "Mon, 11 May 2026 09:53:56 -0400",
-      "summary": "Resetting a password doesn't always remove attackers from Active Directory. Specops Software explains how cached credentials and Kerberos tickets can keep attackers authenticated after a reset. [...]"
-    },
-    {
-      "source": "BleepingComputer",
-      "region": "global",
-      "slug": "a8a4df0e71a4",
-      "title": "Google: Hackers used AI to develop zero-day exploit for web admin tool",
-      "url": "https://www.bleepingcomputer.com/news/security/google-hackers-used-ai-to-develop-zero-day-exploit-for-web-admin-tool/",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Fgoogle-hackers-used-ai-to-develop-zero-day-exploit-for-web-admin-tool%2F",
-      "published": "Mon, 11 May 2026 09:02:30 -0400",
-      "summary": "Researchers at Google Threat Intelligence Group (GTIG) say that a zero-day exploit targeting a popular open-source web administration tool was likely generated using AI. [...]"
+      "slug": "b24b3c7c5851",
+      "title": "ABB WebPro SNMP Card PowerValue Multiple Vulnerabilities",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-132-06",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.cisa.gov%2Fnews-events%2Fics-advisories%2Ficsa-26-132-06",
+      "published": "Tue, 12 May 26 12:00:00 +0000",
+      "summary": "View CSAF Summary ABB became aware of multiple internally discovered vulnerabilities in the WebPro SNMP card PowerValue for the product versions listed as affected in the advisory. Depending upon the vulnerability, an at"
     }
   ],
   "errors": []
