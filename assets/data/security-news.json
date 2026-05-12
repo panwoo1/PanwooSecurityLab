@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-12T08:52:47.745195+00:00",
+  "generated_at": "2026-05-12T14:52:27.601019+00:00",
   "items": [
     {
       "source": "보안뉴스",
@@ -104,6 +104,16 @@
     {
       "source": "KISA 보안공지",
       "region": "domestic",
+      "slug": "0aacbbc6f1c2",
+      "title": "“여행 예약 플랫폼”해킹으로 인한 스미싱 주의 권고",
+      "url": "https://www.boho.or.kr/kr/bbs/view.do?searchCnd=&bbsId=B0000133&searchWrd=&menuNo=205020&pageIndex=1&categoryCode=&nttId=72049",
+      "translateUrl": "",
+      "published": "2026-05-12",
+      "summary": ""
+    },
+    {
+      "source": "KISA 보안공지",
+      "region": "domestic",
       "slug": "32e2a0b2bdb4",
       "title": "cPanel 제품 보안 업데이트 권고",
       "url": "https://www.boho.or.kr/kr/bbs/view.do?searchCnd=&bbsId=B0000133&searchWrd=&menuNo=205020&pageIndex=1&categoryCode=&nttId=72048",
@@ -120,6 +130,16 @@
       "translateUrl": "",
       "published": "2026-05-12",
       "summary": ""
+    },
+    {
+      "source": "ASEC KR",
+      "region": "domestic",
+      "slug": "5f828177c609",
+      "title": "2026년 4월 랜섬웨어 동향 보고서",
+      "url": "https://asec.ahnlab.com/ko/93656/",
+      "translateUrl": "",
+      "published": "Mon, 11 May 2026 15:00:00 +0000",
+      "summary": "목적 및 범위 2026년 4월 한 달 동안 확인된 랜섬웨어 피해 시스템 수량과 DLS(Dedicated Leak Sites, 랜섬웨어 PR 사이트 또는 PR 페이지) 기반 랜섬웨어 관련 통계를 정리한 보고서이다. 국내·외 주요 랜섬웨어 이슈와 산업/지역별 피해 동향도 함께 제공한다. 주요 통계 랜섬웨어 샘플 수량과 피해 시스템 수량 통계는 안랩에서 부여한 진단명 기준으로 집계되었다. 랜섬웨어"
     },
     {
       "source": "ASEC KR",
@@ -232,16 +252,6 @@
       "summary": ""
     },
     {
-      "source": "KISA 보안공지",
-      "region": "domestic",
-      "slug": "03f97f9290c8",
-      "title": "GitHub 제품 보안 업데이트 권고",
-      "url": "https://www.boho.or.kr/kr/bbs/view.do?searchCnd=&bbsId=B0000133&searchWrd=&menuNo=205020&pageIndex=1&categoryCode=&nttId=72038",
-      "translateUrl": "",
-      "published": "2026-04-29",
-      "summary": ""
-    },
-    {
       "source": "ASEC KR",
       "region": "domestic",
       "slug": "e720d5776690",
@@ -290,16 +300,6 @@
       "translateUrl": "",
       "published": "Thu, 16 Apr 2026 15:00:00 +0000",
       "summary": "목적 및 범위. 본 보고서는 국가 지원으로 추정되는 APT 그룹의 전략·기법·영향을 분석한다. 금전형 범죄 그룹은 범위에서 제외되며, ATIP의 대표 이름 기준으로 주요 위협 행위를 정리한다. 최근 한 달 공개 자료를 바탕으로 13개 APT 그룹의 활동을 집계했다. 지역별 주요 APT 그룹 현황. 북한 계열: Famous Chollima는 가짜 채용 인터뷰와 VS Code·NPM 리포지토리 "
-    },
-    {
-      "source": "ASEC KR",
-      "region": "domestic",
-      "slug": "bd127bf26a96",
-      "title": "2026년 3월 국내외 금융권 관련 보안 이슈",
-      "url": "https://asec.ahnlab.com/ko/93420/",
-      "translateUrl": "",
-      "published": "Thu, 16 Apr 2026 15:00:00 +0000",
-      "summary": "내용. 금융권 대상 피싱, 웹셸, 드로퍼, 백도어, 다운로더, 인포스틸러, 코인마이너 등 다수 악성코드 샘플이 유포된 정황이 확인되었다. 한글 위장 첨부파일명과 HTML/JS 실행 유도 방식이 피싱 전파에 활용된 사례가 다수 관찰되었다. 텔레그램 API를 통한 계정 유출 캠페인이 확인되었으며, 조사기간 내 금융권 계정 유출 비중이 약 4%로 집계되었다. Lazarus 그룹의 워터링홀 공격에서"
     },
     {
       "source": "KISA 취약점정보",
@@ -404,6 +404,46 @@
     {
       "source": "The Hacker News",
       "region": "global",
+      "slug": "4340e9c3f058",
+      "title": "New TrickMo Variant Uses TON C2 and SOCKS5 to Create Android Network Pivots",
+      "url": "https://thehackernews.com/2026/05/new-trickmo-variant-uses-ton-c2-and.html",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Fnew-trickmo-variant-uses-ton-c2-and.html",
+      "published": "Tue, 12 May 2026 18:20:00 +0530",
+      "summary": "Cybersecurity researchers have flagged a new version of the TrickMo Android banking trojan that uses The Open Network (TON) for command-and-control (C2). The new variant, observed by ThreatFabric between January and Febr"
+    },
+    {
+      "source": "The Hacker News",
+      "region": "global",
+      "slug": "696160a0503b",
+      "title": "Webinar: What the Riskiest SOC Alerts Go Unanswered - and How Radiant Security Can Help",
+      "url": "https://thehackernews.com/2026/05/webinar-what-riskiest-soc-alerts-go.html",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Fwebinar-what-riskiest-soc-alerts-go.html",
+      "published": "Tue, 12 May 2026 17:28:00 +0530",
+      "summary": "Why do the Riskiest SOC Alerts Go Unanswered? Security operations teams are drowning in alerts. But the real problem isn't always alert volume; it's the blind spots. The most dangerous alerts are the ones no one is inves"
+    },
+    {
+      "source": "The Hacker News",
+      "region": "global",
+      "slug": "06dd92f80072",
+      "title": "Mini Shai-Hulud Worm Compromises TanStack, Mistral AI, Guardrails AI & More Packages",
+      "url": "https://thehackernews.com/2026/05/mini-shai-hulud-worm-compromises.html",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Fmini-shai-hulud-worm-compromises.html",
+      "published": "Tue, 12 May 2026 17:16:00 +0530",
+      "summary": "TeamPCP, the threat actor behind the recent supply chain attack spree, has been linked to the compromise of the npm and PyPI packages from TanStack, UiPath, Mistral AI, OpenSearch, and Guardrails AI as part of a fresh Mi"
+    },
+    {
+      "source": "The Hacker News",
+      "region": "global",
+      "slug": "0d53d116bbf2",
+      "title": "Why Agentic AI Is Security's Next Blind Spot",
+      "url": "https://thehackernews.com/2026/05/why-agentic-ai-is-securitys-next-blind.html",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Fwhy-agentic-ai-is-securitys-next-blind.html",
+      "published": "Tue, 12 May 2026 16:00:00 +0530",
+      "summary": "Agentic AI is already running in production environments across many organizations today. It is executing tasks, consuming data, and taking actions — most likely without meaningful involvement from the security team. The"
+    },
+    {
+      "source": "The Hacker News",
+      "region": "global",
       "slug": "77e5dc26318b",
       "title": "Instructure Reaches Ransom Agreement with ShinyHunters to Stop 3.65TB Canvas Leak",
       "url": "https://thehackernews.com/2026/05/instructure-reaches-ransom-agreement.html",
@@ -422,6 +462,16 @@
       "summary": "OpenAI has launched Daybreak, a new cybersecurity initiative that brings together frontier artificial intelligence (AI) model capabilities and Codex Security to help organizations identify and patch vulnerabilities befor"
     },
     {
+      "source": "CISA",
+      "region": "global",
+      "slug": "b3b497717efe",
+      "title": "Software Bill of Materials for AI - Minimum Elements",
+      "url": "https://www.cisa.gov/resources-tools/resources/software-bill-materials-ai-minimum-elements",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.cisa.gov%2Fresources-tools%2Fresources%2Fsoftware-bill-materials-ai-minimum-elements",
+      "published": "Tue, 12 May 26 12:00:00 +0000",
+      "summary": "CISA and the Group of Seven (G7) international partners—Germany, Canada, France, Italy, Japan, the United Kingdom, and the European Union—have released joint guidance, Software Bill of Materials for AI – Minimum Elements"
+    },
+    {
       "source": "The Hacker News",
       "region": "global",
       "slug": "af3ff357cb2f",
@@ -430,6 +480,36 @@
       "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Fios-265-brings-default-end-to-end.html",
       "published": "Tue, 12 May 2026 10:48:00 +0530",
       "summary": "Apple on Monday officially released iOS 26.5 with support for end-to-end encryption (E2EE) to Rich Communication Services (RCS) in beta as part of a \"cross-industry effort\" to replace traditional SMS with a more secure a"
+    },
+    {
+      "source": "BleepingComputer",
+      "region": "global",
+      "slug": "28643c82c60e",
+      "title": "Shai Hulud attack ships signed malicious TanStack, Mistral npm packages",
+      "url": "https://www.bleepingcomputer.com/news/security/shai-hulud-attack-ships-signed-malicious-tanstack-mistral-npm-packages/",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Fshai-hulud-attack-ships-signed-malicious-tanstack-mistral-npm-packages%2F",
+      "published": "Tue, 12 May 2026 07:29:36 -0400",
+      "summary": "Hundreds of packages across npm and PyPI have been compromised in a new Shai-Hulud supply-chain campaign delivering credential-stealing malware targeting developers. [...]"
+    },
+    {
+      "source": "BleepingComputer",
+      "region": "global",
+      "slug": "136788c9e159",
+      "title": "SAP fixes critical vulnerabilities in Commerce Cloud and S/4HANA",
+      "url": "https://www.bleepingcomputer.com/news/security/sap-fixes-critical-vulnerabilities-in-commerce-cloud-and-s-4hana/",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Fsap-fixes-critical-vulnerabilities-in-commerce-cloud-and-s-4hana%2F",
+      "published": "Tue, 12 May 2026 07:04:55 -0400",
+      "summary": "SAP has released the May 2026 security updates addressing 15 vulnerabilities across multiple products, including two critical flaws in the Commerce Cloud enterprise-grade e-commerce platform and the S/4HANA ERP suite. [."
+    },
+    {
+      "source": "BleepingComputer",
+      "region": "global",
+      "slug": "34c0bb8300b4",
+      "title": "Instructure reaches 'agreement' with ShinyHunters to stop data leak",
+      "url": "https://www.bleepingcomputer.com/news/security/instructure-reaches-agreement-with-shinyhunters-to-stop-data-leak/",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Finstructure-reaches-agreement-with-shinyhunters-to-stop-data-leak%2F",
+      "published": "Tue, 12 May 2026 05:23:56 -0400",
+      "summary": "Instructure, the edtech giant behind the widely popular Canvas learning management system (LMS), has reached an \"agreement\" with the ShinyHunters extortion group to prevent the data stolen in a recent breach from being l"
     },
     {
       "source": "The Hacker News",
@@ -472,16 +552,6 @@
       "summary": "California Attorney General Rob Bonta announced a proposed $12.75 million settlement agreement with General Motors (GM) over allegations that the company violated the California Consumer Privacy Act (CCPA). [...]"
     },
     {
-      "source": "The Hacker News",
-      "region": "global",
-      "slug": "3ad458cc0ea2",
-      "title": "⚡ Weekly Recap: Linux Rootkit, macOS Crypto Stealer, WebSocket Skimmers and More",
-      "url": "https://thehackernews.com/2026/05/weekly-recap-linux-rootkit-macos-crypto.html",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Fweekly-recap-linux-rootkit-macos-crypto.html",
-      "published": "Mon, 11 May 2026 18:06:00 +0530",
-      "summary": "Rough Monday. Somebody poisoned a trusted download again, somebody else turned cloud servers into public housing, and a few crews are still getting into boxes with bugs that should’ve died years ago — the same old holes,"
-    },
-    {
       "source": "BleepingComputer",
       "region": "global",
       "slug": "53a8b28e2c87",
@@ -500,26 +570,6 @@
       "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Fnew-ghostlock-tool-abuses-windows-api-to-block-file-access%2F",
       "published": "Mon, 11 May 2026 18:02:00 -0400",
       "summary": "A security researcher has released a proof-of-concept tool named GhostLock that demonstrates how a legitimate Windows file API can be abused in attacks to block access to files stored locally or on SMB network shares. [."
-    },
-    {
-      "source": "The Hacker News",
-      "region": "global",
-      "slug": "bd4b69338e56",
-      "title": "Your Purple Team Isn't Purple — It's Just Red and Blue in the Same Room",
-      "url": "https://thehackernews.com/2026/05/your-purple-team-isnt-purple-its-just.html",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Fyour-purple-team-isnt-purple-its-just.html",
-      "published": "Mon, 11 May 2026 17:00:00 +0530",
-      "summary": "Defending a network at 2 am looks a lot like this: an analyst copy-pasting a hash from a PDF into a SIEM query. A red team script is being rewritten by hand so the blue team can use it. A patch waiting on a change-approv"
-    },
-    {
-      "source": "The Hacker News",
-      "region": "global",
-      "slug": "146edddf2d19",
-      "title": "Fake OpenAI Privacy Filter Repo Hits #1 on Hugging Face, Draws 244K Downloads",
-      "url": "https://thehackernews.com/2026/05/fake-openai-privacy-filter-repo-hits-1.html",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Ffake-openai-privacy-filter-repo-hits-1.html",
-      "published": "Mon, 11 May 2026 12:35:00 +0530",
-      "summary": "A malicious Hugging Face repository managed to take a spot in the platform's trending list by impersonating OpenAI's Privacy Filter open-weight model to deliver a Rust-based information stealer to Windows users. The proj"
     },
     {
       "source": "BleepingComputer",
@@ -550,56 +600,6 @@
       "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Fgoogle-hackers-used-ai-to-develop-zero-day-exploit-for-web-admin-tool%2F",
       "published": "Mon, 11 May 2026 09:02:30 -0400",
       "summary": "Researchers at Google Threat Intelligence Group (GTIG) say that a zero-day exploit targeting a popular open-source web administration tool was likely generated using AI. [...]"
-    },
-    {
-      "source": "BleepingComputer",
-      "region": "global",
-      "slug": "b4f6ef121066",
-      "title": "Webinar this week: Prevention alone is not enough against modern attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/webinar-this-week-prevention-alone-is-not-enough-against-modern-attacks/",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Fwebinar-this-week-prevention-alone-is-not-enough-against-modern-attacks%2F",
-      "published": "Mon, 11 May 2026 08:30:00 -0400",
-      "summary": "This upcoming webinar explores how organizations need to combine security, backups, and recovery planning to reduce the impact of modern cyberattacks. [...]"
-    },
-    {
-      "source": "BleepingComputer",
-      "region": "global",
-      "slug": "5b75b7f11ebb",
-      "title": "TrickMo Android banker adopts TON blockchain for covert comms",
-      "url": "https://www.bleepingcomputer.com/news/security/trickmo-android-banker-adopts-ton-blockchain-for-covert-comms/",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Ftrickmo-android-banker-adopts-ton-blockchain-for-covert-comms%2F",
-      "published": "Mon, 11 May 2026 05:03:02 -0400",
-      "summary": "A new variant of the TrickMo Android banking malware, delivered in campaigns targeting users across Europe, introduces new commands and uses The Open Network (TON) for stealthy command-and-control communications. [...]"
-    },
-    {
-      "source": "The Hacker News",
-      "region": "global",
-      "slug": "1b2d8f48a93e",
-      "title": "Ollama Out-of-Bounds Read Vulnerability Allows Remote Process Memory Leak",
-      "url": "https://thehackernews.com/2026/05/ollama-out-of-bounds-read-vulnerability.html",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Follama-out-of-bounds-read-vulnerability.html",
-      "published": "Sun, 10 May 2026 18:11:00 +0530",
-      "summary": "Cybersecurity researchers have disclosed a critical security vulnerability in Ollama that, if successfully exploited, could allow a remote, unauthenticated attacker to leak its entire process memory. The out-of-bounds re"
-    },
-    {
-      "source": "BleepingComputer",
-      "region": "global",
-      "slug": "f1734d857a8d",
-      "title": "Hackers abuse Google ads, Claude.ai chats to push Mac malware",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-claudeai-chats-to-push-mac-malware/",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Fhackers-abuse-google-ads-claudeai-chats-to-push-mac-malware%2F",
-      "published": "Sun, 10 May 2026 13:52:15 -0400",
-      "summary": "Attackers are abusing Google Ads and legitimate Claude.ai shared chats in an active malvertising campaign. Users searching for \"Claude mac download\" may come across sponsored search results that list claude.ai as the tar"
-    },
-    {
-      "source": "BleepingComputer",
-      "region": "global",
-      "slug": "d378098fb435",
-      "title": "Police shut down reboot of Crimenetwork marketplace, arrest admin",
-      "url": "https://www.bleepingcomputer.com/news/security/police-shut-down-reboot-of-crimenetwork-marketplace-arrest-admin/",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Fpolice-shut-down-reboot-of-crimenetwork-marketplace-arrest-admin%2F",
-      "published": "Sun, 10 May 2026 10:16:47 -0400",
-      "summary": "German authorities have shut down a relaunch version of the criminal marketplace 'Crimenetwork' that generated more than 3.6 million euros, and arrested its operator. [...]"
     }
   ],
   "errors": []
