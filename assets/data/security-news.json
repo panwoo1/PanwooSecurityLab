@@ -1,6 +1,56 @@
 {
-  "generated_at": "2026-05-13T04:10:40.657859+00:00",
+  "generated_at": "2026-05-13T09:18:01.772500+00:00",
   "items": [
+    {
+      "source": "보안뉴스",
+      "region": "domestic",
+      "slug": "b456d8cb671c",
+      "title": "[배종찬의 보안 빅데이터] 영화 ‘아이 로봇’에서 드러난 피지컬AI의 위협",
+      "url": "http://www.boannews.com/media/view.asp?idx=143603&kind=&sub_kind=",
+      "translateUrl": "",
+      "published": "Wed, 13 May 2026 17:34:00 +0900",
+      "summary": "피지컬AI 해킹, 현실 공간에서 즉각적인 물리적 피해로 나타나... 보안 위협 돌아봐야[보안뉴스= 배종찬 인사이트케이 연구소장] 2004년 개봉한 윌 스미스 주연의 영화 ‘아이, 로봇’(I, Robot)은 SF 거장 아이작 아시모프의 단편 소설집에서 모티브를 가져온 작품으로, 2035년을 배경으로 휴머노이드 로봇이 일상화된 미래 사회를 그리고 있다. 영화"
+    },
+    {
+      "source": "보안뉴스",
+      "region": "domestic",
+      "slug": "9e4072775c6d",
+      "title": "AI로 만든 해킹 도구의 습격... ‘Mr_Rot13’, 정부·군사 기밀 4.37GB 빼돌려",
+      "url": "http://www.boannews.com/media/view.asp?idx=143608&kind=&sub_kind=",
+      "translateUrl": "",
+      "published": "Wed, 13 May 2026 17:32:00 +0900",
+      "summary": "c패널 및 WHM 고위험 취약점 악용 공격 증가[보안뉴스 김형근 기자] 널리 쓰이는 웹 서버 관리 도구 c패널(cPanel)과 WHM에서 최근 발견된 심각한 보안 취약점이 세계 곳곳에서 악용되고 있다. 이 취약점(CVE-2026-41940)은 비밀번호 없이 서버 관리자 권한을 가로챌 수 있는 치명적 위협으로, 심각도 지수(CVSS) 점수가 9.8에 이른다."
+    },
+    {
+      "source": "보안뉴스",
+      "region": "domestic",
+      "slug": "346b532a6ba1",
+      "title": "AI 에이전트가 공격자 분석해 차단... 그룹아이비, 통합 지능형 보안 엔진 `프레빈 AI` 출시",
+      "url": "http://www.boannews.com/media/view.asp?idx=143606&kind=&sub_kind=",
+      "translateUrl": "",
+      "published": "Wed, 13 May 2026 14:51:00 +0900",
+      "summary": "탐지와 예측형 사이버 방어 간 격차 해소 새로운 인지 코어가 능동적 탐지와 지원형 대응 조율… 기계 속도 위협 능가 [보안뉴스 한세희 기자] 그룹아이비(지사장 김기태)는 공격자 의도와 인프라를 사전 파악하는 통합 지능형 보안 엔진 ‘프레빈 AI’(Prevyn AI)를 출시한다고 13일 밝혔다. 수십 년간 축적된 방대한 데이터를 실시간 인사이트와 즉각적 대응"
+    },
+    {
+      "source": "보안뉴스",
+      "region": "domestic",
+      "slug": "2d90f73f6fc1",
+      "title": "[양자와 보안] 이와이엘, 양자내성암호 암호 보드 개발... 암복호화 속도 높였다",
+      "url": "http://www.boannews.com/media/view.asp?idx=143605&kind=&sub_kind=",
+      "translateUrl": "",
+      "published": "Wed, 13 May 2026 14:19:00 +0900",
+      "summary": "양자난수생성(QRNG)과 양자내성암호(PQC) 결합통합 하드웨어 솔루션으로 연산 속도 느린 기존 PQC 한계 극복 양자보안 체계 국방·금융·인프라 시장 공략[보안뉴스 한세희 기자] 이와이엘(대표 정부석)이 연산 속도를 대폭 향상시킨 양자내성암호(PQC) 암호보드를 개발했다고 13일 밝혔다. 이와이엘이 보유한 초소형 양자난수생성기(QRNG) 기술을 기반으로"
+    },
+    {
+      "source": "보안뉴스",
+      "region": "domestic",
+      "slug": "31016aff7e25",
+      "title": "[인사] 과학기술정보통신부",
+      "url": "http://www.boannews.com/media/view.asp?idx=143604&kind=&sub_kind=",
+      "translateUrl": "",
+      "published": "Wed, 13 May 2026 13:28:00 +0900",
+      "summary": "◇국장급 기관 간 전보△통신정책관 남석(개인정보보호위원회사무처 조사조정국장)(2026.05.14.자)[원병철 기자(boanone@boannews.com)]www.boannews.com) 무단전재-재배포금지>"
+    },
     {
       "source": "보안뉴스",
       "region": "domestic",
@@ -52,54 +102,14 @@
       "summary": "소비자기술협회(CTA) “업데이트 차단하면 오히려 국가 안보 위협 초래” 경고 수용공급망 배제 명분보다 실질적 보안 패치 우선한 융합보안 거버넌스 현실적 타협[보안뉴스 김형근 기자] 미국 정부가 국가 안보를 이유로 추진했던 외산 통신 장비 규제 정책이 사이버 보안의 현실적 제약에 부딪혀 한발 물러섰다. 이념적 공급망 통제보다 기존 인프라의 안정성을 챙긴 실"
     },
     {
-      "source": "보안뉴스",
+      "source": "ASEC KR",
       "region": "domestic",
-      "slug": "283710a67395",
-      "title": "엔키화이트햇, 2026 AI 보안 유망기업 선정... “자율 공격형 방어망 상용화”",
-      "url": "http://www.boannews.com/media/view.asp?idx=143598&kind=&sub_kind=",
+      "slug": "d3f610bf8f26",
+      "title": "2026년 4월 피싱 이메일 동향 보고서",
+      "url": "https://asec.ahnlab.com/ko/93705/",
       "translateUrl": "",
-      "published": "Wed, 13 May 2026 10:06:00 +0900",
-      "summary": "과기정통부·KISA 주관 사업화 과제 최종 선정, 시제품 이어 2년 연속 성과LLM과 다중 에이전트 결합, 화이트해커 지식 자산화... 오펜시브 보안 플랫폼 고도화[보안뉴스 조재호 기자] 엔키화이트햇이 과학기술정보통신부와 한국인터넷진흥원(KISA)이 주관하는 ‘2026 AI 보안 유망기업 육성 지원사업’ 사업화 분야에 최종 선정됐다고 13일 밝혔다.엔키화이"
-    },
-    {
-      "source": "보안뉴스",
-      "region": "domestic",
-      "slug": "a88d705b702e",
-      "title": "챗GPT에 북한 해킹 그림자? 애플 맥OS용 앱 휴지통 강제 이동 사고",
-      "url": "http://www.boannews.com/media/view.asp?idx=143599&kind=&sub_kind=",
-      "translateUrl": "",
-      "published": "Wed, 13 May 2026 10:01:00 +0900",
-      "summary": "[보안뉴스 김형근 기자] 최근 맥OS을 사용하는 수많은 사람들이 40시간 동안 챗GPT 데스크톱 앱이 악성코드로 감지돼 휴지통으로 강제 이동되는 심각한 문제를 겪었다. 애플은 북한 해킹 조직 연계를 의심하며 관련 개발자 인증서를 철회했다. 애플의 내장 보안 시스템인 게이트키퍼와 엑스프로텍트는 이 앱이 컴퓨터에 해를 끼칠 수 있다는 위험 알림창을 화면에 띄웠"
-    },
-    {
-      "source": "보안뉴스",
-      "region": "domestic",
-      "slug": "2581e8a9272e",
-      "title": "[카드뉴스] “지웠는데 털렸다?”… ‘잊힐 권리’ 이행하다 랜섬웨어 초대하는 기업들",
-      "url": "http://www.boannews.com/media/view.asp?idx=143596&kind=&sub_kind=",
-      "translateUrl": "",
-      "published": "Wed, 13 May 2026 09:20:00 +0900",
-      "summary": "개인정보 보호법과 ‘잊힐 권리’에 따른 데이터 삭제 요구가 증가하면서, 삭제 처리를 위해 백업 서버의 보안 권한을 일시적으로 해제하는 틈을 노린 사이버 공격이 급증하고 있다. 법적 규제 준수(Compliance)와 시스템 보안 강화 사이에서 발생하는 ‘역설적 모순’은 랜섬웨어 침투의 핵심 경로가 되고 있어, 이에 대한 새로운 보안 아키텍처 설계가 절실한 상"
-    },
-    {
-      "source": "보안뉴스",
-      "region": "domestic",
-      "slug": "c385ffea4449",
-      "title": "이노티움, ‘AI 문서중앙화’ 반도체 등 다양한 산업 공급",
-      "url": "http://www.boannews.com/media/view.asp?idx=143595&kind=&sub_kind=",
-      "translateUrl": "",
-      "published": "Tue, 12 May 2026 17:30:00 +0900",
-      "summary": "첨단 반도체·원전·금융·프랜차이즈·공공기관에 공급“AI 경쟁력은 데이터 통제에서 시작”[보안뉴스 강현주 기자] AI 확산과 함께 기업 IT 전략의 중심이 ‘협업툴’에서 ‘데이터 통제’로 빠르게 이동하고 있다. 마이크로소프트365 등 협업 환경은 업무 효율성을 높였지만, 데이터가 클라우드와 개인 단말기에 분산되면서 보안과 통제의 한계도 동시에 나타나고 있다."
-    },
-    {
-      "source": "보안뉴스",
-      "region": "domestic",
-      "slug": "fac03af9fc7e",
-      "title": "‘제로트러스트 창시자’ 존 킨더바그 “미토스 공포? ‘격리’가 관건”",
-      "url": "http://www.boannews.com/media/view.asp?idx=143592&kind=&sub_kind=",
-      "translateUrl": "",
-      "published": "Tue, 12 May 2026 16:50:00 +0900",
-      "summary": "일루미오 간담회에서 제로트러스트 전략 제시“침해는 불가피, 격리가 전략” 강조[보안뉴스 강현주 기자] “제로트러스트는 AI 공격에 대한 완벽한 방어 전략입니다. 마이크로세그멘테이션이야말로 제로트러스트의 근간입니다.”‘제로트러스트 창시자’라고 불리는 존 킨더바그 일루미오 수석 에반젤리스트는 12일 기자들과 만나 이같이 밝혔다. 일루미오는 이날 서울 삼성동 아"
+      "published": "Wed, 13 May 2026 08:39:28 +0000",
+      "summary": "첨부파일 위협 유형 통계 2026년 04월 피싱 이메일 첨부파일에서 가장 많은 위협은 Trojan(트로이목마, 47%)이었다. 이 유형은 이중 확장자나 정상 파일명으로 위장해 실행을 유도하고, 시스템에 악성코드를 설치하는 방식으로 유포됐다. 다양한 변종과 사회공학 기법을 통해 지속적으로 퍼진 것으로 확인됐다. 두 번째로 많은 위협 유형은 Phishing(피싱, 39%)이었다. HTML 스크립"
     },
     {
       "source": "KISA 보안공지",
@@ -292,16 +302,6 @@
       "summary": "첨부파일 위협 유형 통계. 2026년 3월 첨부파일 기반 위협 중 트로이목마가 21%로 최다를 차지했다. 피싱(FakePage)은 15%로 집계되었으며 전월 대비 비중이 42%에서 15%로 대폭 감소했으나 유포 수량은 소폭 감소했다. 다운로더는 9%, 드로퍼는 7%로 확인되었다. 트로이목마는 이중 확장자 및 정상 파일명을 가장해 실행을 유도하며 지속적으로 변종이 유포된다. 피싱은 HTML 스"
     },
     {
-      "source": "ASEC KR",
-      "region": "domestic",
-      "slug": "bd15b0b8d079",
-      "title": "2026년 3월 APT 그룹 동향 보고서",
-      "url": "https://asec.ahnlab.com/ko/93415/",
-      "translateUrl": "",
-      "published": "Thu, 16 Apr 2026 15:00:00 +0000",
-      "summary": "목적 및 범위. 본 보고서는 국가 지원으로 추정되는 APT 그룹의 전략·기법·영향을 분석한다. 금전형 범죄 그룹은 범위에서 제외되며, ATIP의 대표 이름 기준으로 주요 위협 행위를 정리한다. 최근 한 달 공개 자료를 바탕으로 13개 APT 그룹의 활동을 집계했다. 지역별 주요 APT 그룹 현황. 북한 계열: Famous Chollima는 가짜 채용 인터뷰와 VS Code·NPM 리포지토리 "
-    },
-    {
       "source": "KISA 취약점정보",
       "region": "domestic",
       "slug": "f1ae99a00ea4",
@@ -400,6 +400,26 @@
       "translateUrl": "",
       "published": "2024-02-23",
       "summary": ""
+    },
+    {
+      "source": "The Hacker News",
+      "region": "global",
+      "slug": "ff51c761ea45",
+      "title": "GemStuffer Abuses 150+ RubyGems to Exfiltrate Scraped U.K. Council Portal Data",
+      "url": "https://thehackernews.com/2026/05/gemstuffer-abuses-150-rubygems-to.html",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Fgemstuffer-abuses-150-rubygems-to.html",
+      "published": "Wed, 13 May 2026 13:38:54 +0530",
+      "summary": "Cybersecurity researchers are calling attention to a new campaign dubbed GemStuffer that has targeted the RubyGems repository with more than 150 gems that use the registry as a data exfiltration channel rather than for m"
+    },
+    {
+      "source": "The Hacker News",
+      "region": "global",
+      "slug": "463638b65223",
+      "title": "Android Adds Intrusion Logging for Sophisticated Spyware Forensics",
+      "url": "https://thehackernews.com/2026/05/android-adds-intrusion-logging-for.html",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Fandroid-adds-intrusion-logging-for.html",
+      "published": "Wed, 13 May 2026 12:25:42 +0530",
+      "summary": "Google on Tuesday unveiled a new opt-in Android feature called Intrusion Logging for storing forensic logs to better analyze sophisticated spyware attacks. Intrusion Logging, available as part of Advanced Protection Mode"
     },
     {
       "source": "The Hacker News",
@@ -580,26 +600,6 @@
       "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Fopenai-launches-daybreak-for-ai-powered.html",
       "published": "Tue, 12 May 2026 12:25:00 +0530",
       "summary": "OpenAI has launched Daybreak, a new cybersecurity initiative that brings together frontier artificial intelligence (AI) model capabilities and Codex Security to help organizations identify and patch vulnerabilities befor"
-    },
-    {
-      "source": "CISA",
-      "region": "global",
-      "slug": "1a40125c4324",
-      "title": "ABB AC500 V3 Stack Buffer Overflow in Cryptographic Message Syntax",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-132-05",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.cisa.gov%2Fnews-events%2Fics-advisories%2Ficsa-26-132-05",
-      "published": "Tue, 12 May 26 12:00:00 +0000",
-      "summary": "View CSAF Summary ABB became aware of vulnerability in the products versions listed as affected in the advisory. An update is available that resolves publicly reported vulnerability. An attacker who successfully exploite"
-    },
-    {
-      "source": "CISA",
-      "region": "global",
-      "slug": "3b08ec65ec40",
-      "title": "Subnet Solutions PowerSYSTEM Center",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-132-02",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.cisa.gov%2Fnews-events%2Fics-advisories%2Ficsa-26-132-02",
-      "published": "Tue, 12 May 26 12:00:00 +0000",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an authenticated attacker to expose sensitive information or cause a CRLF injection. The following versions of Subnet Solutions PowerSYSTEM C"
     }
   ],
   "errors": []
