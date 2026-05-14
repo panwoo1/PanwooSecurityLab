@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-14T14:37:58.655978+00:00",
+  "generated_at": "2026-05-14T20:01:04.085556+00:00",
   "items": [
     {
       "source": "보안뉴스",
@@ -404,6 +404,46 @@
     {
       "source": "The Hacker News",
       "region": "global",
+      "slug": "8fb0046839bf",
+      "title": "Cisco Catalyst SD-WAN Controller Auth Bypass Actively Exploited to Gain Admin Access",
+      "url": "https://thehackernews.com/2026/05/cisco-catalyst-sd-wan-controller-auth.html",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Fcisco-catalyst-sd-wan-controller-auth.html",
+      "published": "Thu, 14 May 2026 23:15:20 +0530",
+      "summary": "Cisco has released updates to address a maximum-severity authentication bypass flaw in Catalyst SD-WAN Controller that it said has been exploited in limited attacks. The vulnerability, tracked as CVE-2026-20182, carries "
+    },
+    {
+      "source": "The Hacker News",
+      "region": "global",
+      "slug": "fc0b2667dc50",
+      "title": "Stealer Backdoor Found in 3 Node-IPC Versions Targeting Developer Secrets",
+      "url": "https://thehackernews.com/2026/05/stealer-backdoor-found-in-3-node-ipc.html",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Fstealer-backdoor-found-in-3-node-ipc.html",
+      "published": "Thu, 14 May 2026 22:52:43 +0530",
+      "summary": "Cybersecurity researchers are sounding the alarm about what has been described as \"malicious activity\" in newly published versions of node-ipc. According to Socket and StepSecurity, three different versions of the npm pa"
+    },
+    {
+      "source": "The Hacker News",
+      "region": "global",
+      "slug": "54d0faf9d6c1",
+      "title": "ThreatsDay Bulletin: PAN-OS RCE, Mythos cURL Bug, AI Tokenizer Attacks, and 10+ Stories",
+      "url": "https://thehackernews.com/2026/05/threatsday-bulletin-pan-os-rce-mythos.html",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Fthreatsday-bulletin-pan-os-rce-mythos.html",
+      "published": "Thu, 14 May 2026 21:37:46 +0530",
+      "summary": "Everything is still on fire. This week feels dumb in the worst way — bad links, weak checks, fake help desks, shady forum posts, and people turning supply chain attacks into some cursed little game for clout and cash. Ha"
+    },
+    {
+      "source": "The Hacker News",
+      "region": "global",
+      "slug": "cb45df31e3e4",
+      "title": "Ghostwriter Targets Ukrainian Government With Geofenced PDF Phishing, Cobalt Strike",
+      "url": "https://thehackernews.com/2026/05/ghostwriter-targets-ukrainian.html",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Fghostwriter-targets-ukrainian.html",
+      "published": "Thu, 14 May 2026 19:30:37 +0530",
+      "summary": "The Belarus-aligned threat group known as Ghostwriter has been attributed to a fresh set of attacks targeting governmental organizations in Ukraine. Active since at least 2016, Ghostwriter has been linked to both cyber e"
+    },
+    {
+      "source": "The Hacker News",
+      "region": "global",
       "slug": "58ed761e28a8",
       "title": "PraisonAI CVE-2026-44338 Auth Bypass Targeted Within Hours of Disclosure",
       "url": "https://thehackernews.com/2026/05/praisonai-cve-2026-44338-auth-bypass.html",
@@ -422,6 +462,16 @@
       "summary": "AI hallucinations are introducing serious security risks into critical infrastructure decision-making by exploiting human trust through highly confident yet incorrect outputs. When an AI model lacks certainty, it doesn’t"
     },
     {
+      "source": "BleepingComputer",
+      "region": "global",
+      "slug": "3b58f1c8bfe2",
+      "title": "OpenAI confirms security breach in TanStack supply chain attack",
+      "url": "https://www.bleepingcomputer.com/news/security/openai-confirms-security-breach-in-tanstack-supply-chain-attack/",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Fopenai-confirms-security-breach-in-tanstack-supply-chain-attack%2F",
+      "published": "Thu, 14 May 2026 15:07:24 -0400",
+      "summary": "OpenAI says two employees' devices were breached in the recent TanStack supply chain attack that impacted hundreds of npm and PyPI packages, causing the company to rotate code-signing certificates for its applications as"
+    },
+    {
       "source": "The Hacker News",
       "region": "global",
       "slug": "c7358f7b20ab",
@@ -430,6 +480,16 @@
       "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Fwindows-zero-days-expose-bitlocker.html",
       "published": "Thu, 14 May 2026 14:55:50 +0530",
       "summary": "An anonymous cybersecurity researcher who disclosed three Microsoft Defender vulnerabilities has returned with two more zero-days involving a BitLocker bypass and a privilege escalation impacting Windows Collaborative Tr"
+    },
+    {
+      "source": "BleepingComputer",
+      "region": "global",
+      "slug": "2ba8c6099c01",
+      "title": "Windows 11 and Microsoft Edge hacked at Pwn2Own Berlin 2026",
+      "url": "https://www.bleepingcomputer.com/news/security/windows-11-and-microsoft-edge-hacked-on-first-day-of-pwn2own-berlin-2026/",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Fwindows-11-and-microsoft-edge-hacked-on-first-day-of-pwn2own-berlin-2026%2F",
+      "published": "Thu, 14 May 2026 14:53:50 -0400",
+      "summary": "On the first day of Pwn2Own Berlin 2026, security researchers collected $523,000 in cash awards after exploiting 24 unique zero-days. [...]"
     },
     {
       "source": "The Hacker News",
@@ -442,164 +502,104 @@
       "summary": "Details have emerged about a new variant of the recent Dirty Frag Linux local privilege escalation (LPE) vulnerability that allows local attackers to gain root access, making it the third such bug to be identified in the"
     },
     {
-      "source": "The Hacker News",
+      "source": "CISA",
       "region": "global",
-      "slug": "771a355ef093",
-      "title": "18-Year-Old NGINX Rewrite Module Flaw Enables Unauthenticated RCE",
-      "url": "https://thehackernews.com/2026/05/18-year-old-nginx-rewrite-module-flaw.html",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2F18-year-old-nginx-rewrite-module-flaw.html",
-      "published": "Thu, 14 May 2026 11:30:09 +0530",
-      "summary": "Cybersecurity researchers have disclosed multiple security vulnerabilities impacting NGINX Plus and NGINX Open, including a critical flaw that remained undetected for 18 years. The vulnerability, discovered by depthfirst"
+      "slug": "792ae515556f",
+      "title": "Siemens Siemens ROS#",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-08",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.cisa.gov%2Fnews-events%2Fics-advisories%2Ficsa-26-134-08",
+      "published": "Thu, 14 May 26 12:00:00 +0000",
+      "summary": "View CSAF Summary ROS# contains a ROS service file_server, that before version 2.2.2 contains a path traversal vulnerability which could allow an attacker to access, i.e. read and write, arbitrary files, which are access"
     },
     {
-      "source": "BleepingComputer",
+      "source": "CISA",
       "region": "global",
-      "slug": "7064ec358444",
-      "title": "KongTuke hackers now use Microsoft Teams for corporate breaches",
-      "url": "https://www.bleepingcomputer.com/news/security/kongtuke-hackers-now-use-microsoft-teams-for-corporate-breaches/",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Fkongtuke-hackers-now-use-microsoft-teams-for-corporate-breaches%2F",
-      "published": "Thu, 14 May 2026 08:12:40 -0400",
-      "summary": "Initial access broker KongTuke has moved to Microsoft Teams for social engineering attacks, taking as little as five minutes to gain persistent access to corporate networks. [...]"
+      "slug": "51ddefb099eb",
+      "title": "Siemens gWAP",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-01",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.cisa.gov%2Fnews-events%2Fics-advisories%2Ficsa-26-134-01",
+      "published": "Thu, 14 May 26 12:00:00 +0000",
+      "summary": "View CSAF Summary Siemens gPROMS Web Applications Publisher (gWAP) is affected by a remote code execution vulnerability introduced through a third-party component, namely the Axios HTTP client library. The vulnerability "
     },
     {
-      "source": "BleepingComputer",
+      "source": "CISA",
       "region": "global",
-      "slug": "4cb5cc699c4b",
-      "title": "Dell confirms its SupportAssist software causes Windows BSOD crashes",
-      "url": "https://www.bleepingcomputer.com/news/software/dell-confirms-its-supportassist-software-causes-windows-bsod-crashes/",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsoftware%2Fdell-confirms-its-supportassist-software-causes-windows-bsod-crashes%2F",
-      "published": "Thu, 14 May 2026 06:03:39 -0400",
-      "summary": "Dell confirmed that its SupportAssist software is causing blue-screen crashes on some Windows systems following a wave of user reports about random reboots affecting Dell devices since Friday. [...]"
+      "slug": "dfd04e13877d",
+      "title": "Siemens SIMATIC",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-10",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.cisa.gov%2Fnews-events%2Fics-advisories%2Ficsa-26-134-10",
+      "published": "Thu, 14 May 26 12:00:00 +0000",
+      "summary": "View CSAF Summary SIMATIC CN 4100 contains multiple vulnerabilities which could potentially lead to a compromise in availability, integrity and confidentiality. Siemens has released a new version for SIMATIC CN 4100 and "
     },
     {
-      "source": "BleepingComputer",
+      "source": "CISA",
       "region": "global",
-      "slug": "9e1580d7df2c",
-      "title": "US charges suspected Dream Market admin arrested in Germany",
-      "url": "https://www.bleepingcomputer.com/news/security/us-charges-suspected-dream-market-admin-arrested-in-germany/",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Fus-charges-suspected-dream-market-admin-arrested-in-germany%2F",
-      "published": "Thu, 14 May 2026 04:55:46 -0400",
-      "summary": "The alleged main administrator of Dream Market Incognito Market, one of the largest dark web marketplaces before its shutdown, has been indicted in the United States on money laundering charges. [...]"
+      "slug": "b730c6556aeb",
+      "title": "Siemens Ruggedcom Rox",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-12",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.cisa.gov%2Fnews-events%2Fics-advisories%2Ficsa-26-134-12",
+      "published": "Thu, 14 May 26 12:00:00 +0000",
+      "summary": "View CSAF Summary Ruggedcom Rox contains an input validation vulnerability in the Scheduler functionality that could allow an authenticated remote attacker to execute arbitrary commands with root privileges on the underl"
     },
     {
-      "source": "BleepingComputer",
+      "source": "CISA",
       "region": "global",
-      "slug": "21b9779dd19b",
-      "title": "New Fragnesia Linux flaw lets attackers gain root privileges",
-      "url": "https://www.bleepingcomputer.com/news/security/new-fragnesia-linux-flaw-lets-attackers-gain-root-privileges/",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Fnew-fragnesia-linux-flaw-lets-attackers-gain-root-privileges%2F",
-      "published": "Thu, 14 May 2026 03:34:19 -0400",
-      "summary": "Linux distros are rolling out patches for a new high-severity kernel privilege escalation vulnerability (known as Fragnasia and tracked as CVE-2026-46300) that allows attackers to run malicious code as root. [...]"
+      "slug": "9409f61fc686",
+      "title": "Siemens Ruggedcom Rox",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-16",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.cisa.gov%2Fnews-events%2Fics-advisories%2Ficsa-26-134-16",
+      "published": "Thu, 14 May 26 12:00:00 +0000",
+      "summary": "View CSAF Summary Ruggedcom Rox before v2.17.1 contain multiple third-party vulnerabilities. Siemens has released new versions for the affected products and recommends to update to the latest versions. The following vers"
     },
     {
-      "source": "The Hacker News",
+      "source": "CISA",
       "region": "global",
-      "slug": "c19ed1ef05a0",
-      "title": "Microsoft's MDASH AI System Finds 16 Windows Flaws Fixed in Patch Tuesday",
-      "url": "https://thehackernews.com/2026/05/microsofts-mdash-ai-system-finds-16.html",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Fmicrosofts-mdash-ai-system-finds-16.html",
-      "published": "Wed, 13 May 2026 19:16:02 +0530",
-      "summary": "Microsoft has unveiled a new multi-model artificial intelligence (AI)-driven system called MDASH to facilitate vulnerability discovery and remediation at scale, adding that it's being tested by some customers as part of "
+      "slug": "45dadeafc920",
+      "title": "Siemens Simcenter Femap",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-05",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.cisa.gov%2Fnews-events%2Fics-advisories%2Ficsa-26-134-05",
+      "published": "Thu, 14 May 26 12:00:00 +0000",
+      "summary": "View CSAF Summary Simcenter Femap is affected by heap based buffer overflow vulnerability in Datakit library that could be triggered when the application reads files in IPT format. If a user is tricked to open a maliciou"
     },
     {
-      "source": "The Hacker News",
+      "source": "CISA",
       "region": "global",
-      "slug": "e704bcdff089",
-      "title": "Azerbaijani Energy Firm Hit by Repeated Microsoft Exchange Exploitation",
-      "url": "https://thehackernews.com/2026/05/azerbaijani-energy-firm-hit-by-repeated.html",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Fazerbaijani-energy-firm-hit-by-repeated.html",
-      "published": "Wed, 13 May 2026 18:30:00 +0530",
-      "summary": "A threat actor with affiliations to China has been linked to a \"multi-wave intrusion\" targeting an unnamed Azerbaijani oil and gas company between late December 2025 and late February 2026, marking an expansion of its ta"
+      "slug": "5eca735d99c4",
+      "title": "Universal Robots Polyscope 5",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-17",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.cisa.gov%2Fnews-events%2Fics-advisories%2Ficsa-26-134-17",
+      "published": "Thu, 14 May 26 12:00:00 +0000",
+      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to bypass authentication and execute code. The following versions of Universal Robots Polyscope 5 are affected: Polyscope 5 CVSS "
     },
     {
-      "source": "BleepingComputer",
+      "source": "CISA",
       "region": "global",
-      "slug": "4bd1ee2f3a61",
-      "title": "West Pharmaceutical says hackers stole data, encrypted systems",
-      "url": "https://www.bleepingcomputer.com/news/security/west-pharmaceutical-says-hackers-stole-data-encrypted-systems/",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Fwest-pharmaceutical-says-hackers-stole-data-encrypted-systems%2F",
-      "published": "Wed, 13 May 2026 18:23:31 -0400",
-      "summary": "West Pharmaceutical Services disclosed that it was the target of a cyberattack that resulted in data exfiltration and system encryption. [...]"
+      "slug": "690b90b23c49",
+      "title": "Siemens Ruggedcom Rox",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-11",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.cisa.gov%2Fnews-events%2Fics-advisories%2Ficsa-26-134-11",
+      "published": "Thu, 14 May 26 12:00:00 +0000",
+      "summary": "View CSAF Summary Ruggedcom Rox contains an input validation vulnerability in the feature key installation process that could allow an authenticated remote attacker to execute arbitrary commands with root privileges on t"
     },
     {
-      "source": "BleepingComputer",
+      "source": "CISA",
       "region": "global",
-      "slug": "9f05964a2717",
-      "title": "Iranian hackers targeted major South Korean electronics maker",
-      "url": "https://www.bleepingcomputer.com/news/security/iranian-hackers-targeted-major-south-korean-electronics-maker/",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Firanian-hackers-targeted-major-south-korean-electronics-maker%2F",
-      "published": "Wed, 13 May 2026 17:59:33 -0400",
-      "summary": "The Iran-linked hacking group MuddyWater (a.k.a. Seedworm, Static Kitten) launched a broad cyber-espionage campaign targeting at least nine high-profile organizations across multiple sectors and countries. [...]"
+      "slug": "d339359a3150",
+      "title": "Siemens Teamcenter",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-04",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.cisa.gov%2Fnews-events%2Fics-advisories%2Ficsa-26-134-04",
+      "published": "Thu, 14 May 26 12:00:00 +0000",
+      "summary": "View CSAF Summary Siemens Teamcenter is affected by multiple vulnerabilities which could potentially lead to a compromise in availability, integrity and confidentiality. Siemens has released new versions for the affected"
     },
     {
-      "source": "The Hacker News",
+      "source": "CISA",
       "region": "global",
-      "slug": "bd7da8b567b6",
-      "title": "[Webinar] How Modern Attack Paths Cross Code, Pipelines, and Cloud",
-      "url": "https://thehackernews.com/2026/05/webinar-why-your-appsec-tools-miss.html",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Fwebinar-why-your-appsec-tools-miss.html",
-      "published": "Wed, 13 May 2026 17:22:43 +0530",
-      "summary": "TL;DR: Stop chasing thousands of \"toast\" alerts. Join experts from Wiz to learn how hackers connect tiny flaws to build a \"Lethal Chain\" to your data—and how to break it. Register for the Strategic Briefing Here. Most se"
-    },
-    {
-      "source": "The Hacker News",
-      "region": "global",
-      "slug": "f96f8c6c0ea3",
-      "title": "Most Remediation Programs Never Confirm the Fix Actually Worked",
-      "url": "https://thehackernews.com/2026/05/most-remediation-programs-never-confirm.html",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Fmost-remediation-programs-never-confirm.html",
-      "published": "Wed, 13 May 2026 17:00:00 +0530",
-      "summary": "Security teams have never had better visibility into their environments and never been worse at confirming what they fix stays fixed. Mandiant's M-Trends 2026 report puts the mean time to exploit at an estimated negative"
-    },
-    {
-      "source": "BleepingComputer",
-      "region": "global",
-      "slug": "78e2879062ec",
-      "title": "New critical Exim mailer flaw allows remote code execution",
-      "url": "https://www.bleepingcomputer.com/news/security/new-critical-exim-mailer-flaw-allows-remote-code-execution/",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Fnew-critical-exim-mailer-flaw-allows-remote-code-execution%2F",
-      "published": "Wed, 13 May 2026 16:23:50 -0400",
-      "summary": "A critical vulnerability affecting certain configurations of the Exim open-source mail transfer agent could be exploited by an unauthenticated remote attacker to execute arbitrary code. [...]"
-    },
-    {
-      "source": "The Hacker News",
-      "region": "global",
-      "slug": "3f0b5f448234",
-      "title": "Microsoft Patches 138 Vulnerabilities, Including DNS and Netlogon RCE Flaws",
-      "url": "https://thehackernews.com/2026/05/microsoft-patches-138-vulnerabilities.html",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Fmicrosoft-patches-138-vulnerabilities.html",
-      "published": "Wed, 13 May 2026 16:06:10 +0530",
-      "summary": "Microsoft on Tuesday released patches for 138 security vulnerabilities spanning its product portfolio, although none of them have been listed as publicly known or under active attack. Of the 138 flaws, 30 are rated Criti"
-    },
-    {
-      "source": "BleepingComputer",
-      "region": "global",
-      "slug": "3351f0f73caa",
-      "title": "Windows BitLocker zero-day gives access to protected drives, PoC released",
-      "url": "https://www.bleepingcomputer.com/news/security/windows-bitlocker-zero-day-gives-access-to-protected-drives-poc-released/",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Fwindows-bitlocker-zero-day-gives-access-to-protected-drives-poc-released%2F",
-      "published": "Wed, 13 May 2026 12:37:49 -0400",
-      "summary": "A cybersecurity researcher has published proof-of-concept (PoC) exploits for two unpatched Microsoft Windows vulnerabilities named YellowKey and GreenPlasma, which are a BitLocker bypass and a privilege-escalation flaw. "
-    },
-    {
-      "source": "BleepingComputer",
-      "region": "global",
-      "slug": "9ddf80958202",
-      "title": "Webinar tomorrow: Why security alone won't stop modern attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-why-security-alone-wont-stop-modern-attacks/",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Fwebinar-tomorrow-why-security-alone-wont-stop-modern-attacks%2F",
-      "published": "Wed, 13 May 2026 11:45:56 -0400",
-      "summary": "Tomorrow's webinar examines why prevention alone is no longer enough against modern cyberattacks. The session explores how organizations combine security, backups, and recovery planning to improve cyber resilience after "
-    },
-    {
-      "source": "BleepingComputer",
-      "region": "global",
-      "slug": "f95644c7344b",
-      "title": "Microsoft fixes BitLocker recovery issue only for Windows 11 users",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bitlocker-recovery-issue-only-for-windows-11-users/",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fmicrosoft%2Fmicrosoft-fixes-bitlocker-recovery-issue-only-for-windows-11-users%2F",
-      "published": "Wed, 13 May 2026 11:42:46 -0400",
-      "summary": "Microsoft has addressed a known issue causing some Windows 11 systems to boot into BitLocker recovery after installing the April 2026 Windows security updates. [...]"
+      "slug": "99b7376e9c04",
+      "title": "Siemens Solid Edge",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-03",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.cisa.gov%2Fnews-events%2Fics-advisories%2Ficsa-26-134-03",
+      "published": "Thu, 14 May 26 12:00:00 +0000",
+      "summary": "View CSAF Summary Solid Edge SE2026 before Update 5 is affected by two file parsing vulnerabilities that could be triggered when the application reads specially crafted files in PAR format. This could allow an attacker t"
     }
   ],
   "errors": []
