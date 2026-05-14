@@ -1,6 +1,26 @@
 {
-  "generated_at": "2026-05-14T08:49:49.410733+00:00",
+  "generated_at": "2026-05-14T14:37:58.655978+00:00",
   "items": [
+    {
+      "source": "보안뉴스",
+      "region": "domestic",
+      "slug": "5a088c796fed",
+      "title": "강병탁 AI스페라 대표, “AI 시대 보안은 ‘운영’... 에이전트 CTEM 출격”",
+      "url": "http://www.boannews.com/media/view.asp?idx=143627&kind=&sub_kind=",
+      "translateUrl": "",
+      "published": "Thu, 14 May 2026 18:15:00 +0900",
+      "summary": "“미토스 대응? 기술 앞서 문화 개선부터”“중소기업 보안 미흡, 대기업 보안까지 위협”[보안뉴스 강현주 기자] “AI 위협 대응은 발견된 취약점을 실제 조치로 빠르게 연결하는 ‘운영’ 체계 마련이 우선입니다. AI 시대 공격표면관리(ASM)의 다음 단계는 지속적 위협노출관리(CTEM)에 AI 에이전트를 접목한 ‘AI TEM’입니다.”강병탁 AI스페라 대표"
+    },
+    {
+      "source": "보안뉴스",
+      "region": "domestic",
+      "slug": "c6bbff7997c8",
+      "title": "이번엔 마이크로소프트... 새 AI 보안 시스템 MDASH, 취약점 탐지 성적 미토스 넘어",
+      "url": "http://www.boannews.com/media/view.asp?idx=143626&kind=&sub_kind=",
+      "translateUrl": "",
+      "published": "Thu, 14 May 2026 18:05:00 +0900",
+      "summary": "100개 이상 특화 에이전트 조율해 취약점 탐지... 비공개 프리뷰로 공개[보안뉴스 한세희 기자] 마이크로소프트가 100개 이상의 인공지능(AI) 에이전트를 연결해 취약점을 찾아내는 AI 보안 시스템 ‘MDASH’를 공개했다. 벤치마크 테스트에서 앤트로픽 ‘미토스’나 오픈AI GPT-5.5를 앞서는 결과를 냈다. MDASH는 ‘Multi-moDel Agen"
+    },
     {
       "source": "보안뉴스",
       "region": "domestic",
@@ -80,26 +100,6 @@
       "translateUrl": "",
       "published": "Thu, 14 May 2026 14:02:00 +0900",
       "summary": "강력한 자체 보안 플랫폼 기반신원 최우선 보안 선도다중 인증(MFA) 및 폭넓은 인증 수단 지원으로 출입통제 시장에 새로운 기준 제시[보안뉴스 엄호식 기자] AI 기반 통합 보안 및 출입통제 솔루션 전문기업 슈프리마(대표 이재원, 김한철)가 새로운 플래그십 제품인 AI 생체인식 단말기 ‘바이오스테이션 3 맥스’(BioStation 3 Max)를 출시했다고"
-    },
-    {
-      "source": "보안뉴스",
-      "region": "domestic",
-      "slug": "6a7fd3564f09",
-      "title": "개인정보 관리 소홀 보람상조, 5억4250만원 과징금 맞아",
-      "url": "http://www.boannews.com/media/view.asp?idx=143617&kind=&sub_kind=",
-      "translateUrl": "",
-      "published": "Thu, 14 May 2026 14:01:00 +0900",
-      "summary": "안전조치의무 소홀 및 수탁자 관리감독 미흡에 과징금·과태료 약 5억5000만원 부과개인정보위, 상조 분야 전반 사전실태점검 병행 중[보안뉴스 한세희 기자] 개인정보 관리를 소홀히 해 데이터 유출 사고를 겪은 보람상조가 5억4250만원의 과징금을 물게 됐다. 개인정보보호위원회는 개인정보 보호법을 위반한 보람상조개발 등 보람상조 7개 사업자에 과징금 5억425"
-    },
-    {
-      "source": "보안뉴스",
-      "region": "domestic",
-      "slug": "390b277bf3e2",
-      "title": "마이크로소프트 “이메일 위협, 악성코드 가고 ‘계정 탈취’ 시대 왔다”",
-      "url": "http://www.boannews.com/media/view.asp?idx=143615&kind=&sub_kind=",
-      "translateUrl": "",
-      "published": "Thu, 14 May 2026 13:03:00 +0900",
-      "summary": "MS, ‘2026년 1분기 이메일 환경 위협 보고서’... QR코드 피싱 146% 폭증 및 캡차 우회 전술 기승공격 중심축 ‘계정 권한 확보’로 이동[보안뉴스 조재호 기자] 사이버 공격자들이 기존 이메일 보안 필터를 무력화하기 위해 이미지와 정상적 인증 절차를 무기로 역이용하는 양상이 뚜렷해지고 있다.마이크로소프트(MS) 위협 인텔리전스는 14일 발표한 ‘"
     },
     {
       "source": "KISA 보안공지",
@@ -404,6 +404,36 @@
     {
       "source": "The Hacker News",
       "region": "global",
+      "slug": "58ed761e28a8",
+      "title": "PraisonAI CVE-2026-44338 Auth Bypass Targeted Within Hours of Disclosure",
+      "url": "https://thehackernews.com/2026/05/praisonai-cve-2026-44338-auth-bypass.html",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Fpraisonai-cve-2026-44338-auth-bypass.html",
+      "published": "Thu, 14 May 2026 17:10:14 +0530",
+      "summary": "Threat actors have been observed attempting to exploit a recently disclosed security vulnerability in PraisonAI, an open-source multi-agent orchestration framework, within four hours of public disclosure. The vulnerabili"
+    },
+    {
+      "source": "The Hacker News",
+      "region": "global",
+      "slug": "dc7f8c1855ee",
+      "title": "How AI Hallucinations Are Creating Real Security Risks",
+      "url": "https://thehackernews.com/2026/05/how-ai-hallucinations-are-creating-real.html",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Fhow-ai-hallucinations-are-creating-real.html",
+      "published": "Thu, 14 May 2026 17:00:00 +0530",
+      "summary": "AI hallucinations are introducing serious security risks into critical infrastructure decision-making by exploiting human trust through highly confident yet incorrect outputs. When an AI model lacks certainty, it doesn’t"
+    },
+    {
+      "source": "The Hacker News",
+      "region": "global",
+      "slug": "c7358f7b20ab",
+      "title": "Windows Zero-Days Expose BitLocker Bypasses And CTFMON Privilege Escalation",
+      "url": "https://thehackernews.com/2026/05/windows-zero-days-expose-bitlocker.html",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Fwindows-zero-days-expose-bitlocker.html",
+      "published": "Thu, 14 May 2026 14:55:50 +0530",
+      "summary": "An anonymous cybersecurity researcher who disclosed three Microsoft Defender vulnerabilities has returned with two more zero-days involving a BitLocker bypass and a privilege escalation impacting Windows Collaborative Tr"
+    },
+    {
+      "source": "The Hacker News",
+      "region": "global",
       "slug": "b77db9a757e6",
       "title": "New Fragnesia Linux Kernel LPE Grants Root Access via Page Cache Corruption",
       "url": "https://thehackernews.com/2026/05/new-fragnesia-linux-kernel-lpe-grants.html",
@@ -420,6 +450,36 @@
       "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2F18-year-old-nginx-rewrite-module-flaw.html",
       "published": "Thu, 14 May 2026 11:30:09 +0530",
       "summary": "Cybersecurity researchers have disclosed multiple security vulnerabilities impacting NGINX Plus and NGINX Open, including a critical flaw that remained undetected for 18 years. The vulnerability, discovered by depthfirst"
+    },
+    {
+      "source": "BleepingComputer",
+      "region": "global",
+      "slug": "7064ec358444",
+      "title": "KongTuke hackers now use Microsoft Teams for corporate breaches",
+      "url": "https://www.bleepingcomputer.com/news/security/kongtuke-hackers-now-use-microsoft-teams-for-corporate-breaches/",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Fkongtuke-hackers-now-use-microsoft-teams-for-corporate-breaches%2F",
+      "published": "Thu, 14 May 2026 08:12:40 -0400",
+      "summary": "Initial access broker KongTuke has moved to Microsoft Teams for social engineering attacks, taking as little as five minutes to gain persistent access to corporate networks. [...]"
+    },
+    {
+      "source": "BleepingComputer",
+      "region": "global",
+      "slug": "4cb5cc699c4b",
+      "title": "Dell confirms its SupportAssist software causes Windows BSOD crashes",
+      "url": "https://www.bleepingcomputer.com/news/software/dell-confirms-its-supportassist-software-causes-windows-bsod-crashes/",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsoftware%2Fdell-confirms-its-supportassist-software-causes-windows-bsod-crashes%2F",
+      "published": "Thu, 14 May 2026 06:03:39 -0400",
+      "summary": "Dell confirmed that its SupportAssist software is causing blue-screen crashes on some Windows systems following a wave of user reports about random reboots affecting Dell devices since Friday. [...]"
+    },
+    {
+      "source": "BleepingComputer",
+      "region": "global",
+      "slug": "9e1580d7df2c",
+      "title": "US charges suspected Dream Market admin arrested in Germany",
+      "url": "https://www.bleepingcomputer.com/news/security/us-charges-suspected-dream-market-admin-arrested-in-germany/",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Fus-charges-suspected-dream-market-admin-arrested-in-germany%2F",
+      "published": "Thu, 14 May 2026 04:55:46 -0400",
+      "summary": "The alleged main administrator of Dream Market Incognito Market, one of the largest dark web marketplaces before its shutdown, has been indicted in the United States on money laundering charges. [...]"
     },
     {
       "source": "BleepingComputer",
@@ -512,16 +572,6 @@
       "summary": "Microsoft on Tuesday released patches for 138 security vulnerabilities spanning its product portfolio, although none of them have been listed as publicly known or under active attack. Of the 138 flaws, 30 are rated Criti"
     },
     {
-      "source": "The Hacker News",
-      "region": "global",
-      "slug": "ff51c761ea45",
-      "title": "GemStuffer Abuses 150+ RubyGems to Exfiltrate Scraped U.K. Council Portal Data",
-      "url": "https://thehackernews.com/2026/05/gemstuffer-abuses-150-rubygems-to.html",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Fgemstuffer-abuses-150-rubygems-to.html",
-      "published": "Wed, 13 May 2026 13:38:54 +0530",
-      "summary": "Cybersecurity researchers are calling attention to a new campaign dubbed GemStuffer that has targeted the RubyGems repository with more than 150 gems that use the registry as a data exfiltration channel rather than for m"
-    },
-    {
       "source": "BleepingComputer",
       "region": "global",
       "slug": "3351f0f73caa",
@@ -530,16 +580,6 @@
       "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Fwindows-bitlocker-zero-day-gives-access-to-protected-drives-poc-released%2F",
       "published": "Wed, 13 May 2026 12:37:49 -0400",
       "summary": "A cybersecurity researcher has published proof-of-concept (PoC) exploits for two unpatched Microsoft Windows vulnerabilities named YellowKey and GreenPlasma, which are a BitLocker bypass and a privilege-escalation flaw. "
-    },
-    {
-      "source": "The Hacker News",
-      "region": "global",
-      "slug": "463638b65223",
-      "title": "Android Adds Intrusion Logging for Sophisticated Spyware Forensics",
-      "url": "https://thehackernews.com/2026/05/android-adds-intrusion-logging-for.html",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Fandroid-adds-intrusion-logging-for.html",
-      "published": "Wed, 13 May 2026 12:25:42 +0530",
-      "summary": "Google on Tuesday unveiled a new opt-in Android feature called Intrusion Logging for storing forensic logs to better analyze sophisticated spyware attacks. Intrusion Logging, available as part of Advanced Protection Mode"
     },
     {
       "source": "BleepingComputer",
@@ -560,46 +600,6 @@
       "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fmicrosoft%2Fmicrosoft-fixes-bitlocker-recovery-issue-only-for-windows-11-users%2F",
       "published": "Wed, 13 May 2026 11:42:46 -0400",
       "summary": "Microsoft has addressed a known issue causing some Windows 11 systems to boot into BitLocker recovery after installing the April 2026 Windows security updates. [...]"
-    },
-    {
-      "source": "BleepingComputer",
-      "region": "global",
-      "slug": "e26cc96f8272",
-      "title": "Microsoft fixes Windows Autopatch bug installing restricted drivers",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-autopatch-bug-installing-restricted-drivers/",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fmicrosoft%2Fmicrosoft-fixes-windows-autopatch-bug-installing-restricted-drivers%2F",
-      "published": "Wed, 13 May 2026 10:36:09 -0400",
-      "summary": "Microsoft has fixed a Windows Autopatch bug that caused driver updates restricted by administrative policies to be deployed on some Autopatch-managed Windows devices in the European Union. [...]"
-    },
-    {
-      "source": "BleepingComputer",
-      "region": "global",
-      "slug": "0f66f3a854e9",
-      "title": "Foxconn confirms cyberattack claimed by Nitrogen ransomware gang",
-      "url": "https://www.bleepingcomputer.com/news/security/electronics-giant-foxconn-confirms-cyberattack-on-north-american-factories/",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Felectronics-giant-foxconn-confirms-cyberattack-on-north-american-factories%2F",
-      "published": "Wed, 13 May 2026 08:49:54 -0400",
-      "summary": "Foxconn, the world's largest electronics manufacturer, says some of its North American factories are now working to resume normal operations after a cyberattack. [...]"
-    },
-    {
-      "source": "BleepingComputer",
-      "region": "global",
-      "slug": "37bd59121762",
-      "title": "73 Seconds to Breach, 24 Hours to Patch: The Case for Autonomous Validation",
-      "url": "https://www.bleepingcomputer.com/news/security/73-seconds-to-breach-24-hours-to-patch-the-case-for-autonomous-validation/",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2F73-seconds-to-breach-24-hours-to-patch-the-case-for-autonomous-validation%2F",
-      "published": "Wed, 13 May 2026 08:30:38 -0400",
-      "summary": "Attackers can compromise systems in minutes while patching and response still take hours or days. Picus Security breaks down why autonomous validation is becoming critical for modern defense strategies. [...]"
-    },
-    {
-      "source": "The Hacker News",
-      "region": "global",
-      "slug": "5fb6512a0aac",
-      "title": "New Exim BDAT Vulnerability Exposes GnuTLS Builds to Potential Code Execution",
-      "url": "https://thehackernews.com/2026/05/new-exim-bdat-vulnerability-exposes.html",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Fnew-exim-bdat-vulnerability-exposes.html",
-      "published": "Tue, 12 May 2026 22:14:00 +0530",
-      "summary": "Exim has released security updates to address a severe security issue affecting certain configurations that could enable memory corruption and potential code execution. Exim is an open-source Mail Transfer Agent (MTA) de"
     }
   ],
   "errors": []
