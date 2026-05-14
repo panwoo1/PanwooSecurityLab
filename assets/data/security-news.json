@@ -1,6 +1,96 @@
 {
-  "generated_at": "2026-05-14T04:10:41.745636+00:00",
+  "generated_at": "2026-05-14T08:49:49.410733+00:00",
   "items": [
+    {
+      "source": "보안뉴스",
+      "region": "domestic",
+      "slug": "56bbc3c052e9",
+      "title": "AI 에이전트 시대의 보안... 팔로알토, 아이덴티티 보안 플랫폼 ‘이디라’(Idira) 출시",
+      "url": "http://www.boannews.com/media/view.asp?idx=143624&kind=&sub_kind=",
+      "translateUrl": "",
+      "published": "Thu, 14 May 2026 15:37:00 +0900",
+      "summary": "인간, 기계, 자율형 AI 에이전트 아우르는 차세대 아이덴티티 보안 플랫폼 이디라(Idira) 공개사이버아크(CyberArk) 전문성 결합, 특권접근관리(PAM) 기술 동적 확장 구현[보안뉴스 조재호 기자] 기계와 AI 아이덴티티(Identity)가 인간보다 109배 많아진 2026년, 사이버 공격자들은 시스템을 파괴하는 대신 정상 신원을 도용해 ‘로그인’"
+    },
+    {
+      "source": "보안뉴스",
+      "region": "domestic",
+      "slug": "2771165db7ef",
+      "title": "SK쉴더스 “중소기업 해킹 인지까지 106.1일... 야간 틈탄 랜섬웨어 기승”",
+      "url": "http://www.boannews.com/media/view.asp?idx=143623&kind=&sub_kind=",
+      "translateUrl": "",
+      "published": "Thu, 14 May 2026 14:53:00 +0900",
+      "summary": "최근 5년간 중소·중견기업 대상 사이버 침해사고 실태최초 침투 후 조사 착수까지 평균 106.1일 소요, 방어 골든타임 상실전체 사고 47.4% 제조업에 집중... 24시간 상시 대응 위한 MDR 도입 필요해[보안뉴스 조재호 기자] 보안 인력과 인프라가 상대적으로 부족한 중소·중견기업을 겨냥한 사이버 공격이 갈수록 고도화되며 기업 비즈니스 연속성을 심각하게"
+    },
+    {
+      "source": "보안뉴스",
+      "region": "domestic",
+      "slug": "edc9dc2f4312",
+      "title": "“태권도 단증도 스마트폰에 쏙”... 국기원에 ‘옴니원 디지털 ID’ 공급",
+      "url": "http://www.boannews.com/media/view.asp?idx=143621&kind=&sub_kind=",
+      "translateUrl": "",
+      "published": "Thu, 14 May 2026 14:29:00 +0900",
+      "summary": "품·단증 등 27종 블록체인 기반 모바일 신원증명으로 전환분산신원인증(DID) 기술로 위변조 원천 차단[보안뉴스 조재호 기자] 플라스틱 카드와 종이 형태로 발급되던 태권도 단증이 스마트폰 속 디지털 지갑으로 들어왔다. 라온시큐어가 국기원 태권도 품·단증과 자격증을 디지털 신원증명 방식으로 구축하는 ‘국기원 디지털아이디’ 사업을 성공적으로 완료했다고 14일"
+    },
+    {
+      "source": "보안뉴스",
+      "region": "domestic",
+      "slug": "fb3c6aa64267",
+      "title": "SKT, 해킹 후 CPO 관리·감독 강화... 사고 기업들 이행 결과 발표",
+      "url": "http://www.boannews.com/media/view.asp?idx=143622&kind=&sub_kind=",
+      "translateUrl": "",
+      "published": "Thu, 14 May 2026 14:28:00 +0900",
+      "summary": "개인정보위, 2025년 하반기 시정명령 이행점검[보안뉴스 강현주 기자] SK텔레콤(SKT)이 대규모 개인정보 유출 사고 후 개인정보보호책임자(CPO)의 관리·감독을 강화하는 등 개선 권고를 적극적으로 이행했다. 개인정보보호위원회(위원장 송경희)는 개인정보 보호법 위반으로 시정명령(권고), 개선권고를 처분한 조직들의 이행점검 결과를 14일 발표했다. 개인정보"
+    },
+    {
+      "source": "보안뉴스",
+      "region": "domestic",
+      "slug": "2e75fcd346f9",
+      "title": "한국재난안전산업협회, 기술발표회 통해 AI·데이터 기반 재난안전 기술 협력 본격화",
+      "url": "http://www.boannews.com/media/view.asp?idx=143620&kind=&sub_kind=",
+      "translateUrl": "",
+      "published": "Thu, 14 May 2026 14:22:00 +0900",
+      "summary": "회원사 중심 산업 플랫폼 역할 강화[보안뉴스 엄호식 기자] 한국재난안전산업협회(회장 서병일)는 5월 12일 서울 강서구 사이언스타 대회의실에서 ‘회원사 간담회 및 기술 발표회(2026년 1차)’를 개최하고 재난안전 AI·데이터 활용 동향과 회원사 기술 사례를 공유했다.‘재난안전 AI·데이터 활용의 현주소’를 주제로 열린 이날 행사에는 서울·경기를 비롯해 전"
+    },
+    {
+      "source": "보안뉴스",
+      "region": "domestic",
+      "slug": "674c9aa2002f",
+      "title": "한국특허정보원, 제10대 강병삼 신임 원장 취임",
+      "url": "http://www.boannews.com/media/view.asp?idx=143619&kind=&sub_kind=",
+      "translateUrl": "",
+      "published": "Thu, 14 May 2026 14:10:00 +0900",
+      "summary": "지능정보로 IP 혁신 선도하는 명품 정보원 도약 다짐[보안뉴스 엄호식 기자] 한국특허정보원은 5월 12일 이사회를 통해 신임 원장으로 강병삼(姜炳三) 전(前) 연구개발특구진흥재단 이사장을 선임 의결했다고 밝혔다. 강병삼 신임 원장은 1991년 기술고시(제26회)를 통해 공직에 입문한 이래, 노동부·상공부 사무관, 과학기술부 원천기술과장·국제협력총괄담당관,"
+    },
+    {
+      "source": "보안뉴스",
+      "region": "domestic",
+      "slug": "974e8fd63bb8",
+      "title": "포티넷, 무선 AP 및 네트워크 운영체제 등 핵심 제품군 5종 ‘보안 패치’ 배포",
+      "url": "http://www.boannews.com/media/view.asp?idx=143616&kind=&sub_kind=",
+      "translateUrl": "",
+      "published": "Thu, 14 May 2026 14:06:00 +0900",
+      "summary": "포티샌드박스 및 관련 클라우드 서비스 인증 우회 취약점 ‘CVE-2026-26083’ 등 담겨[보안뉴스 원병철 기자] 포티넷(Fortinet)이 무선 액세스 포인트(AP) 컨트롤러와 네트워크 운영체제 등 주요 제품군에서 발견된 5가지 취약점에 대한 보안 권고를 발표했다. 포티넷 제품 보안 사고 대응팀(PSIRT)에 따르면 가장 위험도가 높은 결함은 포티샌드"
+    },
+    {
+      "source": "보안뉴스",
+      "region": "domestic",
+      "slug": "3c292a0e5ea5",
+      "title": "슈프리마, AI 생체인식 단말기 바이오스테이션 3 맥스 출시",
+      "url": "http://www.boannews.com/media/view.asp?idx=143618&kind=&sub_kind=",
+      "translateUrl": "",
+      "published": "Thu, 14 May 2026 14:02:00 +0900",
+      "summary": "강력한 자체 보안 플랫폼 기반신원 최우선 보안 선도다중 인증(MFA) 및 폭넓은 인증 수단 지원으로 출입통제 시장에 새로운 기준 제시[보안뉴스 엄호식 기자] AI 기반 통합 보안 및 출입통제 솔루션 전문기업 슈프리마(대표 이재원, 김한철)가 새로운 플래그십 제품인 AI 생체인식 단말기 ‘바이오스테이션 3 맥스’(BioStation 3 Max)를 출시했다고"
+    },
+    {
+      "source": "보안뉴스",
+      "region": "domestic",
+      "slug": "6a7fd3564f09",
+      "title": "개인정보 관리 소홀 보람상조, 5억4250만원 과징금 맞아",
+      "url": "http://www.boannews.com/media/view.asp?idx=143617&kind=&sub_kind=",
+      "translateUrl": "",
+      "published": "Thu, 14 May 2026 14:01:00 +0900",
+      "summary": "안전조치의무 소홀 및 수탁자 관리감독 미흡에 과징금·과태료 약 5억5000만원 부과개인정보위, 상조 분야 전반 사전실태점검 병행 중[보안뉴스 한세희 기자] 개인정보 관리를 소홀히 해 데이터 유출 사고를 겪은 보람상조가 5억4250만원의 과징금을 물게 됐다. 개인정보보호위원회는 개인정보 보호법을 위반한 보람상조개발 등 보람상조 7개 사업자에 과징금 5억425"
+    },
     {
       "source": "보안뉴스",
       "region": "domestic",
@@ -10,66 +100,6 @@
       "translateUrl": "",
       "published": "Thu, 14 May 2026 13:03:00 +0900",
       "summary": "MS, ‘2026년 1분기 이메일 환경 위협 보고서’... QR코드 피싱 146% 폭증 및 캡차 우회 전술 기승공격 중심축 ‘계정 권한 확보’로 이동[보안뉴스 조재호 기자] 사이버 공격자들이 기존 이메일 보안 필터를 무력화하기 위해 이미지와 정상적 인증 절차를 무기로 역이용하는 양상이 뚜렷해지고 있다.마이크로소프트(MS) 위협 인텔리전스는 14일 발표한 ‘"
-    },
-    {
-      "source": "보안뉴스",
-      "region": "domestic",
-      "slug": "66d2b5dd1bad",
-      "title": "“VS코드로 들어와 메모리 직접 때린다” 카스퍼스키가 해부한 北 김수키 기술력",
-      "url": "http://www.boannews.com/media/view.asp?idx=143614&kind=&sub_kind=",
-      "translateUrl": "",
-      "published": "Thu, 14 May 2026 11:44:00 +0900",
-      "summary": "김수키 페블대시 및 애플시드 하이브리드 기술 분석 보고서 발표러스트 기반 헬로도어 내부 이모지 로그 발견... LLM 악용 기정사실화VS코드 원격 터널 및 DW에이전트 전용해 침투 유지하고 GPKI 겨냥[보안뉴스 조재호 기자] 북한 배후 해킹 그룹 ‘김수키’(Kimsuky)가 AI와 최신 프로그래밍 언어를 결합한 하이브리드 공격으로 국가 안보의 근간을 뒤흔"
-    },
-    {
-      "source": "보안뉴스",
-      "region": "domestic",
-      "slug": "06c23f40e305",
-      "title": "금융보안원, ‘2026년 금융권 AI 활용 및 안전성·신뢰성 강화 세미나’ 개최",
-      "url": "http://www.boannews.com/media/view.asp?idx=143613&kind=&sub_kind=",
-      "translateUrl": "",
-      "published": "Thu, 14 May 2026 10:03:00 +0900",
-      "summary": "미토스 등 프론티어 AI에 의한 사이버보안 위협 대응 논의금융AI 안전성·신뢰성 프레임워크(안) 공개 및 시범평가 예정 [보안뉴스 원병철 기자] 금융보안원(원장 박상원)은 금융투자협회 불스홀에서 금융회사 및 유관기관 CISO/CIO 등 임직원 260명이 참석한 가운데 ‘2026년 금융권 AI 활용 및 안전성·신뢰성 강화 세미나’를 개최했다고 밝혔다. 이번"
-    },
-    {
-      "source": "보안뉴스",
-      "region": "domestic",
-      "slug": "613188d58f29",
-      "title": "“공장 네트워크 완전 마비” 폭스콘 북미 공장 랜섬웨어 피습... 8TB 털렸다",
-      "url": "http://www.boannews.com/media/view.asp?idx=143611&kind=&sub_kind=",
-      "translateUrl": "",
-      "published": "Thu, 14 May 2026 09:59:00 +0900",
-      "summary": "위스콘신 및 텍사스 등 북미 지역 주요 공장 타격... 직원 조기 퇴근 및 생산 중단나이트로젠 조직 소행 추정... 애플, 구글 등 고객사 설계 자산 유출 우려[보안뉴스 김형근 기자] 폭스콘이 또다시 대규모 랜섬웨어 기습에 무릎을 꿇으며 북미 공장이 멈춰 섰다. 애플과 마이크로소프트(MS) 등 주요 빅테크 핵심 설계 자산이 포함된 데이터가 탈취되면서 향후"
-    },
-    {
-      "source": "보안뉴스",
-      "region": "domestic",
-      "slug": "d09a41a5792b",
-      "title": "교육 플랫폼 운영사 인스트럭처, 결국 해커에 몸값 지불... 미 의회는 조사 착수",
-      "url": "http://www.boannews.com/media/view.asp?idx=143612&kind=&sub_kind=",
-      "translateUrl": "",
-      "published": "Thu, 14 May 2026 09:54:00 +0900",
-      "summary": "샤이니헌터스에 2차례 공격 당해... 주요 대학 등 고객 교육기관 학사 일정 차질[보안뉴스 김형근 기자] 교육기술 기업 인스트럭처(Instructure)가 자사 학사 관리 플랫폼 ‘캔버스’(Canvas)에서 정보를 훔친 해커 조직 샤이니헌터스(ShinyHunters)에게 랜섬웨어 대가를 지불했다고 공식 인정했다.샤이니헌터스는 1일(현지시간) 1차 침투에 이"
-    },
-    {
-      "source": "보안뉴스",
-      "region": "domestic",
-      "slug": "ae90162766b4",
-      "title": "디사일로, 5세대 동형암호 ‘GL’ 국제 학계 공인... 세계암호학회 논문 2편 채택",
-      "url": "http://www.boannews.com/media/view.asp?idx=143610&kind=&sub_kind=",
-      "translateUrl": "",
-      "published": "Thu, 14 May 2026 09:22:00 +0900",
-      "summary": "동형암호 창시자 공동 연구... 행렬 연산 속도 수백 배 향상“데이터 유출 없는 프라이빗 AI 시대 앞당겨” [보안뉴스 강현주 기자] 동형암호(FHE) 및 프라이버시 강화 기술(PET) 전문 기업 디사일로(대표 이승명)는 자사 연구진이 주도한 5세대 동형암호 스킴 ‘GL’ 관련 논문 2편이 세계 최고 권위의 암호학 학술대회 ‘크립토 2026’(Crypto"
-    },
-    {
-      "source": "보안뉴스",
-      "region": "domestic",
-      "slug": "ff35b2c02296",
-      "title": "[만화로 보는 피싱] #3. “해킹 피해 점검하게 앱 설치 좀”... 그게 해킹이다",
-      "url": "http://www.boannews.com/media/view.asp?idx=143609&kind=&sub_kind=",
-      "translateUrl": "",
-      "published": "Thu, 14 May 2026 07:37:00 +0900",
-      "summary": "사회적 이슈로 현혹해 링크 클릭 유도 스미싱 주의낯선 앱 함부로 설치하면 금융정보까지 털려[보안뉴스 강현주 기자] “고객님 폰이 해킹됐습니다. 아래 링크를 통해 원격 앱을 설치해 주시면 보안을 점검하고 강화해드리겠습니다”통신사 해킹 사고 뉴스를 보다가 문자를 받은 순영씨. 메시지와 함께 웬 링크가 하나 와 있다. “그래 요즘 통신사 전부 해킹 사고를 당했다"
     },
     {
       "source": "KISA 보안공지",
@@ -92,34 +122,14 @@
       "summary": ""
     },
     {
-      "source": "보안뉴스",
+      "source": "ASEC KR",
       "region": "domestic",
-      "slug": "b456d8cb671c",
-      "title": "[배종찬의 보안 빅데이터] 영화 ‘아이 로봇’에서 드러난 피지컬AI의 위협",
-      "url": "http://www.boannews.com/media/view.asp?idx=143603&kind=&sub_kind=",
+      "slug": "3fd500615947",
+      "title": "Ransom & Dark Web Issues 2026년 5월 2주차",
+      "url": "https://asec.ahnlab.com/ko/93711/",
       "translateUrl": "",
-      "published": "Wed, 13 May 2026 17:34:00 +0900",
-      "summary": "피지컬AI 해킹, 현실 공간에서 즉각적인 물리적 피해로 나타나... 보안 위협 돌아봐야[보안뉴스= 배종찬 인사이트케이 연구소장] 2004년 개봉한 윌 스미스 주연의 영화 ‘아이, 로봇’(I, Robot)은 SF 거장 아이작 아시모프의 단편 소설집에서 모티브를 가져온 작품으로, 2035년을 배경으로 휴머노이드 로봇이 일상화된 미래 사회를 그리고 있다. 영화"
-    },
-    {
-      "source": "보안뉴스",
-      "region": "domestic",
-      "slug": "9e4072775c6d",
-      "title": "AI로 만든 해킹 도구의 습격... ‘Mr_Rot13’, 정부·군사 기밀 4.37GB 빼돌려",
-      "url": "http://www.boannews.com/media/view.asp?idx=143608&kind=&sub_kind=",
-      "translateUrl": "",
-      "published": "Wed, 13 May 2026 17:32:00 +0900",
-      "summary": "c패널 및 WHM 고위험 취약점 악용 공격 증가[보안뉴스 김형근 기자] 널리 쓰이는 웹 서버 관리 도구 c패널(cPanel)과 WHM에서 최근 발견된 심각한 보안 취약점이 세계 곳곳에서 악용되고 있다. 이 취약점(CVE-2026-41940)은 비밀번호 없이 서버 관리자 권한을 가로챌 수 있는 치명적 위협으로, 심각도 지수(CVSS) 점수가 9.8에 이른다."
-    },
-    {
-      "source": "보안뉴스",
-      "region": "domestic",
-      "slug": "346b532a6ba1",
-      "title": "AI 에이전트가 공격자 분석해 차단... 그룹아이비, 통합 지능형 보안 엔진 `프레빈 AI` 출시",
-      "url": "http://www.boannews.com/media/view.asp?idx=143606&kind=&sub_kind=",
-      "translateUrl": "",
-      "published": "Wed, 13 May 2026 14:51:00 +0900",
-      "summary": "탐지와 예측형 사이버 방어 간 격차 해소 새로운 인지 코어가 능동적 탐지와 지원형 대응 조율… 기계 속도 위협 능가 [보안뉴스 한세희 기자] 그룹아이비(지사장 김기태)는 공격자 의도와 인프라를 사전 파악하는 통합 지능형 보안 엔진 ‘프레빈 AI’(Prevyn AI)를 출시한다고 13일 밝혔다. 수십 년간 축적된 방대한 데이터를 실시간 인사이트와 즉각적 대응"
+      "published": "Wed, 13 May 2026 15:00:00 +0000",
+      "summary": "ASEC Blog를 통해 한 주간의 ‘Ransom & Dark Web Issues’ – 2026년 5월 2주차를 게시한다. Coinbase, 대한민국 의료 초음파 장비 제조 기업의 데이터 유출 주장 신규 데이터 강탈 그룹 Leak Bazaar 등장 Hasan의 BreachForums와 TeamPCP, Shaid-Hulud 웜을 활용한 대규모 공급망 공격 대회 주최"
     },
     {
       "source": "ASEC KR",
@@ -169,7 +179,17 @@
       "url": "https://asec.ahnlab.com/ko/93656/",
       "translateUrl": "",
       "published": "Mon, 11 May 2026 15:00:00 +0000",
-      "summary": "목적 및 범위 2026년 4월 한 달 동안 확인된 랜섬웨어 피해 시스템 수량과 DLS(Dedicated Leak Sites, 랜섬웨어 PR 사이트 또는 PR 페이지) 기반 랜섬웨어 관련 통계를 정리한 보고서이다. 국내·외 주요 랜섬웨어 이슈와 산업/지역별 피해 동향도 함께 제공한다. 주요 통계 랜섬웨어 샘플 수량과 피해 시스템 수량 통계는 안랩에서 부여한 진단명 기준으로 집계되었다. 랜섬웨어"
+      "summary": "목적 및 범위 2026년 4월 한 달 동안 확인된 랜섬웨어 피해 시스템 수량과 DLS(Dedicated Leak Sites, 랜섬웨어 PR 사이트 또는 PR 페이지) 기반 랜섬웨어 피해 업체 통계, 그리고 국내외 주요 랜섬웨어 이슈를 정리한 보고서이다. 주요 통계 랜섬웨어 샘플 수량과 피해 시스템 수량 통계는 안랩에서 부여한 진단명 기준으로 집계했다. 랜섬웨어 피해 업체 통계는 랜섬웨어 그룹"
+    },
+    {
+      "source": "ASEC KR",
+      "region": "domestic",
+      "slug": "18b0344ccac7",
+      "title": "2026년 4월 다크웹 위협 행위자 동향 보고서",
+      "url": "https://asec.ahnlab.com/ko/93632/",
+      "translateUrl": "",
+      "published": "Sun, 10 May 2026 15:00:00 +0000",
+      "summary": "알림 2026년 4월 다크웹 위협 행위자 동향 보고서는 딥웹 및 다크웹에서 활동하는 핵티비스트와 위협 행위자의 동향을 정리한 내용이다. 일부 정보는 출처 특성상 사실 여부를 완전히 확인하기 어려운 사례가 포함되었다. 주요 이슈 NoName05716은 한국 지역의 정부기관, 공공기관, 기업 등 수십 곳을 대상으로 반복적인 DDoS 공격을 주장했다. 단일 주장에서는 최대 22개 기관이 동시에 표"
     },
     {
       "source": "ASEC KR",
@@ -190,16 +210,6 @@
       "translateUrl": "",
       "published": "Sun, 10 May 2026 15:00:00 +0000",
       "summary": "알림 2026년 4월 다크웹 이슈 동향 보고서는 딥웹 및 다크웹에서 발생한 주요 이슈를 정리한 내용이다. 일부 정보는 출처 특성상 사실 여부를 완전히 확인하기 어려운 사례가 포함되었다. 주요 이슈 BreachForums는 신규 도메인을 공개하며 재가동을 이어갔고, 운영 업데이트 공지를 반복했다. 동시에 PwnForums 같은 사칭 포럼이 등장했고, BreachForums 측은 이에 대한 경고"
-    },
-    {
-      "source": "ASEC KR",
-      "region": "domestic",
-      "slug": "18b0344ccac7",
-      "title": "2026년 4월 다크웹 위협 행위자 동향 보고서",
-      "url": "https://asec.ahnlab.com/ko/93632/",
-      "translateUrl": "",
-      "published": "Sun, 10 May 2026 15:00:00 +0000",
-      "summary": "알림 2026년 4월 다크웹 위협 행위자 동향 보고서는 딥웹 및 다크웹에서 활동하는 핵티비스트와 위협 행위자의 동향을 정리한 내용이다. 일부 정보는 출처 특성상 사실 여부를 완전히 확인하기 어려운 사례가 포함되었다. 주요 이슈 NoName05716은 한국 지역의 정부기관, 공공기관, 기업 등 수십 곳을 대상으로 반복적인 DDoS 공격을 주장했다. 단일 주장에서는 최대 22개 기관이 동시에 표"
     },
     {
       "source": "KISA 보안공지",
@@ -290,16 +300,6 @@
       "translateUrl": "",
       "published": "Wed, 22 Apr 2026 01:46:57 +0000",
       "summary": "개요 안랩은 2026년 3월 한 달간 국내 타깃을 대상으로 한 APT 공격을 모니터링했다. 대부분의 공격은 특정 대상에 대한 정찰 후 발송된 Spear Phishing 이메일을 통해 시작되었다. APT 국내 공격 동향 대부분의 유포 매개체는 바로가기(.lnk) 파일이며 LNK 기반 공격 비중이 가장 높았다. Type A는 LNK로 파워쉘을 실행해 curl.exe 복사본으로 AutoIt 악성코"
-    },
-    {
-      "source": "ASEC KR",
-      "region": "domestic",
-      "slug": "48e0d574b7a2",
-      "title": "2026년 3월 피싱 이메일 동향 보고서",
-      "url": "https://asec.ahnlab.com/ko/93464/",
-      "translateUrl": "",
-      "published": "Tue, 21 Apr 2026 15:00:00 +0000",
-      "summary": "첨부파일 위협 유형 통계. 2026년 3월 첨부파일 기반 위협 중 트로이목마가 21%로 최다를 차지했다. 피싱(FakePage)은 15%로 집계되었으며 전월 대비 비중이 42%에서 15%로 대폭 감소했으나 유포 수량은 소폭 감소했다. 다운로더는 9%, 드로퍼는 7%로 확인되었다. 트로이목마는 이중 확장자 및 정상 파일명을 가장해 실행을 유도하며 지속적으로 변종이 유포된다. 피싱은 HTML 스"
     },
     {
       "source": "KISA 취약점정보",
@@ -400,6 +400,36 @@
       "translateUrl": "",
       "published": "2024-02-23",
       "summary": ""
+    },
+    {
+      "source": "The Hacker News",
+      "region": "global",
+      "slug": "b77db9a757e6",
+      "title": "New Fragnesia Linux Kernel LPE Grants Root Access via Page Cache Corruption",
+      "url": "https://thehackernews.com/2026/05/new-fragnesia-linux-kernel-lpe-grants.html",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Fnew-fragnesia-linux-kernel-lpe-grants.html",
+      "published": "Thu, 14 May 2026 12:36:15 +0530",
+      "summary": "Details have emerged about a new variant of the recent Dirty Frag Linux local privilege escalation (LPE) vulnerability that allows local attackers to gain root access, making it the third such bug to be identified in the"
+    },
+    {
+      "source": "The Hacker News",
+      "region": "global",
+      "slug": "771a355ef093",
+      "title": "18-Year-Old NGINX Rewrite Module Flaw Enables Unauthenticated RCE",
+      "url": "https://thehackernews.com/2026/05/18-year-old-nginx-rewrite-module-flaw.html",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2F18-year-old-nginx-rewrite-module-flaw.html",
+      "published": "Thu, 14 May 2026 11:30:09 +0530",
+      "summary": "Cybersecurity researchers have disclosed multiple security vulnerabilities impacting NGINX Plus and NGINX Open, including a critical flaw that remained undetected for 18 years. The vulnerability, discovered by depthfirst"
+    },
+    {
+      "source": "BleepingComputer",
+      "region": "global",
+      "slug": "21b9779dd19b",
+      "title": "New Fragnesia Linux flaw lets attackers gain root privileges",
+      "url": "https://www.bleepingcomputer.com/news/security/new-fragnesia-linux-flaw-lets-attackers-gain-root-privileges/",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Fnew-fragnesia-linux-flaw-lets-attackers-gain-root-privileges%2F",
+      "published": "Thu, 14 May 2026 03:34:19 -0400",
+      "summary": "Linux distros are rolling out patches for a new high-severity kernel privilege escalation vulnerability (known as Fragnasia and tracked as CVE-2026-46300) that allows attackers to run malicious code as root. [...]"
     },
     {
       "source": "The Hacker News",
@@ -562,16 +592,6 @@
       "summary": "Attackers can compromise systems in minutes while patching and response still take hours or days. Picus Security breaks down why autonomous validation is becoming critical for modern defense strategies. [...]"
     },
     {
-      "source": "BleepingComputer",
-      "region": "global",
-      "slug": "4b15ccb09735",
-      "title": "Microsoft says some users can't install Office on Windows 365 devices",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-install-office-on-windows-365-devices/",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fmicrosoft%2Fmicrosoft-says-some-users-cant-install-office-on-windows-365-devices%2F",
-      "published": "Wed, 13 May 2026 07:53:54 -0400",
-      "summary": "Microsoft says some customers are experiencing issues downloading and installing Office on their Windows 365 devices. [...]"
-    },
-    {
       "source": "The Hacker News",
       "region": "global",
       "slug": "5fb6512a0aac",
@@ -580,26 +600,6 @@
       "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Fnew-exim-bdat-vulnerability-exposes.html",
       "published": "Tue, 12 May 2026 22:14:00 +0530",
       "summary": "Exim has released security updates to address a severe security issue affecting certain configurations that could enable memory corruption and potential code execution. Exim is an open-source Mail Transfer Agent (MTA) de"
-    },
-    {
-      "source": "The Hacker News",
-      "region": "global",
-      "slug": "6bced755ddba",
-      "title": "RubyGems Suspends New Signups After Hundreds of Malicious Packages Are Uploaded",
-      "url": "https://thehackernews.com/2026/05/rubygems-suspends-new-signups-after.html",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Frubygems-suspends-new-signups-after.html",
-      "published": "Tue, 12 May 2026 20:17:00 +0530",
-      "summary": "RubyGems, the standard package manager for the Ruby programming language, has temporarily paused account sign ups following what has been described as a \"major malicious attack.\" \"We're dealing with a major malicious att"
-    },
-    {
-      "source": "The Hacker News",
-      "region": "global",
-      "slug": "4340e9c3f058",
-      "title": "New TrickMo Variant Uses TON C2 and SOCKS5 to Create Android Network Pivots",
-      "url": "https://thehackernews.com/2026/05/new-trickmo-variant-uses-ton-c2-and.html",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Fnew-trickmo-variant-uses-ton-c2-and.html",
-      "published": "Tue, 12 May 2026 18:20:00 +0530",
-      "summary": "Cybersecurity researchers have flagged a new version of the TrickMo Android banking trojan that uses The Open Network (TON) for command-and-control (C2). The new variant, observed by ThreatFabric between January and Febr"
     }
   ],
   "errors": []
