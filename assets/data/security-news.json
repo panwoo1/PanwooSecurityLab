@@ -1,6 +1,36 @@
 {
-  "generated_at": "2026-05-15T19:52:43.405984+00:00",
+  "generated_at": "2026-05-16T03:58:15.265096+00:00",
   "items": [
+    {
+      "source": "보안뉴스",
+      "region": "domestic",
+      "slug": "d3d04a785b8b",
+      "title": "[미토스 충격] 미토스 이용해 ‘철옹성’ 애플 맥OS 보안 뚫었다",
+      "url": "http://www.boannews.com/media/view.asp?idx=143670&kind=&sub_kind=",
+      "translateUrl": "",
+      "published": "Sat, 16 May 2026 10:28:00 +0900",
+      "summary": "미 보안 기업, 미토스 테스트 중 맥 보안 우회 기법 발견5일 만에 메모리 접근 권한 상승 공격 코드 작성[보안뉴스 한세희 기자] 클로드 AI 모델 ‘미토스’를 활용해 최신 보안 기술이 적용된 애플 맥OS를 우회 공격하는 코드를 개발한 사례가 나왔다. 미국 보안 기업 칼리프(Calif)는 미토스 초기 모델을 테스트하는 과정에서 발견한 기법을 활용, 맥 컴퓨"
+    },
+    {
+      "source": "보안뉴스",
+      "region": "domestic",
+      "slug": "d6d17b7b0eac",
+      "title": "“AI 맹신 말고 조별과제 조장 맡아라”... 아주대 달군 보안 선배들의 ‘진짜’ 조언",
+      "url": "http://www.boannews.com/media/view.asp?idx=143625&kind=&sub_kind=",
+      "translateUrl": "",
+      "published": "Sat, 16 May 2026 09:25:00 +0900",
+      "summary": "‘SDU COSS x OWASP 사이버 직무 멘토링’곽진 아주대 교수, 네이버·크리밋·화이트햇스쿨 등 실무자 5인 패널 토크[보안뉴스 조재호 기자] 13일 저녁 6시 30분, 모두가 하교를 서두르는 늦은 시간임에도 아주대학교 성호관 135호는 현업 진출을 꿈꾸는 예비 보안인들로 발 디딜 틈 없이 붐볐다. 일방적 발표 중심의 기술 세미나가 아닌, 실무자와 학"
+    },
+    {
+      "source": "보안뉴스",
+      "region": "domestic",
+      "slug": "66905f1ca7d4",
+      "title": "18년 숨어있던 NGINX 치명적 결함 발견 “인증 없이 서버 장악 가능”",
+      "url": "http://www.boannews.com/media/view.asp?idx=143669&kind=&sub_kind=",
+      "translateUrl": "",
+      "published": "Sat, 16 May 2026 09:24:00 +0900",
+      "summary": "인증 없이 원격 코드 실행(RCE)과 서버 권한 탈취 가능성 제기F5 “최신 버전 즉시 업데이트 필요” 추가 취약점 3종도 함께 패치[보안뉴스 김형근 기자] 전 세계 웹 서버 시장에서 널리 사용되는 엔진엑스 플러스(NGINX Plus) 및 엔진엑스 오픈소스(NGINX Open Source)에서 18년 간 발견되지 않았던 심각한 보안 취약점이 공개됐다.‘엔진"
+    },
     {
       "source": "보안뉴스",
       "region": "domestic",
@@ -70,36 +100,6 @@
       "translateUrl": "",
       "published": "Fri, 15 May 2026 14:02:00 +0900",
       "summary": "모바일 뱅킹은 전용 보안 키패드를 사용하세요보안 사고의 90%는 해킹이 아니라 ‘실수’에서 시작된다. 그래서 우리는 기술보다 습관을 배워야 한다. 속담으로 배우는 100가지 보안 습관에서는 △스마트폰 보안 △계정·비밀번호 △PC·인터넷 △생활 보안 △금융·개인정보 등 100가지 보안 습관을 속담과 연관시켜 소개한다. 보안은 어렵지 않다. 지키느냐, 안 지키"
-    },
-    {
-      "source": "보안뉴스",
-      "region": "domestic",
-      "slug": "6f4662fefe5b",
-      "title": "연간 해킹 사고 61% 급증... ‘악성코드’가 1위",
-      "url": "http://www.boannews.com/media/view.asp?idx=143661&kind=&sub_kind=",
-      "translateUrl": "",
-      "published": "Fri, 15 May 2026 13:59:00 +0900",
-      "summary": "2025년 유출 신고 접수 46% 증가한 447건과징금 부과액 175% 증가한 1677억원[보안뉴스 강현주 기자] 2025년 신고된 해킹 사고 건 수는 전년대비 61% 급증한 것으로 나타났다. 그 중 랜섬웨어, 웹셸 등 악성코드를 통한 해킹이 35%로 가장 큰 비중을 차지한다. 개인정보보호위원회(위원장 송경희)와 한국인터넷진흥원(원장 이상중)은 2025년"
-    },
-    {
-      "source": "보안뉴스",
-      "region": "domestic",
-      "slug": "c2ae08d232bb",
-      "title": "시큐아이, 고성능 차세대 방화벽 BLUEMAX NGF PRO 출시",
-      "url": "http://www.boannews.com/media/view.asp?idx=143659&kind=&sub_kind=",
-      "translateUrl": "",
-      "published": "Fri, 15 May 2026 13:08:00 +0900",
-      "summary": "글로벌 최고 수준의 고성능·지능형·ZTNA 방화벽 선보여통신·금융·IDC 중심 하이엔드 시장 공략 본격화[보안뉴스 원병철 기자] 시큐아이(정삼용 대표)가 AI 기반 고성능 차세대 방화벽 BLUEMAX NGF PRO를 출시했다고 15일 밝혔다. 최근 AI와 클라우드 활용도가 높아지며 기업 내부 트래픽이 폭발적으로 늘고 있다. 여기에 지능화된 해킹 공격이 지속"
-    },
-    {
-      "source": "보안뉴스",
-      "region": "domestic",
-      "slug": "6ee974faf81a",
-      "title": "세이지, 인천공항 AI 안전 관제 공모전 대상 수상",
-      "url": "http://www.boannews.com/media/view.asp?idx=143650&kind=&sub_kind=",
-      "translateUrl": "",
-      "published": "Fri, 15 May 2026 11:37:00 +0900",
-      "summary": "인천국제공항공사 주관 ‘AI-PORT 아이디어 공모전’ AI 스타트업 부문 대상Edge NPU 기반 침입·헬멧 미착용·쓰러짐 감지 기술 제안대상 수상으로 인천공항 내 기술실증(PoC) 추진[보안뉴스 강초희 기자] 세이지(공동대표 박종우·홍영석)가 인천국제공항공사 주관 ‘인천공항 AI-PORT 아이디어 공모전’ AI 스타트업 부문에서 대상을 수상했다. 이 회"
     },
     {
       "source": "KISA 보안공지",
@@ -184,16 +184,6 @@
     {
       "source": "ASEC KR",
       "region": "domestic",
-      "slug": "18b0344ccac7",
-      "title": "2026년 4월 다크웹 위협 행위자 동향 보고서",
-      "url": "https://asec.ahnlab.com/ko/93632/",
-      "translateUrl": "",
-      "published": "Sun, 10 May 2026 15:00:00 +0000",
-      "summary": "알림 2026년 4월 다크웹 위협 행위자 동향 보고서는 딥웹 및 다크웹에서 활동하는 핵티비스트와 위협 행위자의 동향을 정리한 내용이다. 일부 정보는 출처 특성상 사실 여부를 완전히 확인하기 어려운 사례가 포함되었다. 주요 이슈 NoName05716은 한국 지역의 정부기관, 공공기관, 기업 등 수십 곳을 대상으로 반복적인 DDoS 공격을 주장했다. 단일 주장에서는 최대 22개 기관이 동시에 표"
-    },
-    {
-      "source": "ASEC KR",
-      "region": "domestic",
       "slug": "13694c21e894",
       "title": "2026년 4월 다크웹 침해사고 동향 보고서",
       "url": "https://asec.ahnlab.com/ko/93627/",
@@ -210,6 +200,16 @@
       "translateUrl": "",
       "published": "Sun, 10 May 2026 15:00:00 +0000",
       "summary": "알림 2026년 4월 다크웹 이슈 동향 보고서는 딥웹 및 다크웹에서 발생한 주요 이슈를 정리한 내용이다. 일부 정보는 출처 특성상 사실 여부를 완전히 확인하기 어려운 사례가 포함되었다. 주요 이슈 BreachForums는 신규 도메인을 공개하며 재가동을 이어갔고, 운영 업데이트 공지를 반복했다. 동시에 PwnForums 같은 사칭 포럼이 등장했고, BreachForums 측은 이에 대한 경고"
+    },
+    {
+      "source": "ASEC KR",
+      "region": "domestic",
+      "slug": "18b0344ccac7",
+      "title": "2026년 4월 다크웹 위협 행위자 동향 보고서",
+      "url": "https://asec.ahnlab.com/ko/93632/",
+      "translateUrl": "",
+      "published": "Sun, 10 May 2026 15:00:00 +0000",
+      "summary": "알림 2026년 4월 다크웹 위협 행위자 동향 보고서는 딥웹 및 다크웹에서 활동하는 핵티비스트와 위협 행위자의 동향을 정리한 내용이다. 일부 정보는 출처 특성상 사실 여부를 완전히 확인하기 어려운 사례가 포함되었다. 주요 이슈 NoName05716은 한국 지역의 정부기관, 공공기관, 기업 등 수십 곳을 대상으로 반복적인 DDoS 공격을 주장했다. 단일 주장에서는 최대 22개 기관이 동시에 표"
     },
     {
       "source": "KISA 보안공지",
