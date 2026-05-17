@@ -4,9 +4,12 @@
   "version": "0.0.1",
   "type": "module",
   "scripts": {
-    "dev": "wrangler dev",
-    "build": "WRANGLER_LOG_PATH=/tmp/wrangler.log wrangler deploy src/index.ts --dry-run --name panwoo-security-lab --compatibility-date 2026-05-09",
-    "deploy": "wrangler deploy src/index.ts --name panwoo-security-lab --compatibility-date 2026-05-09"
+    "predev": "npm run build --workspace web",
+    "prebuild": "node ../../scripts/generate-web-content.mjs",
+    "predeploy": "node ../../scripts/generate-web-content.mjs",
+    "dev": "WRANGLER_LOG_PATH=/tmp/wrangler-dev.log wrangler dev --config ../../wrangler.toml",
+    "build": "WRANGLER_LOG_PATH=/tmp/wrangler.log wrangler deploy --config ../../wrangler.toml --dry-run",
+    "deploy": "WRANGLER_LOG_PATH=/tmp/wrangler.log wrangler deploy --config ../../wrangler.toml"
   },
   "devDependencies": {
     "typescript": "^5.6.3",

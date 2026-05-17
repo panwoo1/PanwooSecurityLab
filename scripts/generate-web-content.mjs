@@ -7,6 +7,7 @@ const root = path.resolve(scriptDir, '..')
 const newsPath = path.join(root, 'assets', 'data', 'security-news.json')
 const notesDir = path.join(root, 'content', 'notes')
 const outputPath = path.join(root, 'apps', 'web', 'src', 'generated-content.ts')
+const workerOutputPath = path.join(root, 'apps', 'worker', 'src', 'generated-content.ts')
 
 function parseFrontmatter(raw) {
   if (!raw.startsWith('---\n')) return [{}, raw]
@@ -96,10 +97,17 @@ function safeUrl(value) {
 function renderInline(raw) {
   let text = escapeHtml(raw)
   const code = []
+  const escaped = []
 
   text = text.replace(/`([^`]+)`/g, (_, value) => {
     const token = `@@CODE${code.length}@@`
     code.push(`<code>${value}</code>`)
+    return token
+  })
+
+  text = text.replace(/\\([\\`*_{}[\]()#+\-.!|])/g, (_, value) => {
+    const token = `@@ESCAPED${escaped.length}@@`
+    escaped.push(value)
     return token
   })
 
@@ -115,11 +123,21 @@ function renderInline(raw) {
     return `<a href="${escapeAttribute(href)}" target="_blank" rel="noreferrer">${label}</a>`
   })
 
+  text = text.replace(/&lt;(https?:\/\/[^<>\s]+)&gt;/g, (_, url) => {
+    const href = safeUrl(url)
+    if (!href) return url
+    return `<a href="${escapeAttribute(href)}" target="_blank" rel="noreferrer">${href}</a>`
+  })
+
   text = text
-    .replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>')
-    .replace(/__([^_]+)__/g, '<strong>$1</strong>')
-    .replace(/\*([^*]+)\*/g, '<em>$1</em>')
-    .replace(/_([^_]+)_/g, '<em>$1</em>')
+    .replace(/\*\*([^*\s](?:[^*]*[^*\s])?)\*\*/g, '<strong>$1</strong>')
+    .replace(/__([^_\s](?:[^_]*[^_\s])?)__/g, '<strong>$1</strong>')
+    .replace(/\*([^*\s](?:[^*]*[^*\s])?)\*/g, '<em>$1</em>')
+    .replace(/_([^_\s](?:[^_]*[^_\s])?)_/g, '<em>$1</em>')
+
+  escaped.forEach((value, index) => {
+    text = text.replace(`@@ESCAPED${index}@@`, value)
+  })
 
   code.forEach((value, index) => {
     text = text.replace(`@@CODE${index}@@`, value)
@@ -140,11 +158,89 @@ function flushList(items, output) {
   items.length = 0
 }
 
+function flushOrderedList(items, output) {
+  if (!items.length) return
+  output.push(`<ol>${items.map((item) => `<li>${renderInline(item)}</li>`).join('')}</ol>`)
+  items.length = 0
+}
+
+function flushBlocks(paragraph, list, orderedList, output) {
+  flushParagraph(paragraph, output)
+  flushList(list, output)
+  flushOrderedList(orderedList, output)
+}
+
 function cleanMarkdown(content) {
   return content
     .replaceAll('{% raw %}', '')
     .replaceAll('{% endraw %}', '')
+    .replace(/<!--[\s\S]*?-->/g, '')
     .replace(/\{:\s*[^}]+\}/g, '')
+}
+
+function splitTableRow(line) {
+  const trimmed = line.trim().replace(/^\|/, '').replace(/\|$/, '')
+  const cells = []
+  let current = ''
+  let inCode = false
+
+  for (let index = 0; index < trimmed.length; index += 1) {
+    const char = trimmed[index]
+    const previous = trimmed[index - 1]
+
+    if (char === '`' && previous !== '\\') {
+      inCode = !inCode
+    }
+
+    if (char === '|' && previous !== '\\' && !inCode) {
+      cells.push(current.trim())
+      current = ''
+      continue
+    }
+
+    current += char
+  }
+
+  cells.push(current.trim())
+
+  return cells
+}
+
+function isTableDivider(line) {
+  return /^\s*\|?\s*:?-{3,}:?\s*(\|\s*:?-{3,}:?\s*)+\|?\s*$/.test(line)
+}
+
+function renderTable(lines) {
+  const [header, , ...body] = lines
+  const headers = splitTableRow(header)
+  const rows = body.map(splitTableRow)
+
+  return [
+    '<table>',
+    `<thead><tr>${headers.map((cell) => `<th>${renderInline(cell)}</th>`).join('')}</tr></thead>`,
+    `<tbody>${rows
+      .map((row) => `<tr>${row.map((cell) => `<td>${renderInline(cell)}</td>`).join('')}</tr>`)
+      .join('')}</tbody>`,
+    '</table>'
+  ].join('')
+}
+
+function renderSafeImageTag(line) {
+  const src = line.match(/\ssrc=(["'])(.*?)\1/i)?.[2]
+  if (!src) return ''
+
+  const href = safeUrl(src)
+  if (!href) return ''
+
+  const alt = line.match(/\salt=(["'])(.*?)\1/i)?.[2] ?? ''
+  const width = line.match(/\swidth=(["'])(.*?)\1/i)?.[2] ?? ''
+  const height = line.match(/\sheight=(["'])(.*?)\1/i)?.[2] ?? ''
+  const dimensions = [
+    width ? ` width="${escapeAttribute(width)}"` : '',
+    height ? ` height="${escapeAttribute(height)}"` : ''
+  ].join('')
+
+  return `<img src="${escapeAttribute(href)}" alt="${escapeAttribute(alt)}"${dimensions} loading="lazy" />`
 }
 
 function renderMarkdown(content) {
@@ -152,12 +248,14 @@ function renderMarkdown(content) {
   const output = []
   const paragraph = []
   const list = []
+  const orderedList = []
   let inCode = false
   let codeLanguage = ''
   let codeLines = []
 
-  for (const line of lines) {
-    const fence = line.match(/^```([A-Za-z0-9_-]*)\s*$/)
+  for (let index = 0; index < lines.length; index += 1) {
+    const line = lines[index]
+    const fence = line.match(/^\s*```([^`]*)\s*$/)
     if (fence) {
       if (inCode) {
         output.push(
@@ -167,10 +265,9 @@ function renderMarkdown(content) {
         codeLanguage = ''
         codeLines = []
       } else {
-        flushParagraph(paragraph, output)
-        flushList(list, output)
+        flushBlocks(paragraph, list, orderedList, output)
         inCode = true
-        codeLanguage = fence[1] || ''
+        codeLanguage = (fence[1] || '').trim().split(/\s+/)[0] ?? ''
       }
       continue
     }
@@ -181,16 +278,39 @@ function renderMarkdown(content) {
     }
 
     if (!line.trim()) {
-      flushParagraph(paragraph, output)
-      flushList(list, output)
+      flushBlocks(paragraph, list, orderedList, output)
       continue
     }
 
-    const heading = line.match(/^(#{1,4})\s+(.+)$/)
+    if (line.includes('|') && index + 1 < lines.length && isTableDivider(lines[index + 1])) {
+      flushBlocks(paragraph, list, orderedList, output)
+      const tableLines = [line, lines[index + 1]]
+      index += 2
+
+      while (index < lines.length && lines[index].includes('|') && lines[index].trim()) {
+        tableLines.push(lines[index])
+        index += 1
+      }
+      index -= 1
+
+      output.push(renderTable(tableLines))
+      continue
+    }
+
+    const rawImage = line.trim().match(/^<img\s+[^>]*>$/i)
+    if (rawImage) {
+      const image = renderSafeImageTag(line.trim())
+      if (image) {
+        flushBlocks(paragraph, list, orderedList, output)
+        output.push(image)
+        continue
+      }
+    }
+
+    const heading = line.match(/^(#{1,6})\s+(.+)$/)
     if (heading) {
-      flushParagraph(paragraph, output)
-      flushList(list, output)
-      const level = heading[1].length + 1
+      flushBlocks(paragraph, list, orderedList, output)
+      const level = Math.min(heading[1].length + 1, 6)
       output.push(`<h${level}>${renderInline(heading[2])}</h${level}>`)
       continue
     }
@@ -198,26 +318,34 @@ function renderMarkdown(content) {
     const listItem = line.match(/^\s*[-*]\s+(.+)$/)
     if (listItem) {
       flushParagraph(paragraph, output)
+      flushOrderedList(orderedList, output)
       list.push(listItem[1])
+      continue
+    }
+
+    const orderedListItem = line.match(/^\s*\d+\.\s+(.+)$/)
+    if (orderedListItem) {
+      flushParagraph(paragraph, output)
+      flushList(list, output)
+      orderedList.push(orderedListItem[1])
       continue
     }
 
     const quote = line.match(/^>\s*(.+)$/)
     if (quote) {
-      flushParagraph(paragraph, output)
-      flushList(list, output)
+      flushBlocks(paragraph, list, orderedList, output)
       output.push(`<blockquote>${renderInline(quote[1])}</blockquote>`)
       continue
     }
 
     if (/^---+$/.test(line.trim())) {
-      flushParagraph(paragraph, output)
-      flushList(list, output)
+      flushBlocks(paragraph, list, orderedList, output)
       output.push('<hr />')
       continue
     }
 
     flushList(list, output)
+    flushOrderedList(orderedList, output)
     paragraph.push(line.trim())
   }
 
@@ -228,6 +356,7 @@ function renderMarkdown(content) {
   }
   flushParagraph(paragraph, output)
   flushList(list, output)
+  flushOrderedList(orderedList, output)
 
   return output.join('\n')
 }
@@ -283,4 +412,6 @@ export const blogPosts: BlogPost[] = ${JSON.stringify(notes, null, 2)}
 `
 
 fs.writeFileSync(outputPath, generated)
+fs.writeFileSync(workerOutputPath, generated)
 console.log(`Generated ${path.relative(root, outputPath)} with ${newsPayload.items.length} news items and ${notes.length} posts.`)
+console.log(`Generated ${path.relative(root, workerOutputPath)} with ${newsPayload.items.length} news items and ${notes.length} posts.`)

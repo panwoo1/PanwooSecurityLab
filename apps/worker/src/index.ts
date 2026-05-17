@@ -1,3 +1,5 @@
+import { blogPosts, generatedAt, newsItems, type BlogPost } from './generated-content'
+
 export interface Env {
   SUPABASE_URL?: string
   SUPABASE_ANON_KEY?: string
@@ -5,6 +7,30 @@ export interface Env {
 }
 
 const DEFAULT_MESSAGE = 'Hello from Cloudflare Worker'
+const CONTENT_CACHE = 'public, max-age=300, s-maxage=1800, stale-while-revalidate=86400'
+const STATIC_CACHE = 'public, max-age=300'
+const NO_STORE = 'no-store'
+
+const SECURITY_HEADERS = {
+  'Content-Security-Policy':
+    "default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' https: data:; connect-src 'self'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+  'Referrer-Policy': 'strict-origin-when-cross-origin',
+  'X-Content-Type-Options': 'nosniff',
+  'X-Frame-Options': 'DENY'
+}
+
+function cacheForAsset(pathname: string, response: Response): string {
+  if (pathname.startsWith('/assets/')) {
+    return 'public, max-age=31536000, immutable'
+  }
+
+  const contentType = response.headers.get('Content-Type') ?? ''
+  if (contentType.includes('text/html')) {
+    return 'no-cache'
+  }
+
+  return STATIC_CACHE
+}
 
 function isSupabaseProjectUrl(url: URL): boolean {
   return url.protocol === 'https:' && url.hostname.endsWith('.supabase.co')
@@ -25,6 +51,43 @@ function getSupabaseStatus(env: Env) {
     urlConfigured: Boolean(env.SUPABASE_URL),
     anonKeyConfigured: Boolean(env.SUPABASE_ANON_KEY),
     validUrl
+  }
+}
+
+async function checkSupabaseRead(env: Env) {
+  const started = Date.now()
+
+  if (!env.SUPABASE_URL || !env.SUPABASE_ANON_KEY) {
+    return { status: 'not-configured', latencyMs: 0 }
+  }
+
+  try {
+    const baseUrl = new URL(env.SUPABASE_URL)
+    if (!isSupabaseProjectUrl(baseUrl)) {
+      return { status: 'invalid-url', latencyMs: 0 }
+    }
+
+    const endpoint = new URL('/rest/v1/app_messages', baseUrl)
+    endpoint.searchParams.set('select', 'value')
+    endpoint.searchParams.set('key', 'eq.home')
+    endpoint.searchParams.set('limit', '1')
+
+    const response = await fetch(endpoint, {
+      signal: AbortSignal.timeout(3000),
+      headers: {
+        apikey: env.SUPABASE_ANON_KEY,
+        Authorization: `Bearer ${env.SUPABASE_ANON_KEY}`,
+        Accept: 'application/json'
+      }
+    })
+
+    return {
+      status: response.ok ? 'ok' : 'error',
+      httpStatus: response.status,
+      latencyMs: Date.now() - started
+    }
+  } catch {
+    return { status: 'error', latencyMs: Date.now() - started }
   }
 }
 
@@ -64,30 +127,103 @@ async function getMessageFromSupabase(env: Env): Promise<string> {
   }
 }
 
+function withSecurityHeaders(response: Response, cacheControl?: string): Response {
+  const secured = new Response(response.body, response)
+
+  Object.entries(SECURITY_HEADERS).forEach(([name, value]) => {
+    secured.headers.set(name, value)
+  })
+
+  if (cacheControl) {
+    secured.headers.set('Cache-Control', cacheControl)
+  }
+
+  return secured
+}
+
+function json(data: unknown, cacheControl: string, init?: ResponseInit): Response {
+  return withSecurityHeaders(Response.json(data, init), cacheControl)
+}
+
+function postSummary(post: BlogPost) {
+  return {
+    slug: post.slug,
+    title: post.title,
+    date: post.date,
+    categories: post.categories,
+    tags: post.tags,
+    excerpt: post.excerpt
+  }
+}
+
 export default {
   async fetch(request: Request, env: Env): Promise<Response> {
     const { pathname } = new URL(request.url)
 
     if (pathname === '/api/health') {
       const supabase = getSupabaseStatus(env)
+      const read = await checkSupabaseRead(env)
 
-      return Response.json({
+      return json({
         ok: true,
         service: 'worker',
+        version: generatedAt,
+        generatedAt,
         database: supabase.urlConfigured && supabase.anonKeyConfigured ? 'supabase' : 'not-configured',
-        supabase
-      })
+        content: {
+          news: newsItems.length,
+          posts: blogPosts.length
+        },
+        supabase: {
+          ...supabase,
+          read
+        }
+      }, NO_STORE)
     }
 
     if (pathname === '/api/message') {
       const message = await getMessageFromSupabase(env)
-      return Response.json({ message })
+      return json({ message }, NO_STORE)
+    }
+
+    if (pathname === '/api/news') {
+      return json({ generatedAt, items: newsItems }, CONTENT_CACHE)
+    }
+
+    if (pathname === '/api/posts') {
+      return json({ generatedAt, items: blogPosts.map(postSummary) }, CONTENT_CACHE)
+    }
+
+    if (pathname.startsWith('/api/posts/')) {
+      let slug = ''
+      try {
+        slug = decodeURIComponent(pathname.slice('/api/posts/'.length))
+      } catch {
+        return json({ error: 'Invalid post slug' }, NO_STORE, { status: 400 })
+      }
+
+      if (!blogPosts.some((item) => item.slug === slug)) {
+        return json({ error: 'Post not found' }, NO_STORE, { status: 404 })
+      }
+
+      const post = blogPosts.find((item) => item.slug === slug)
+
+      if (!post) {
+        return json({ error: 'Post not found' }, NO_STORE, { status: 404 })
+      }
+
+      return json({ generatedAt, post }, CONTENT_CACHE)
+    }
+
+    if (pathname.startsWith('/api/')) {
+      return json({ error: 'API route not found' }, NO_STORE, { status: 404 })
     }
 
     if (env.ASSETS) {
-      return env.ASSETS.fetch(request)
+      const response = await env.ASSETS.fetch(request)
+      return withSecurityHeaders(response, cacheForAsset(pathname, response))
     }
 
-    return new Response('Not Found', { status: 404 })
+    return withSecurityHeaders(new Response('Not Found', { status: 404 }), NO_STORE)
   }
 }

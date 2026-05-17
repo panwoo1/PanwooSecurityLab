@@ -8,6 +8,6 @@
   "scripts": {
     "build": "npm run build --workspace web && npm run build --workspace worker",
     "dev:web": "npm run dev --workspace web",
-    "dev:worker": "npm run dev --workspace worker"
+    "dev:worker": "npm run build --workspace web && WRANGLER_LOG_PATH=/tmp/wrangler-dev.log wrangler dev --config wrangler.toml"
   }
 }
