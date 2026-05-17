@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-05-17T04:18:50.475008+00:00",
+  "generated_at": "2026-05-17T08:31:53.096877+00:00",
   "items": [
+    {
+      "source": "보안뉴스",
+      "region": "domestic",
+      "slug": "82b2a6e6e6fa",
+      "title": "[미토스 충격] 최신 AI 모델 사이버 공격 능력, 4.7개월마다 2배 빨라진다",
+      "url": "http://www.boannews.com/media/view.asp?idx=143673&kind=&sub_kind=",
+      "translateUrl": "",
+      "published": "Sun, 17 May 2026 16:52:00 +0900",
+      "summary": "영국 AISI, 최신 AI 모델 사이버 공격 능력 추산미토스, GPT-5.5 성능은 더 탁월... AI 기반 사이버 공격 대비해야[보안뉴스 한세희 기자] 첨단 AI 모델이 실행 가능한 사이버 공격의 길이가 4.7개월마다 두배씩 증가하고 있다고 영국 인공지능보안연구소(AISI)가 밝혔다. 이는 2025년 11월 추정한 8개월에 비해 두배 가까이 빨라진 속도이"
+    },
     {
       "source": "보안뉴스",
       "region": "domestic",
@@ -90,16 +100,6 @@
       "translateUrl": "",
       "published": "Fri, 15 May 2026 17:00:00 +0900",
       "summary": "유지보수 매출 전년 동기 대비 2배 이상 성장... 반복매출 기반 확대해외 전시회·PoC·AI 서비스 실증 통해 기업가치 회복 전략 실행[보안뉴스 강초희 기자] 이노뎁(대표 이성진)은 2026년 1분기 실적을 발표하고, 유지보수 매출 성장과 비용 효율화, 해외·민수시장 확대를 중심으로 기업가치 회복을 위한 실행을 지속하고 있다고 밝혔다.2026년 1분기 연"
-    },
-    {
-      "source": "보안뉴스",
-      "region": "domestic",
-      "slug": "d65647426709",
-      "title": "한국첨단안전산업협회, 정책·기술 총망라한 ‘2027 첨단안전산업백서’ 편찬 착수",
-      "url": "http://www.boannews.com/media/view.asp?idx=143666&kind=&sub_kind=",
-      "translateUrl": "",
-      "published": "Fri, 15 May 2026 16:46:00 +0900",
-      "summary": "2022년 이후 두 번째 백서 제작... 산·학·연·관 전문가 참여 확대정책·산업·기술·회원사 성과 종합 반영한 산업 전략형 백서 추진[보안뉴스 강초희 기자] 한국첨단안전산업협회(회장 이성진)는 14일 서울 가산동 협회 회의실에서 ‘2027 첨단안전산업백서’ 제작 추진을 위한 ‘백서편찬위원회 킥오프 자문회의’를 개최하고 백서 추진 방향과 편찬·자문 운영 계"
     },
     {
       "source": "KISA 보안공지",
@@ -404,6 +404,16 @@
     {
       "source": "The Hacker News",
       "region": "global",
+      "slug": "570d34eb2ef0",
+      "title": "Grafana GitHub Token Breach Led to Codebase Download and Extortion Attempt",
+      "url": "https://thehackernews.com/2026/05/grafana-github-token-breach-led-to.html",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Fgrafana-github-token-breach-led-to.html",
+      "published": "Sun, 17 May 2026 12:43:33 +0530",
+      "summary": "Grafana has disclosed that an \"unauthorized party\" obtained a token that granted them the ability to access the company's GitHub environment and download its codebase. \"Our investigation has determined that no customer d"
+    },
+    {
+      "source": "The Hacker News",
+      "region": "global",
       "slug": "f7c2e8f0e1e7",
       "title": "Funnel Builder Flaw Under Active Exploitation Enables WooCommerce Checkout Skimming",
       "url": "https://thehackernews.com/2026/05/funnel-builder-flaw-under-active.html",
@@ -590,16 +600,6 @@
       "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Fcisco-catalyst-sd-wan-controller-auth.html",
       "published": "Thu, 14 May 2026 23:15:20 +0530",
       "summary": "Cisco has released updates to address a maximum-severity authentication bypass flaw in Catalyst SD-WAN Controller that it said has been exploited in limited attacks. The vulnerability, tracked as CVE-2026-20182, carries "
-    },
-    {
-      "source": "The Hacker News",
-      "region": "global",
-      "slug": "fc0b2667dc50",
-      "title": "Stealer Backdoor Found in 3 Node-IPC Versions Targeting Developer Secrets",
-      "url": "https://thehackernews.com/2026/05/stealer-backdoor-found-in-3-node-ipc.html",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Fstealer-backdoor-found-in-3-node-ipc.html",
-      "published": "Thu, 14 May 2026 22:52:43 +0530",
-      "summary": "Cybersecurity researchers are sounding the alarm about what has been described as \"malicious activity\" in newly published versions of node-ipc. According to Socket and StepSecurity, three different versions of the npm pa"
     }
   ],
   "errors": []
