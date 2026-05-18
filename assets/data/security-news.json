@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-18T15:55:36.973094+00:00",
+  "generated_at": "2026-05-18T19:59:20.701251+00:00",
   "items": [
     {
       "source": "보안뉴스",
@@ -404,6 +404,16 @@
     {
       "source": "The Hacker News",
       "region": "global",
+      "slug": "470c626ab990",
+      "title": "INTERPOL Operation Ramz Disrupts MENA Cybercrime Networks with 201 Arrests",
+      "url": "https://thehackernews.com/2026/05/interpol-operation-ramz-disrupts-mena.html",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Finterpol-operation-ramz-disrupts-mena.html",
+      "published": "Mon, 18 May 2026 22:51:18 +0530",
+      "summary": "INTERPOL has coordinated a first-of-its-kind cybercrime crackdown across the Middle East and North Africa (MENA) that led to 201 arrests and the identification of an additional 382 suspects. The initiative involved the e"
+    },
+    {
+      "source": "The Hacker News",
+      "region": "global",
       "slug": "75510ce711fd",
       "title": "⚡ Weekly Recap: Exchange 0-Day, npm Worm, Fake AI Repo, Cisco Exploit and More",
       "url": "https://thehackernews.com/2026/05/weekly-recap-exchange-0-day-npm-worm.html",
@@ -442,6 +452,16 @@
       "summary": "Ivanti, Fortinet, n8n, SAP, and VMware have released security fixes for various vulnerabilities that could be exploited by bad actors to bypass authentication and execute arbitrary code. Topping the list is a critical fl"
     },
     {
+      "source": "BleepingComputer",
+      "region": "global",
+      "slug": "1e53e99d2a03",
+      "title": "5 Steps to Managing Shadow AI Tools Without Slowing Down Employees",
+      "url": "https://www.bleepingcomputer.com/news/security/5-steps-to-managing-shadow-ai-tools-without-slowing-down-employees/",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2F5-steps-to-managing-shadow-ai-tools-without-slowing-down-employees%2F",
+      "published": "Mon, 18 May 2026 14:45:35 -0400",
+      "summary": "Many employees already use shadow AI tools at work without security review. Adaptive Security breaks down how teams can build practical AI governance without adding friction for employees. [...]"
+    },
+    {
       "source": "The Hacker News",
       "region": "global",
       "slug": "bfdd74eb91e2",
@@ -460,6 +480,16 @@
       "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Ffour-malicious-npm-packages-deliver.html",
       "published": "Mon, 18 May 2026 14:27:26 +0530",
       "summary": "Cybersecurity researchers have discovered four new npm packages containing information-stealing malware, one of which is a clone of the Shai-Hulud worm open-sourced by TeamPCP. The list of identified packages is below - "
+    },
+    {
+      "source": "BleepingComputer",
+      "region": "global",
+      "slug": "782d47073880",
+      "title": "Leaked Shai-Hulud malware fuels new npm infostealer campaign",
+      "url": "https://www.bleepingcomputer.com/news/security/leaked-shai-hulud-malware-fuels-new-npm-infostealer-campaign/",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Fleaked-shai-hulud-malware-fuels-new-npm-infostealer-campaign%2F",
+      "published": "Mon, 18 May 2026 13:28:02 -0400",
+      "summary": "The Shai-Hulud malware leaked last week is now used in new attacks on the Node Package Manager (npm) index, as infected packages emerged over the weekend. [...]"
     },
     {
       "source": "The Hacker News",
@@ -562,16 +592,6 @@
       "summary": "The Tycoon2FA phishing kit now supports device-code phishing attacks and abuses Trustifi click-tracking URLs to hijack Microsoft 365 accounts. [...]"
     },
     {
-      "source": "The Hacker News",
-      "region": "global",
-      "slug": "f7c2e8f0e1e7",
-      "title": "Funnel Builder Flaw Under Active Exploitation Enables WooCommerce Checkout Skimming",
-      "url": "https://thehackernews.com/2026/05/funnel-builder-flaw-under-active.html",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Ffunnel-builder-flaw-under-active.html",
-      "published": "Sat, 16 May 2026 20:50:48 +0530",
-      "summary": "A critical security vulnerability impacting the Funnel Builder plugin for WordPress has come under active exploitation in the wild to inject malicious JavaScript code into WooCommerce checkout pages with the goal of stea"
-    },
-    {
       "source": "BleepingComputer",
       "region": "global",
       "slug": "fe12ff9d82f9",
@@ -580,26 +600,6 @@
       "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Fmicrosoft-rejects-critical-azure-vulnerability-report-no-cve-issued%2F",
       "published": "Sat, 16 May 2026 16:55:44 -0400",
       "summary": "A security researcher claims Microsoft quietly fixed an Azure Backup for AKS vulnerability after rejecting his report, and without issuing a CVE. Microsoft disputes the claim, telling BleepingComputer the behavior was ex"
-    },
-    {
-      "source": "BleepingComputer",
-      "region": "global",
-      "slug": "8ee6b2ddff07",
-      "title": "Russian hackers turn Kazuar backdoor into modular P2P botnet",
-      "url": "https://www.bleepingcomputer.com/news/security/russian-hackers-turn-kazuar-backdoor-into-modular-p2p-botnet/",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Frussian-hackers-turn-kazuar-backdoor-into-modular-p2p-botnet%2F",
-      "published": "Sat, 16 May 2026 10:15:37 -0400",
-      "summary": "The Russian hacker group Secret Blizzard has developed its long-running Kazuar backdoor into a modular peer-to-peer (P2P) botnet designed for long-term persistence, stealth, and data collection. [...]"
-    },
-    {
-      "source": "BleepingComputer",
-      "region": "global",
-      "slug": "107286687829",
-      "title": "Funnel Builder WordPress plugin bug exploited to steal credit cards",
-      "url": "https://www.bleepingcomputer.com/news/security/funnel-builder-wordpress-plugin-bug-exploited-to-steal-credit-cards/",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Ffunnel-builder-wordpress-plugin-bug-exploited-to-steal-credit-cards%2F",
-      "published": "Fri, 15 May 2026 15:30:33 -0400",
-      "summary": "A critical vulnerability in the Funnel Builder plugin for WordPress is being actively exploited to inject malicious JavaScript snippets into WooCommerce checkout pages. [...]"
     }
   ],
   "errors": []
