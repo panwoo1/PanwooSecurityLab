@@ -6,8 +6,8 @@ export function AgentsPage() {
     <>
       <SectionHeader
         eyebrow="AI agents"
-        title="Agent dashboard placeholder"
-        description="에이전트별 역할, 상태, 마지막 실행, 현재 작업을 표시할 수 있는 관제 영역입니다."
+        title="Agent dashboard"
+        description="로컬 OpenHarness와 Discord agent 상태를 Cloudflare Tunnel을 통해 실시간으로 확인합니다."
       />
       <AgentStatusPreview />
     </>

@@ -18,3 +18,21 @@ export type NavItem = {
   description: string
   status?: 'live' | 'coming-soon'
 }
+
+export type HarnessAgent = {
+  role?: string
+  display_name?: string
+  bot_user_id?: string
+  status?: string
+  model?: string
+}
+
+export type HarnessJob = {
+  job_id?: string
+  id?: string
+  state?: string
+  goal?: string
+  request?: string
+  created_at?: string
+  updated_at?: string
+}

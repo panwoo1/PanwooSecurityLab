@@ -3,6 +3,8 @@ import { blogPosts, generatedAt, newsItems, type BlogPost } from './generated-co
 export interface Env {
   SUPABASE_URL?: string
   SUPABASE_ANON_KEY?: string
+  DASHBOARD_API_BASE_URL?: string
+  DASHBOARD_API_TOKEN?: string
   ASSETS?: Fetcher
 }
 
@@ -145,6 +147,46 @@ function json(data: unknown, cacheControl: string, init?: ResponseInit): Respons
   return withSecurityHeaders(Response.json(data, init), cacheControl)
 }
 
+async function proxyDashboardApi(request: Request, env: Env, pathPrefix = '/api'): Promise<Response> {
+  if (!env.DASHBOARD_API_BASE_URL) {
+    return json({ error: 'DASHBOARD_API_BASE_URL is not configured' }, NO_STORE, { status: 500 })
+  }
+
+  if (!env.DASHBOARD_API_TOKEN) {
+    return json({ error: 'DASHBOARD_API_TOKEN is not configured' }, NO_STORE, { status: 500 })
+  }
+
+  let baseUrl: URL
+  try {
+    baseUrl = new URL(env.DASHBOARD_API_BASE_URL)
+  } catch {
+    return json({ error: 'DASHBOARD_API_BASE_URL is invalid' }, NO_STORE, { status: 500 })
+  }
+
+  if (baseUrl.protocol !== 'https:' || !baseUrl.hostname.endsWith('.trycloudflare.com')) {
+    return json({ error: 'DASHBOARD_API_BASE_URL must be a trycloudflare HTTPS URL' }, NO_STORE, { status: 500 })
+  }
+
+  const incomingUrl = new URL(request.url)
+  const targetPath = incomingUrl.pathname.slice(pathPrefix.length) || '/'
+  const targetUrl = new URL(`${targetPath}${incomingUrl.search}`, baseUrl)
+  const headers = new Headers(request.headers)
+
+  headers.set('Authorization', `Bearer ${env.DASHBOARD_API_TOKEN}`)
+  headers.set('Accept', 'application/json')
+  headers.delete('Cookie')
+  headers.delete('Host')
+
+  const response = await fetch(targetUrl, {
+    method: request.method,
+    headers,
+    body: request.method === 'GET' || request.method === 'HEAD' ? undefined : request.body,
+    redirect: 'manual'
+  })
+
+  return withSecurityHeaders(response, NO_STORE)
+}
+
 function postSummary(post: BlogPost) {
   return {
     slug: post.slug,
@@ -184,6 +226,20 @@ export default {
     if (pathname === '/api/message') {
       const message = await getMessageFromSupabase(env)
       return json({ message }, NO_STORE)
+    }
+
+    if (pathname === '/api/harness/health') {
+      return proxyDashboardApi(request, env, '/api/harness')
+    }
+
+    if (
+      pathname === '/api/agents' ||
+      pathname === '/api/jobs' ||
+      pathname.startsWith('/api/jobs/') ||
+      pathname === '/api/events' ||
+      pathname === '/api/control'
+    ) {
+      return proxyDashboardApi(request, env)
     }
 
     if (pathname === '/api/news') {
