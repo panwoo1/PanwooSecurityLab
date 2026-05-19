@@ -148,6 +148,8 @@ function json(data: unknown, cacheControl: string, init?: ResponseInit): Respons
 }
 
 async function proxyDashboardApi(request: Request, env: Env, pathPrefix = '/api'): Promise<Response> {
+  const incomingUrl = new URL(request.url)
+
   if (!env.DASHBOARD_API_BASE_URL) {
     return json({ error: 'DASHBOARD_API_BASE_URL is not configured' }, NO_STORE, { status: 500 })
   }
@@ -163,11 +165,14 @@ async function proxyDashboardApi(request: Request, env: Env, pathPrefix = '/api'
     return json({ error: 'DASHBOARD_API_BASE_URL is invalid' }, NO_STORE, { status: 500 })
   }
 
-  if (baseUrl.protocol !== 'https:' || !baseUrl.hostname.endsWith('.trycloudflare.com')) {
-    return json({ error: 'DASHBOARD_API_BASE_URL must be a trycloudflare HTTPS URL' }, NO_STORE, { status: 500 })
+  if (baseUrl.protocol !== 'https:') {
+    return json({ error: 'DASHBOARD_API_BASE_URL must be an HTTPS URL' }, NO_STORE, { status: 500 })
   }
 
-  const incomingUrl = new URL(request.url)
+  if (baseUrl.hostname === incomingUrl.hostname) {
+    return json({ error: 'DASHBOARD_API_BASE_URL cannot point to this Worker hostname' }, NO_STORE, { status: 500 })
+  }
+
   const targetPath = incomingUrl.pathname.slice(pathPrefix.length) || '/'
   const targetUrl = new URL(`${targetPath}${incomingUrl.search}`, baseUrl)
   const headers = new Headers(request.headers)
