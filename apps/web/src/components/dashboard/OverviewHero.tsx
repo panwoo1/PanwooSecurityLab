@@ -52,7 +52,7 @@ export function OverviewHero({
         <ComingSoonCard
           eyebrow="AI Agents"
           title="Agent orchestration dashboard"
-          description="에이전트별 작업 상태와 실행 로그를 추적합니다."
+          description="로컬 Cloudflare API를 통해 연결된 에이전트 메타데이터를 바로 확인합니다."
           meta="Master · Coder · QA · Security"
           onClick={() => onSectionChange('agents')}
         />

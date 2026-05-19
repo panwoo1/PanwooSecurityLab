@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Panwoo Security Lab agent metadata</title>
+  <desc id="desc">Agent metadata card for Panwoo Security Lab on Cloudflare Workers.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#020617"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#8b5cf6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)" rx="36"/>
+  <rect x="54" y="54" width="1092" height="522" rx="32" fill="#0f172a" stroke="#334155"/>
+  <circle cx="170" cy="170" r="54" fill="#111827" stroke="#475569"/>
+  <text x="170" y="188" text-anchor="middle" font-size="44">🛠️</text>
+  <circle cx="304" cy="170" r="54" fill="#111827" stroke="#475569"/>
+  <text x="304" y="188" text-anchor="middle" font-size="44">🧠</text>
+  <circle cx="438" cy="170" r="54" fill="#111827" stroke="#475569"/>
+  <text x="438" y="188" text-anchor="middle" font-size="44">🧪</text>
+  <circle cx="572" cy="170" r="54" fill="#111827" stroke="#475569"/>
+  <text x="572" y="188" text-anchor="middle" font-size="44">🛡️</text>
+  <text x="96" y="300" fill="#e2e8f0" font-size="64" font-family="Inter, Arial, sans-serif" font-weight="700">Panwoo Security Lab</text>
+  <text x="96" y="364" fill="#67e8f9" font-size="30" font-family="Inter, Arial, sans-serif">Live OpenHarness agent metadata on Cloudflare Workers</text>
+  <rect x="96" y="420" width="1008" height="84" rx="22" fill="#111827" stroke="#334155"/>
+  <rect x="118" y="442" width="250" height="40" rx="20" fill="url(#accent)" opacity="0.95"/>
+  <text x="243" y="469" text-anchor="middle" fill="#020617" font-size="20" font-family="Inter, Arial, sans-serif" font-weight="700">metadata preview</text>
+  <text x="398" y="469" fill="#cbd5e1" font-size="20" font-family="Inter, Arial, sans-serif">master · coder · qa · security</text>
+</svg>

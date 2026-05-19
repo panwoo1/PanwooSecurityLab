@@ -7,7 +7,7 @@ export function AgentsPage() {
       <SectionHeader
         eyebrow="AI agents"
         title="Agent dashboard"
-        description="로컬 OpenHarness와 Discord agent 상태를 Cloudflare Tunnel을 통해 실시간으로 확인합니다."
+        description="로컬 Cloudflare API와 OpenHarness 상태를 기준으로 에이전트 메타데이터를 실시간 확인합니다."
       />
       <AgentStatusPreview />
     </>
