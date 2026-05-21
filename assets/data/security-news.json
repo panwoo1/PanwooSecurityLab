@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T15:49:47.537730+00:00",
+  "generated_at": "2026-05-21T20:07:51.325640+00:00",
   "items": [
     {
       "source": "보안뉴스",
@@ -442,6 +442,16 @@
       "summary": "Consider a cached access key on a single Windows machine. It got there the way most cached credentials do - a user logged in, and the key stored itself automatically. Standard AWS behavior. No one misconfigured anything "
     },
     {
+      "source": "BleepingComputer",
+      "region": "global",
+      "slug": "5bdd0fd810d4",
+      "title": "Google accidentally exposed details of unfixed Chromium flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/google-accidentally-exposed-details-of-unfixed-chromium-flaw/",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Fgoogle-accidentally-exposed-details-of-unfixed-chromium-flaw%2F",
+      "published": "Thu, 21 May 2026 14:13:50 -0400",
+      "summary": "Google has accidentally leaked details about an unfixed issue in Chromium that keeps JavaScript running in the background even when the browser is closed, allowing remote code execution on the device. [...]"
+    },
+    {
       "source": "The Hacker News",
       "region": "global",
       "slug": "ab00d989810b",
@@ -450,6 +460,66 @@
       "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2F9-year-old-linux-kernel-flaw-enables.html",
       "published": "Thu, 21 May 2026 13:05:53 +0530",
       "summary": "Cybersecurity researchers have disclosed details of a vulnerability in the Linux kernel that remained undetected for nine years. The vulnerability, tracked as CVE-2026-46333 (CVSS score: 5.5), is a case of improper privi"
+    },
+    {
+      "source": "CISA",
+      "region": "global",
+      "slug": "533da531c4ca",
+      "title": "ABB Terra AC Wallbox",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-141-05",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.cisa.gov%2Fnews-events%2Fics-advisories%2Ficsa-26-141-05",
+      "published": "Thu, 21 May 26 12:00:00 +0000",
+      "summary": "View CSAF Summary ABB is aware of vulnerabilities in the product versions listed as affected in the advisory. An attacker who successfully exploited this vulnerability could cause the pollution of heap memory which poten"
+    },
+    {
+      "source": "CISA",
+      "region": "global",
+      "slug": "c60ac8937a26",
+      "title": "Hitachi Energy GMS600",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-141-01",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.cisa.gov%2Fnews-events%2Fics-advisories%2Ficsa-26-141-01",
+      "published": "Thu, 21 May 26 12:00:00 +0000",
+      "summary": "View CSAF Summary Hitachi Energy is aware of the vulnerability, CVE-2022-4304 in the OSS component OpenSSL, that affects the GMS600 versions that are listed below. An attacker successfully exploiting this vulnerability c"
+    },
+    {
+      "source": "CISA",
+      "region": "global",
+      "slug": "a31abad59ba5",
+      "title": "ABB B&R Automation Studio",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-141-03",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.cisa.gov%2Fnews-events%2Fics-advisories%2Ficsa-26-141-03",
+      "published": "Thu, 21 May 26 12:00:00 +0000",
+      "summary": "View CSAF Summary ABB became aware of vulnerability in the product versions listed as affected in the advisory. An update is available that replaces an outdated third-party component. Although no successful exploitation "
+    },
+    {
+      "source": "CISA",
+      "region": "global",
+      "slug": "90ad8794d398",
+      "title": "ABB B&R Automation Runtime",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-141-04",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.cisa.gov%2Fnews-events%2Fics-advisories%2Ficsa-26-141-04",
+      "published": "Thu, 21 May 26 12:00:00 +0000",
+      "summary": "View CSAF Summary An update is available that resolves a vulnerability identified by B&Rs internal security analysis in the product versions listed as affected in this advisory. An attacker who successfully exploited the"
+    },
+    {
+      "source": "CISA",
+      "region": "global",
+      "slug": "ba35ec57c234",
+      "title": "ABB B&R PCs",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-141-02",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.cisa.gov%2Fnews-events%2Fics-advisories%2Ficsa-26-141-02",
+      "published": "Thu, 21 May 26 12:00:00 +0000",
+      "summary": "View CSAF Summary ABB became aware of vulnerability in the product versions listed as affected in the advisory. An update is now available that addresses and remediates the vulnerability. A network attacker could exploit"
+    },
+    {
+      "source": "CISA",
+      "region": "global",
+      "slug": "876a680d50a6",
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/05/21/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.cisa.gov%2Fnews-events%2Falerts%2F2026%2F05%2F21%2Fcisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "published": "Thu, 21 May 26 12:00:00 +0000",
+      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2025-34291 Langflow Origin Validation Error Vulnerability CVE-2026-34926 Trend M"
     },
     {
       "source": "BleepingComputer",
@@ -530,76 +600,6 @@
       "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fhardware%2Fflipper-one-project-needs-community-help-to-build-open-linux-platform%2F",
       "published": "Thu, 21 May 2026 07:00:00 -0400",
       "summary": "Flipper Devices, the maker of the Flipper Zero pentesting tool, is asking the community to help build Flipper One, an open Linux platform for connected devices. [...]"
-    },
-    {
-      "source": "BleepingComputer",
-      "region": "global",
-      "slug": "3231428ce36f",
-      "title": "Microsoft warns of new Defender zero-days exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-new-defender-zero-days-exploited-in-attacks/",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Fmicrosoft-warns-of-new-defender-zero-days-exploited-in-attacks%2F",
-      "published": "Thu, 21 May 2026 03:49:48 -0400",
-      "summary": "On Wednesday, Microsoft started rolling out security patches for two Defender vulnerabilities that have been exploited in zero-day attacks. [...]"
-    },
-    {
-      "source": "BleepingComputer",
-      "region": "global",
-      "slug": "b425a4fd46f6",
-      "title": "GitHub links repo breach to TanStack npm supply-chain attack",
-      "url": "https://www.bleepingcomputer.com/news/security/github-links-repo-breach-to-tanstack-npm-supply-chain-attack/",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Fgithub-links-repo-breach-to-tanstack-npm-supply-chain-attack%2F",
-      "published": "Thu, 21 May 2026 02:54:01 -0400",
-      "summary": "GitHub says the hackers who breached 3,800 internal repositories gained access via a malicious version of the Nx Console VS Code extension, compromised in last week's TanStack npm supply-chain attack. [...]"
-    },
-    {
-      "source": "The Hacker News",
-      "region": "global",
-      "slug": "03ee68797a7d",
-      "title": "Microsoft Open-Sources RAMPART and Clarity to Secure AI Agents During Development",
-      "url": "https://thehackernews.com/2026/05/microsoft-open-sources-rampart-and.html",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Fmicrosoft-open-sources-rampart-and.html",
-      "published": "Wed, 20 May 2026 22:36:54 +0530",
-      "summary": "Microsoft has unveiled two new open-source tools called RAMPART and Clarity to assist developers in better testing the security of artificial intelligence (AI) agents. RAMPART, short for Risk Assessment and Measurement P"
-    },
-    {
-      "source": "The Hacker News",
-      "region": "global",
-      "slug": "d16cd19af560",
-      "title": "Microsoft Takes Down Malware-Signing Service Behind Ransomware Attacks",
-      "url": "https://thehackernews.com/2026/05/microsoft-takes-down-malware-signing.html",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Fmicrosoft-takes-down-malware-signing.html",
-      "published": "Wed, 20 May 2026 20:06:44 +0530",
-      "summary": "Microsoft on Tuesday said it disrupted a malware-signing-as-a-service (MSaaS) operation that weaponized the company's Artifact Signing system to deliver malicious code and conduct ransomware and other attacks, compromisi"
-    },
-    {
-      "source": "The Hacker News",
-      "region": "global",
-      "slug": "a5f16b1002f7",
-      "title": "Webworm Deploys EchoCreep and GraphWorm Backdoors Using Discord and MS Graph API",
-      "url": "https://thehackernews.com/2026/05/webworm-deploys-echocreep-and-graphworm.html",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Fwebworm-deploys-echocreep-and-graphworm.html",
-      "published": "Wed, 20 May 2026 18:21:43 +0530",
-      "summary": "Cybersecurity researchers have flagged fresh activity from a China-aligned threat actor known as Webworm in 2025, deploying custom backdoors that employ Discord and Microsoft Graph API for command-and-control (C2 or C&C)"
-    },
-    {
-      "source": "BleepingComputer",
-      "region": "global",
-      "slug": "9b7865b92a97",
-      "title": "Ukraine identifies infostealer operator tied to 28,000 stolen accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/ukraine-identifies-infostealer-operator-tied-to-28-000-stolen-accounts/",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Fukraine-identifies-infostealer-operator-tied-to-28-000-stolen-accounts%2F",
-      "published": "Wed, 20 May 2026 17:36:24 -0400",
-      "summary": "The Ukrainian cyberpolice, working in conjunction with U.S. law enforcement, has identified an 18-year-old man from Odesa suspected of running an infostealer malware operation targeting users of an online store in Califo"
-    },
-    {
-      "source": "BleepingComputer",
-      "region": "global",
-      "slug": "7fb963b9bebb",
-      "title": "Hackers bypass SonicWall VPN MFA due to incomplete patching",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-bypass-sonicwall-vpn-mfa-due-to-incomplete-patching/",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Fhackers-bypass-sonicwall-vpn-mfa-due-to-incomplete-patching%2F",
-      "published": "Wed, 20 May 2026 17:19:17 -0400",
-      "summary": "Threat actors brute-forced VPN credentials and bypassed multi-factor authentication (MFA) on SonicWall Gen6 SSL-VPN appliances to deploy tools used in ransomware attacks. [...]"
     }
   ],
   "errors": []
