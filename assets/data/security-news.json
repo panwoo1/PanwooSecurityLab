@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T15:19:31.771633+00:00",
+  "generated_at": "2026-05-22T20:05:56.022160+00:00",
   "items": [
     {
       "source": "보안뉴스",
@@ -404,6 +404,26 @@
     {
       "source": "The Hacker News",
       "region": "global",
+      "slug": "c1b93c8b4c1a",
+      "title": "First VPN Dismantled in Global Takedown Over Use by 25 Ransomware Groups",
+      "url": "https://thehackernews.com/2026/05/first-vpn-dismantled-in-global-takedown.html",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Ffirst-vpn-dismantled-in-global-takedown.html",
+      "published": "Fri, 22 May 2026 23:05:02 +0530",
+      "summary": "Authorities in Europe and North America have announced the dismantling of a criminal virtual private network (VPN) service used by criminal actors to obscure the origins of ransomware attacks, data theft, scanning, and d"
+    },
+    {
+      "source": "The Hacker News",
+      "region": "global",
+      "slug": "882abb861704",
+      "title": "Ghostwriter Targets Ukraine Government Entities with Prometheus Phishing Malware",
+      "url": "https://thehackernews.com/2026/05/ghostwriter-targets-ukraine-government.html",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Fghostwriter-targets-ukraine-government.html",
+      "published": "Fri, 22 May 2026 21:50:32 +0530",
+      "summary": "The Belarus-aligned threat actor known as Ghostwriter (aka UAC-0057 and UNC1151Ukraine's National Security and Defense Council) has been observed using lures related to Prometheus, a Ukrainian online learning platform, t"
+    },
+    {
+      "source": "The Hacker News",
+      "region": "global",
       "slug": "143167e87dbe",
       "title": "Megalodon GitHub Attack Targets 5,561 Repos with Malicious CI/CD Workflows",
       "url": "https://thehackernews.com/2026/05/megalodon-github-attack-targets-5561.html",
@@ -430,6 +450,36 @@
       "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Fkimwolf-ddos-botnet-operator-arrested.html",
       "published": "Fri, 22 May 2026 14:20:18 +0530",
       "summary": "The U.S. Department of Justice (DoJ) on Thursday announced the arrest of a Canadian man in connection with allegedly operating a distributed denial-of-service (DDoS) botnet known as Kimwolf. In tandem, Jacob Butler (aka "
+    },
+    {
+      "source": "BleepingComputer",
+      "region": "global",
+      "slug": "6b721dcdd3c8",
+      "title": "Netherlands seizes 800 servers of hosting firm enabling cyberattacks",
+      "url": "https://www.bleepingcomputer.com/news/security/netherlands-seizes-800-servers-of-hosting-firm-enabling-cyberattacks/",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Fnetherlands-seizes-800-servers-of-hosting-firm-enabling-cyberattacks%2F",
+      "published": "Fri, 22 May 2026 13:24:52 -0400",
+      "summary": "Financial crime investigators in the Netherlands (FIOD) arrested two men and seized 800 servers linked to a web hosting company that enabled cyberattacks, interference operations, and disinformation campaigns. [...]"
+    },
+    {
+      "source": "CISA",
+      "region": "global",
+      "slug": "2a1b64cf505f",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/05/22/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.cisa.gov%2Fnews-events%2Falerts%2F2026%2F05%2F22%2Fcisa-adds-one-known-exploited-vulnerability-catalog",
+      "published": "Fri, 22 May 26 12:00:00 +0000",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-9082 Drupal Core SQL Injection Vulnerability This type of vulnerability is a "
+    },
+    {
+      "source": "BleepingComputer",
+      "region": "global",
+      "slug": "35c363342bc7",
+      "title": "Former US execs plead guilty to aiding tech support scammers",
+      "url": "https://www.bleepingcomputer.com/news/security/former-us-execs-plead-guilty-to-aiding-tech-support-scammers/",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Fformer-us-execs-plead-guilty-to-aiding-tech-support-scammers%2F",
+      "published": "Fri, 22 May 2026 11:32:18 -0400",
+      "summary": "Two former executives of a call-tracking and analytics company pleaded guilty to concealing a years-long tech support fraud scheme that victimized individuals worldwide. [...]"
     },
     {
       "source": "The Hacker News",
@@ -532,16 +582,6 @@
       "summary": "Microsoft has disclosed that a privilege escalation and a denial-of-service flaw in Defender has come under active exploitation in the wild. The former, tracked as CVE-2026-41091, is rated 7.8 on the CVSS scoring system."
     },
     {
-      "source": "The Hacker News",
-      "region": "global",
-      "slug": "677ad7451ccf",
-      "title": "When Identity is the Attack Path",
-      "url": "https://thehackernews.com/2026/05/when-identity-is-attack-path.html",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Fwhen-identity-is-attack-path.html",
-      "published": "Thu, 21 May 2026 16:00:00 +0530",
-      "summary": "Consider a cached access key on a single Windows machine. It got there the way most cached credentials do - a user logged in, and the key stored itself automatically. Standard AWS behavior. No one misconfigured anything "
-    },
-    {
       "source": "BleepingComputer",
       "region": "global",
       "slug": "5bdd0fd810d4",
@@ -552,36 +592,6 @@
       "summary": "Google has accidentally leaked details about an unfixed issue in Chromium that keeps JavaScript running in the background even when the browser is closed, allowing remote code execution on the device. [...]"
     },
     {
-      "source": "The Hacker News",
-      "region": "global",
-      "slug": "ab00d989810b",
-      "title": "9-Year-Old Linux Kernel Flaw Enables Root Command Execution on Major Distros",
-      "url": "https://thehackernews.com/2026/05/9-year-old-linux-kernel-flaw-enables.html",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2F9-year-old-linux-kernel-flaw-enables.html",
-      "published": "Thu, 21 May 2026 13:05:53 +0530",
-      "summary": "Cybersecurity researchers have disclosed details of a vulnerability in the Linux kernel that remained undetected for nine years. The vulnerability, tracked as CVE-2026-46333 (CVSS score: 5.5), is a case of improper privi"
-    },
-    {
-      "source": "CISA",
-      "region": "global",
-      "slug": "533da531c4ca",
-      "title": "ABB Terra AC Wallbox",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-141-05",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.cisa.gov%2Fnews-events%2Fics-advisories%2Ficsa-26-141-05",
-      "published": "Thu, 21 May 26 12:00:00 +0000",
-      "summary": "View CSAF Summary ABB is aware of vulnerabilities in the product versions listed as affected in the advisory. An attacker who successfully exploited this vulnerability could cause the pollution of heap memory which poten"
-    },
-    {
-      "source": "CISA",
-      "region": "global",
-      "slug": "c60ac8937a26",
-      "title": "Hitachi Energy GMS600",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-141-01",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.cisa.gov%2Fnews-events%2Fics-advisories%2Ficsa-26-141-01",
-      "published": "Thu, 21 May 26 12:00:00 +0000",
-      "summary": "View CSAF Summary Hitachi Energy is aware of the vulnerability, CVE-2022-4304 in the OSS component OpenSSL, that affects the GMS600 versions that are listed below. An attacker successfully exploiting this vulnerability c"
-    },
-    {
       "source": "CISA",
       "region": "global",
       "slug": "a31abad59ba5",
@@ -590,16 +600,6 @@
       "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.cisa.gov%2Fnews-events%2Fics-advisories%2Ficsa-26-141-03",
       "published": "Thu, 21 May 26 12:00:00 +0000",
       "summary": "View CSAF Summary ABB became aware of vulnerability in the product versions listed as affected in the advisory. An update is available that replaces an outdated third-party component. Although no successful exploitation "
-    },
-    {
-      "source": "CISA",
-      "region": "global",
-      "slug": "90ad8794d398",
-      "title": "ABB B&R Automation Runtime",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-141-04",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.cisa.gov%2Fnews-events%2Fics-advisories%2Ficsa-26-141-04",
-      "published": "Thu, 21 May 26 12:00:00 +0000",
-      "summary": "View CSAF Summary An update is available that resolves a vulnerability identified by B&Rs internal security analysis in the product versions listed as affected in this advisory. An attacker who successfully exploited the"
     }
   ],
   "errors": []
