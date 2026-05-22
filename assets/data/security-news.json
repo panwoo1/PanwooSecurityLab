@@ -1,6 +1,86 @@
 {
-  "generated_at": "2026-05-22T04:33:54.069783+00:00",
+  "generated_at": "2026-05-22T09:48:23.953495+00:00",
   "items": [
+    {
+      "source": "보안뉴스",
+      "region": "domestic",
+      "slug": "e099435765c6",
+      "title": "티디지, 스패로우와 ‘DevSecOps 기반 보안체계 구축’ 계약",
+      "url": "http://www.boannews.com/media/view.asp?idx=143781&kind=&sub_kind=",
+      "translateUrl": "",
+      "published": "Fri, 22 May 2026 17:03:00 +0900",
+      "summary": "SBOM 기반 공급망 보안 강화... 금융권 등 시장 선점[보안뉴스 원병철 기자] AI 클라우드 전문기업 티디지(사장 이문형)가 애플리케이션 보안 전문기업 스패로우(대표 장일수)와 ‘소프트웨어 공급망 보안 강화’를 위한 계약을 체결했다. 양사는 이번 계약에 따라 소프트웨어 구성요소의 투명성을 확보하고, SBOM(Software Bill of Materia"
+    },
+    {
+      "source": "보안뉴스",
+      "region": "domestic",
+      "slug": "4a103370c1c7",
+      "title": "‘불법 주정차 근절’ 인천 중구, 주행형 단속 CCTV 3대 신규 도입",
+      "url": "http://www.boannews.com/media/view.asp?idx=143779&kind=&sub_kind=",
+      "translateUrl": "",
+      "published": "Fri, 22 May 2026 16:40:00 +0900",
+      "summary": "단속 업무 효율화, 불필요한 대민 마찰 최소화, 주정차 질서 확립 도모[보안뉴스 강초희 기자] 인천시 중구(구청장 김정헌)는 올해 영종국제도시 지역 불법 주정차 근절을 위해 ‘불법 주정차 단속 주행형 CCTV’ 3대를 신규 도입한다고 22일 밝혔다.이는 불법 주정차 단속 업무의 효율화를 꾀함으로써 교통사고 사전 예방과 차량의 원활한 소통, 주민 불편 해소"
+    },
+    {
+      "source": "보안뉴스",
+      "region": "domestic",
+      "slug": "8b2dd4fdedcf",
+      "title": "구로구, ‘2026년 스마트빌리지 조성사업’ 추진... 구로형 스마트폴 설치",
+      "url": "http://www.boannews.com/media/view.asp?idx=143780&kind=&sub_kind=",
+      "translateUrl": "",
+      "published": "Fri, 22 May 2026 16:39:00 +0900",
+      "summary": "개봉2·3동 일대 5가지 유형의 구로형 특화 스마트폴 총 36대 설치[보안뉴스 강초희 기자] 서울 구로구(구청장 장인홍)가 올해 ‘스마트빌리지 조성사업’을 통해 개봉2·3동 일대에 구로구만의 특화된 5가지 유형의 ‘구로형 스마트폴’ 36대를 설치한다. ‘스마트빌리지 조성사업’은 스마트 인프라 취약지역에 정보통신기술을 접목한 스마트폴을 설치해 범죄 및 교통사"
+    },
+    {
+      "source": "보안뉴스",
+      "region": "domestic",
+      "slug": "948c58372ac9",
+      "title": "“몇 시간 내 공격 코드 풀린다” 드루팔, 모든 버전 긴급 보안 패치 예고",
+      "url": "http://www.boannews.com/media/view.asp?idx=143776&kind=&sub_kind=",
+      "translateUrl": "",
+      "published": "Fri, 22 May 2026 16:36:00 +0900",
+      "summary": "현지시간 20일 지원 중인 전 버전 대상 코어 보안 업데이트 동시 배포취약점 세부 사항 비공개 “공개 직후 자동화 해킹 도구 유포 위험 높아”[보안뉴스 김형근 기자] 전 세계 수많은 기업과 기관이 웹사이트 구축에 사용하는 핵심 플랫폼 드루팔(Drupal)이 대규모 사이버 공격을 막기 위한 긴급 대응에 나섰다.드루팔 보안팀은 20일(현지시간) 모든 지원 버전"
+    },
+    {
+      "source": "보안뉴스",
+      "region": "domestic",
+      "slug": "fc39d5173ec9",
+      "title": "소프트캠프, 금융 보안 플러그인 제거 의무화에 대응하는 RBI 기반 보안 접속 플랫폼 ‘SHIELD Web’ 출시",
+      "url": "http://www.boannews.com/media/view.asp?idx=143778&kind=&sub_kind=",
+      "translateUrl": "",
+      "published": "Fri, 22 May 2026 16:16:00 +0900",
+      "summary": "금융당국 설치형 보안 SW 의무 제거 흐름 속...플러그인 없이도 금융사가 직접 보안 통제정부, 2026년부터 금융권 설치형 보안 SW 단계적 제거 의무화보안 위해 도입한 플러그인이 오히려 공급망 공격 통로로...구조적 전환 불가피“플러그인 제거는 기능 포기 아냐”...보안 통제권을 금융사 클라우드로 이전AI 해킹 시대, 브라우저 노출 코드 자체가 표적.."
+    },
+    {
+      "source": "보안뉴스",
+      "region": "domestic",
+      "slug": "97517b9379e9",
+      "title": "팔로알토 “그렘린 스틸러 변종, 암호화된 자원 영역에 C2 숨겨”",
+      "url": "http://www.boannews.com/media/view.asp?idx=143766&kind=&sub_kind=",
+      "translateUrl": "",
+      "published": "Fri, 22 May 2026 14:55:00 +0900",
+      "summary": "글로벌 보안 장비 감시망 우회한 채 정상 구동 중인 신규 C2 서버 적발문자열 암호화 및 무의미한 루프 삽입으로 자동화 분석 도구 무력화[보안뉴스 김형근 기자] 가상자산 지갑 주소를 무단 변경하는 클립보드 하이재커 기능과 디스코드(Discord) 계정 탈취 모듈을 탑재한 악성코드가 등장했다. 팔로알토 네트웍스가 분석한 그렘린 스틸러(Gremlin Steal"
+    },
+    {
+      "source": "보안뉴스",
+      "region": "domestic",
+      "slug": "622c845a25a2",
+      "title": "[김정덕의 인간중심보안-6] 감정과 비합리성, 보안의 숨은 힘",
+      "url": "http://www.boannews.com/media/view.asp?idx=143773&kind=&sub_kind=",
+      "translateUrl": "",
+      "published": "Fri, 22 May 2026 14:51:00 +0900",
+      "summary": "인간의 심리를 보안 설계에 녹여내는 방법[연재목차 Part 3. 인간중심보안과 보안문화]1. AI 시대, 왜 인간 중심 보안인가2. AI 시대, 인간 중심 보안을 구현하려면3. 인간의 창의성과 AI 보안4. 보안 위반, 뇌 과학 해법5. 넛지 보안의 힘6. 감정과 비합리성, 보안의 숨은 힘7. 디지털 야누스, 두얼굴의 사용자8. 인간 중심 보안과 제로트러스"
+    },
+    {
+      "source": "보안뉴스",
+      "region": "domestic",
+      "slug": "4372d2cd53c3",
+      "title": "[카드뉴스] “직진인 줄 알았는데 강물로?”… 민간에 뚫린 ‘위성 교란’ 기술, 일상 인프라 저격",
+      "url": "http://www.boannews.com/media/view.asp?idx=143777&kind=&sub_kind=",
+      "translateUrl": "",
+      "published": "Fri, 22 May 2026 14:29:00 +0900",
+      "summary": "과거 전유물이었던 고도의 ‘위성 교란’ 기술이 민간 기술 수준에서 복제 가능해지면서, 배낭 형태의 소형 장비로도 반경 5km 이내의 GPS/GNSS 신호를 완벽히 기만하는 위협이 현실화되었다. 이번 위성 신호 조작 공격은 자율주행 시스템, 드론 배송, 물류 이동 네트워크 등 사회 핵심 위치 기반 인프라를 직접 조준하여 스마트 도시의 물리적 마비와 안전사고를"
+    },
     {
       "source": "보안뉴스",
       "region": "domestic",
@@ -22,64 +102,34 @@
       "summary": "최신 AI 모델 출시 전 정부 검토 거치게 하는 행정명령, 서명 행사 직전 취소“혁신 저해”... 산업계 우려 반영한 듯 [보안뉴스 한세희 기자] 도널드 트럼프 미국 대통령이 21일(현지시간) 예정된 AI 사이버보안에 관한 행정명령 서명을 갑자기 연기했다. 트럼프 대통령은 이날 AI 기업이 최신 모델 출시에 앞서 정부와 협력하도록 하는 내용의 행정명령에 서"
     },
     {
-      "source": "보안뉴스",
+      "source": "KISA 보안공지",
       "region": "domestic",
-      "slug": "527752e9f5bf",
-      "title": "[배종찬의 보안 빅데이터] 카드결제·개인정보 숭숭 뚫리는 해외직구",
-      "url": "http://www.boannews.com/media/view.asp?idx=143772&kind=&sub_kind=",
+      "slug": "91499e8cb343",
+      "title": "VMware 제품 보안 업데이트 권고",
+      "url": "https://www.boho.or.kr/kr/bbs/view.do?searchCnd=&bbsId=B0000133&searchWrd=&menuNo=205020&pageIndex=1&categoryCode=&nttId=72064",
       "translateUrl": "",
-      "published": "Fri, 22 May 2026 11:19:00 +0900",
-      "summary": "국경 없는 소비의 이면에 드리운 사이버 금융 범죄의 민낯과 해법도메인 교차 검증 및 가상카드 활용 등 생활 속 보안 체질화 시급해 [보안뉴스= 배종찬 인사이트케이 연구소장] 인터넷과 물류망의 발달로 전 세계 소비 시장의 경계가 허물어지면서 ‘해외직구’가 어느새 우리 일상의 보편적 소비 패턴으로 자리 잡았다. 하지만 국경 없는 소비의 이면에는 정교해진 사이버"
+      "published": "2026-05-22",
+      "summary": ""
     },
     {
-      "source": "보안뉴스",
+      "source": "KISA 보안공지",
       "region": "domestic",
-      "slug": "f4ca8b0038dd",
-      "title": "“국산 NPU, 공공 AI 시장 문 열었다” 모빌린트, 혁신제품 첫 등록으로 공공 조달 진입",
-      "url": "http://www.boannews.com/media/view.asp?idx=143768&kind=&sub_kind=",
+      "slug": "3db8ea24da37",
+      "title": "Ivanti 제품 보안 업데이트 권고",
+      "url": "https://www.boho.or.kr/kr/bbs/view.do?searchCnd=&bbsId=B0000133&searchWrd=&menuNo=205020&pageIndex=1&categoryCode=&nttId=72063",
       "translateUrl": "",
-      "published": "Fri, 22 May 2026 10:53:00 +0900",
-      "summary": "외산 중심 공공 AI 시장에 국산 AI 반도체 본격 진입[보안뉴스 강초희 기자] 모빌린트(대표이사 신동주)는 자사의 AI 솔루션 ‘MLX-A1’과 ‘MLA100’이 조달청 나라장터 종합쇼핑몰 등록을 완료하고 혁신제품으로 지정됐다고 밝혔다. NPU(신경망처리장치) 기반 AI 솔루션이 조달청 혁신제품에 등록된 것은 이번이 처음으로, 외산 GPU 중심으로 형성돼"
+      "published": "2026-05-22",
+      "summary": ""
     },
     {
-      "source": "보안뉴스",
+      "source": "KISA 보안공지",
       "region": "domestic",
-      "slug": "1cbd2a0f9cde",
-      "title": "사고 터지기 전에 막는다... 개인정보 관리체계 ‘예방 중심’으로 개편",
-      "url": "http://www.boannews.com/media/view.asp?idx=143770&kind=&sub_kind=",
+      "slug": "338f0c93d189",
+      "title": "NVIDIA 제품 보안 업데이트 권고",
+      "url": "https://www.boho.or.kr/kr/bbs/view.do?searchCnd=&bbsId=B0000133&searchWrd=&menuNo=205020&pageIndex=1&categoryCode=&nttId=72062",
       "translateUrl": "",
-      "published": "Fri, 22 May 2026 10:52:00 +0900",
-      "summary": "데이터 처리 규모 및 민감도 따라 고·중·저 위험군 분류해 차등 점검ISMS-P 등 주요 정보보호 평가 체계에도 개인정보보호 중심 설계 원칙 반영[보안뉴스 조재호 기자] 사후 제재 위주로 운영되던 국가 개인정보 관리체계가 사전 위험 식별 및 예방 중심으로 전면 개편된다. 개인정보보호위원회는 22일 경제장관회의에서 ‘예방 중심 개인정보 관리체계 전환계획’을"
-    },
-    {
-      "source": "보안뉴스",
-      "region": "domestic",
-      "slug": "36987d50d977",
-      "title": "SK쉴더스, 글로벌 3대 AI 학회 ‘ICML 2026’서 탐지 신기술 논문 채택",
-      "url": "http://www.boannews.com/media/view.asp?idx=143771&kind=&sub_kind=",
-      "translateUrl": "",
-      "published": "Fri, 22 May 2026 10:50:00 +0900",
-      "summary": "불규칙한 사이버 공격 흐름 분석하는 QuITE 모델 제시기존 시계열 분석 방식 대비 탐지 성능 최대 45.9% 개선 효과 입증[보안뉴스 조재호 기자] 일정하지 않은 사이버 공격의 흐름을 정밀하게 분석하는 새로운 AI 보안 기술이 글로벌 학계의 인정을 받았다.SK쉴더스는 자사 사이버보안AI랩스 소속 임정훈 선임의 연구 논문이 글로벌 3대 AI 학회인 ICML"
-    },
-    {
-      "source": "보안뉴스",
-      "region": "domestic",
-      "slug": "2c61b1d0c16e",
-      "title": "한국공항보안, 공항시장역 일대서 ‘제3회 한마음 플로깅’ 실시",
-      "url": "http://www.boannews.com/media/view.asp?idx=143767&kind=&sub_kind=",
-      "translateUrl": "",
-      "published": "Fri, 22 May 2026 10:47:00 +0900",
-      "summary": "지역 환경정화 활동 통해 ESG 실천과 지역사회 상생 앞장[보안뉴스 강초희 기자] 한국공항보안(사장 김수봉) 본사 임직원 60여명은 5월 22일 오전 10시부터 11시까지 공항시장역 일대에서 ‘제3회 한마음 플로깅’ 사회공헌활동을 실시했다.‘한마음 플로깅’은 임직원들이 함께 걸으며 쓰레기를 수거하는 환경정화 활동으로, 한국공항보안이 지역사회와의 상생과 ES"
-    },
-    {
-      "source": "보안뉴스",
-      "region": "domestic",
-      "slug": "75272ce0c804",
-      "title": "“세븐일레븐도 뚫렸다” 샤이니헌터스 공격에 가맹점 정보 유출 인정",
-      "url": "http://www.boannews.com/media/view.asp?idx=143769&kind=&sub_kind=",
-      "translateUrl": "",
-      "published": "Fri, 22 May 2026 09:59:00 +0900",
-      "summary": "미국 규제당국에 데이터 유출 신고... 가맹점주 SSN 포함 민감정보 탈취클라우드 저장소 노린 샤이니헌터스, 유통·교육·금융 전방위 공격 확산[보안뉴스 김형근 기자] 글로벌 편의점 기업 세븐일레븐(7-Eleven)이 국제 사이버 범죄 조직 ‘샤이니헌터스’(ShinyHunters)의 공격으로 가맹점 관련 문서 저장 시스템이 침해됐음을 공식 인정했다.세븐일레븐"
+      "published": "2026-05-22",
+      "summary": ""
     },
     {
       "source": "KISA 보안공지",
@@ -90,26 +140,6 @@
       "translateUrl": "",
       "published": "2026-05-22",
       "summary": ""
-    },
-    {
-      "source": "보안뉴스",
-      "region": "domestic",
-      "slug": "68f0fa1bc2c5",
-      "title": "피지컬AI 모델, 정보보호... 한국정보처리학회 ‘ASK 2026’ 산학연 연구 성과 공유",
-      "url": "http://www.boannews.com/media/view.asp?idx=143765&kind=&sub_kind=",
-      "translateUrl": "",
-      "published": "Thu, 21 May 2026 22:09:00 +0900",
-      "summary": "한국정보처리학회(KIPS) 연례 학술 행사... 20-23일 강릉에서융합AI, 보안, 차세대 컴퓨팅 시스템 등 최신 학술 이론과 산업 접목 [보안뉴스 한세희 기자] “동작과 기억, 감각 센싱의 결합, 학습을 위한 합성 데이터 품질 강화, 3단계 훈련 기법 개발 등을 통해 사람처럼 움직이는 로봇을 위한 파운데이션 모델을 개발했습니다.” (신진우 KAIST A"
-    },
-    {
-      "source": "보안뉴스",
-      "region": "domestic",
-      "slug": "ca9ebee2db75",
-      "title": "[이슈칼럼] 깃허브도 뚫렸다, TeamPCP가 보여준 ‘NHI 시대’의 공급망 공격 진화",
-      "url": "http://www.boannews.com/media/view.asp?idx=143763&kind=&sub_kind=",
-      "translateUrl": "",
-      "published": "Thu, 21 May 2026 18:22:00 +0900",
-      "summary": "2-3개월 간 정상 배포로 위장한 8개월의 치밀한 공급망 장악 캠페인EDR도 탐지 못 하는 정상적인 API 호출 악용... NHI 인벤토리 점검 시급[보안뉴스= 김동현 OWASP 서울 챕터 리더] 지난 20일 깃허브(GitHub)가 자사 내부 저장소 약 3800개의 외부 유출을 공식 인정했다. 전 세계 개발자가 코드를 맡기는 플랫폼에서 직원 한 명이 설치한"
     },
     {
       "source": "ASEC KR",
@@ -222,26 +252,6 @@
       "summary": ""
     },
     {
-      "source": "KISA 보안공지",
-      "region": "domestic",
-      "slug": "e3dab3179d68",
-      "title": "Fortinet 제품 보안 업데이트 권고",
-      "url": "https://www.boho.or.kr/kr/bbs/view.do?searchCnd=&bbsId=B0000133&searchWrd=&menuNo=205020&pageIndex=1&categoryCode=&nttId=72053",
-      "translateUrl": "",
-      "published": "2026-05-18",
-      "summary": ""
-    },
-    {
-      "source": "KISA 보안공지",
-      "region": "domestic",
-      "slug": "63d27d265153",
-      "title": "SAP 제품 보안 업데이트 권고",
-      "url": "https://www.boho.or.kr/kr/bbs/view.do?searchCnd=&bbsId=B0000133&searchWrd=&menuNo=205020&pageIndex=1&categoryCode=&nttId=72052",
-      "translateUrl": "",
-      "published": "2026-05-18",
-      "summary": ""
-    },
-    {
       "source": "ASEC KR",
       "region": "domestic",
       "slug": "8484456179fc",
@@ -250,16 +260,6 @@
       "translateUrl": "",
       "published": "Sun, 17 May 2026 15:00:00 +0000",
       "summary": "목적 및 범위 본 보고서는 국가 지원을 받는 것으로 추정되는 국가 주도 위협 그룹의 사이버 간첩(Cyber Espionage)과 비밀 파괴공작(Sabotage) 활동을 다룬다. 금전적 이득 목적의 사이버 범죄 그룹은 제외했다. 최근 한 달간 공개된 분석을 바탕으로 ATIP 기준 Threat Actors 대표 이름에 따라 분류했다. 지역별 주요 APT 그룹 현황 북한. 북한 연계 그룹은 개발자"
-    },
-    {
-      "source": "KISA 보안공지",
-      "region": "domestic",
-      "slug": "283f752331d0",
-      "title": "MS 5월 보안 위협에 따른 정기 보안 업데이트 권고",
-      "url": "https://www.boho.or.kr/kr/bbs/view.do?searchCnd=&bbsId=B0000133&searchWrd=&menuNo=205020&pageIndex=1&categoryCode=&nttId=72051",
-      "translateUrl": "",
-      "published": "2026-05-14",
-      "summary": ""
     },
     {
       "source": "ASEC KR",
@@ -294,12 +294,12 @@
     {
       "source": "ASEC KR",
       "region": "domestic",
-      "slug": "18b0344ccac7",
-      "title": "2026년 4월 다크웹 위협 행위자 동향 보고서",
-      "url": "https://asec.ahnlab.com/ko/93632/",
+      "slug": "13694c21e894",
+      "title": "2026년 4월 다크웹 침해사고 동향 보고서",
+      "url": "https://asec.ahnlab.com/ko/93627/",
       "translateUrl": "",
       "published": "Sun, 10 May 2026 15:00:00 +0000",
-      "summary": "알림 2026년 4월 다크웹 위협 행위자 동향 보고서는 딥웹 및 다크웹에서 활동하는 핵티비스트와 위협 행위자의 동향을 정리한 내용이다. 일부 정보는 출처 특성상 사실 여부를 완전히 확인하기 어려운 사례가 포함되었다. 주요 이슈 NoName05716은 한국 지역의 정부기관, 공공기관, 기업 등 수십 곳을 대상으로 반복적인 DDoS 공격을 주장했다. 단일 주장에서는 최대 22개 기관이 동시에 표"
+      "summary": "알림 2026년 4월 다크웹 침해사고 동향 보고서는 딥웹 및 다크웹 포럼에 게시된 Data Breach 사례를 중심으로 정리되었다. 일부 정보는 출처 특성상 사실 여부를 완전히 확인하기 어려운 사례가 포함되었다. 주요 이슈 다크웹 주요 포럼인 BreachForums(Hasan 운영), DarkForums, Exploit, Spear, PwnForums에서 군사, 정부, 금융, 기술, 의료, "
     },
     {
       "source": "KISA 취약점정보",
@@ -400,6 +400,46 @@
       "translateUrl": "",
       "published": "2024-02-23",
       "summary": ""
+    },
+    {
+      "source": "The Hacker News",
+      "region": "global",
+      "slug": "6f75cd3a4b4e",
+      "title": "Kimwolf DDoS Botnet Operator Arrested in Canada Over DDoS-for-Hire Attacks",
+      "url": "https://thehackernews.com/2026/05/kimwolf-ddos-botnet-operator-arrested.html",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Fkimwolf-ddos-botnet-operator-arrested.html",
+      "published": "Fri, 22 May 2026 14:20:18 +0530",
+      "summary": "The U.S. Department of Justice (DoJ) on Thursday announced the arrest of a Canadian man in connection with allegedly operating a distributed denial-of-service (DDoS) botnet known as Kimwolf. In tandem, Jacob Butler (aka "
+    },
+    {
+      "source": "The Hacker News",
+      "region": "global",
+      "slug": "c0a405f78079",
+      "title": "CISA Adds Exploited Langflow and Trend Micro Apex One Vulnerabilities to KEV",
+      "url": "https://thehackernews.com/2026/05/cisa-adds-exploited-langflow-and-trend.html",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Fcisa-adds-exploited-langflow-and-trend.html",
+      "published": "Fri, 22 May 2026 11:17:33 +0530",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Langflow and Trend Micro Apex One to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of a"
+    },
+    {
+      "source": "The Hacker News",
+      "region": "global",
+      "slug": "289e87ac70a4",
+      "title": "Cisco Patches CVSS 10.0 Secure Workload REST API Flaw Enabling Data Access",
+      "url": "https://thehackernews.com/2026/05/cisco-patches-cvss-100-secure-workload.html",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Fcisco-patches-cvss-100-secure-workload.html",
+      "published": "Fri, 22 May 2026 11:06:18 +0530",
+      "summary": "Cisco has rolled out updates for a maximum-severity security flaw impacting Secure Workload that could allow an unauthenticated, remote attacker to access sensitive data. Tracked as CVE-2026-20223 (CVSS score: 10.0), the"
+    },
+    {
+      "source": "BleepingComputer",
+      "region": "global",
+      "slug": "50bd682069e1",
+      "title": "US and Canada arrest and charge suspected Kimwolf botnet admin",
+      "url": "https://www.bleepingcomputer.com/news/security/us-and-canada-arrest-and-charge-suspected-kimwolf-botnet-admin/",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Fus-and-canada-arrest-and-charge-suspected-kimwolf-botnet-admin%2F",
+      "published": "Fri, 22 May 2026 05:01:20 -0400",
+      "summary": "U.S. and Canadian authorities arrested and charged a Canadian man with operating the KimWolf distributed denial-of-service (DDoS) botnet, which infected nearly two million devices worldwide. [...]"
     },
     {
       "source": "The Hacker News",
@@ -560,46 +600,6 @@
       "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Fcisco-max-severity-secure-workload-flaw-gives-hackers-site-admin-privileges%2F",
       "published": "Thu, 21 May 2026 09:58:33 -0400",
       "summary": "Cisco has released security updates to address a maximum-severity vulnerability in Secure Workload that allows attackers to gain Site Admin privileges. [...]"
-    },
-    {
-      "source": "The Hacker News",
-      "region": "global",
-      "slug": "4db825ca2508",
-      "title": "GitHub Internal Repositories Breached via Malicious Nx Console VS Code Extension",
-      "url": "https://thehackernews.com/2026/05/github-internal-repositories-breached.html",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Fgithub-internal-repositories-breached.html",
-      "published": "Thu, 21 May 2026 09:57:01 +0530",
-      "summary": "GitHub on Wednesday officially confirmed that the breach of its internal repositories was the result of a compromise of an employee device involving a poisoned version of the Nx Console Microsoft Visual Studio Code (VS C"
-    },
-    {
-      "source": "The Hacker News",
-      "region": "global",
-      "slug": "a3751dbba3ed",
-      "title": "Highly Critical Drupal Core Flaw Exposes PostgreSQL Sites to RCE Attacks",
-      "url": "https://thehackernews.com/2026/05/highly-critical-drupal-core-flaw.html",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Fhighly-critical-drupal-core-flaw.html",
-      "published": "Thu, 21 May 2026 09:14:11 +0530",
-      "summary": "Drupal has released security updates for a \"highly critical\" security vulnerability in Drupal Core that could be exploited by attackers to achieve remote code execution, privilege escalation, or information disclosure. T"
-    },
-    {
-      "source": "BleepingComputer",
-      "region": "global",
-      "slug": "746a59a05cbc",
-      "title": "Police seize “First VPN” service used in ransomware, data theft attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/police-seize-first-vpn-service-used-in-ransomware-data-theft-attacks/",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Fpolice-seize-first-vpn-service-used-in-ransomware-data-theft-attacks%2F",
-      "published": "Thu, 21 May 2026 09:09:51 -0400",
-      "summary": "A virtual private network service called 'First VPN,' used in ransomware and data theft attacks, has been taken offline in a joint international law enforcement operation. [...]"
-    },
-    {
-      "source": "BleepingComputer",
-      "region": "global",
-      "slug": "7071fbcb5f1f",
-      "title": "Flipper One project needs community help to build open Linux platform",
-      "url": "https://www.bleepingcomputer.com/news/hardware/flipper-one-project-needs-community-help-to-build-open-linux-platform/",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fhardware%2Fflipper-one-project-needs-community-help-to-build-open-linux-platform%2F",
-      "published": "Thu, 21 May 2026 07:00:00 -0400",
-      "summary": "Flipper Devices, the maker of the Flipper Zero pentesting tool, is asking the community to help build Flipper One, an open Linux platform for connected devices. [...]"
     }
   ],
   "errors": []
