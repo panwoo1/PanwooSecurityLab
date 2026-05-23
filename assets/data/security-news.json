@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T08:30:18.697695+00:00",
+  "generated_at": "2026-05-23T14:00:45.729315+00:00",
   "items": [
     {
       "source": "보안뉴스",
@@ -294,12 +294,12 @@
     {
       "source": "ASEC KR",
       "region": "domestic",
-      "slug": "18b0344ccac7",
-      "title": "2026년 4월 다크웹 위협 행위자 동향 보고서",
-      "url": "https://asec.ahnlab.com/ko/93632/",
+      "slug": "13694c21e894",
+      "title": "2026년 4월 다크웹 침해사고 동향 보고서",
+      "url": "https://asec.ahnlab.com/ko/93627/",
       "translateUrl": "",
       "published": "Sun, 10 May 2026 15:00:00 +0000",
-      "summary": "알림 2026년 4월 다크웹 위협 행위자 동향 보고서는 딥웹 및 다크웹에서 활동하는 핵티비스트와 위협 행위자의 동향을 정리한 내용이다. 일부 정보는 출처 특성상 사실 여부를 완전히 확인하기 어려운 사례가 포함되었다. 주요 이슈 NoName05716은 한국 지역의 정부기관, 공공기관, 기업 등 수십 곳을 대상으로 반복적인 DDoS 공격을 주장했다. 단일 주장에서는 최대 22개 기관이 동시에 표"
+      "summary": "알림 2026년 4월 다크웹 침해사고 동향 보고서는 딥웹 및 다크웹 포럼에 게시된 Data Breach 사례를 중심으로 정리되었다. 일부 정보는 출처 특성상 사실 여부를 완전히 확인하기 어려운 사례가 포함되었다. 주요 이슈 다크웹 주요 포럼인 BreachForums(Hasan 운영), DarkForums, Exploit, Spear, PwnForums에서 군사, 정부, 금융, 기술, 의료, "
     },
     {
       "source": "KISA 취약점정보",
@@ -400,6 +400,26 @@
       "translateUrl": "",
       "published": "2024-02-23",
       "summary": ""
+    },
+    {
+      "source": "The Hacker News",
+      "region": "global",
+      "slug": "72d496497a9b",
+      "title": "Claude Mythos AI Finds 10,000 High-Severity Flaws in Widely Used Software",
+      "url": "https://thehackernews.com/2026/05/claude-mythos-ai-finds-10000-high.html",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Fclaude-mythos-ai-finds-10000-high.html",
+      "published": "Sat, 23 May 2026 17:25:35 +0530",
+      "summary": "Anthropic on Friday disclosed that Project Glasswing has helped uncover more than 10,000 high- or critical-severity vulnerabilities across some of the most \"systemically\" important software across the world since the cyb"
+    },
+    {
+      "source": "The Hacker News",
+      "region": "global",
+      "slug": "a0b13b56f7a4",
+      "title": "Laravel-Lang PHP Packages Compromised to Deliver Cross-Platform Credential Stealer",
+      "url": "https://thehackernews.com/2026/05/laravel-lang-php-packages-compromised.html",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Flaravel-lang-php-packages-compromised.html",
+      "published": "Sat, 23 May 2026 15:21:13 +0530",
+      "summary": "Cybersecurity researchers have flagged a fresh software supply chain attack campaign that has targeted multiple PHP packages belonging to Laravel-Lang to deliver a comprehensive credential-stealing framework. The affecte"
     },
     {
       "source": "The Hacker News",
@@ -512,16 +532,6 @@
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Langflow and Trend Micro Apex One to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of a"
     },
     {
-      "source": "The Hacker News",
-      "region": "global",
-      "slug": "289e87ac70a4",
-      "title": "Cisco Patches CVSS 10.0 Secure Workload REST API Flaw Enabling Data Access",
-      "url": "https://thehackernews.com/2026/05/cisco-patches-cvss-100-secure-workload.html",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Fcisco-patches-cvss-100-secure-workload.html",
-      "published": "Fri, 22 May 2026 11:06:18 +0530",
-      "summary": "Cisco has rolled out updates for a maximum-severity security flaw impacting Secure Workload that could allow an unauthenticated, remote attacker to access sensitive data. Tracked as CVE-2026-20223 (CVSS score: 10.0), the"
-    },
-    {
       "source": "BleepingComputer",
       "region": "global",
       "slug": "703d24efeba6",
@@ -570,16 +580,6 @@
       "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Fus-and-canada-arrest-and-charge-suspected-kimwolf-botnet-admin%2F",
       "published": "Fri, 22 May 2026 05:01:20 -0400",
       "summary": "U.S. and Canadian authorities arrested and charged a Canadian man with operating the KimWolf distributed denial-of-service (DDoS) botnet, which infected nearly two million devices worldwide. [...]"
-    },
-    {
-      "source": "The Hacker News",
-      "region": "global",
-      "slug": "c58b2322b78e",
-      "title": "Showboat Linux Malware Hits Middle East Telecom with SOCKS5 Proxy Backdoor",
-      "url": "https://thehackernews.com/2026/05/showboat-linux-malware-hits-middle-east.html",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fthehackernews.com%2F2026%2F05%2Fshowboat-linux-malware-hits-middle-east.html",
-      "published": "Thu, 21 May 2026 19:47:09 +0530",
-      "summary": "Cybersecurity researchers have disclosed details of a new Linux malware dubbed Showboat that has been put to use in a campaign targeting a telecommunications provider in the Middle East since at least mid-2022. \"Showboat"
     },
     {
       "source": "BleepingComputer",
