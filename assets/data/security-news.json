@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T13:57:04.977099+00:00",
+  "generated_at": "2026-05-24T19:38:17.791102+00:00",
   "items": [
     {
       "source": "보안뉴스",
@@ -402,6 +402,16 @@
       "summary": ""
     },
     {
+      "source": "BleepingComputer",
+      "region": "global",
+      "slug": "fd84ae4913a0",
+      "title": "Ghost CMS SQL injection flaw exploited in large-scale ClickFix campaign",
+      "url": "https://www.bleepingcomputer.com/news/security/ghost-cms-sql-injection-flaw-exploited-in-large-scale-clickfix-campaign/",
+      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Fghost-cms-sql-injection-flaw-exploited-in-large-scale-clickfix-campaign%2F",
+      "published": "Sun, 24 May 2026 10:12:32 -0400",
+      "summary": "A large-scale campaign is exploiting a critical SQL injection vulnerability (CVE-2026-26980) in Ghost CMS to inject malicious JavaScript code that triggers ClickFix attack flows. [...]"
+    },
+    {
       "source": "The Hacker News",
       "region": "global",
       "slug": "a3fd847c33e4",
@@ -590,16 +600,6 @@
       "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Fubiquiti-patches-three-max-severity-unifi-os-vulnerabilities%2F",
       "published": "Fri, 22 May 2026 08:00:42 -0400",
       "summary": "Ubiquiti has released security updates to patch three maximum severity vulnerabilities in UniFi OS that can be exploited by remote attackers without privileges. [...]"
-    },
-    {
-      "source": "BleepingComputer",
-      "region": "global",
-      "slug": "50bd682069e1",
-      "title": "US and Canada arrest and charge suspected Kimwolf botnet admin",
-      "url": "https://www.bleepingcomputer.com/news/security/us-and-canada-arrest-and-charge-suspected-kimwolf-botnet-admin/",
-      "translateUrl": "https://translate.google.com/translate?sl=auto&tl=ko&u=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Fus-and-canada-arrest-and-charge-suspected-kimwolf-botnet-admin%2F",
-      "published": "Fri, 22 May 2026 05:01:20 -0400",
-      "summary": "U.S. and Canadian authorities arrested and charged a Canadian man with operating the KimWolf distributed denial-of-service (DDoS) botnet, which infected nearly two million devices worldwide. [...]"
     }
   ],
   "errors": []
