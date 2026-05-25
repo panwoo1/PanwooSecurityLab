@@ -1,7 +1,31 @@
+import { useEffect, useMemo, useState } from 'react'
 import type { NewsItem } from '../generated-content'
 import { SectionHeader } from '../components/layout/SectionHeader'
 import { NewsList } from '../components/news/NewsList'
 import { NewsToolbar } from '../components/news/NewsToolbar'
+
+function splitSentences(value: string) {
+  const sentences: string[] = []
+  let current = ''
+
+  for (const char of value) {
+    current += char
+    if ('.!?。！？다'.includes(char)) {
+      const sentence = current.trim()
+      if (sentence) sentences.push(sentence)
+      current = ''
+    }
+  }
+
+  const rest = current.trim()
+  if (rest) sentences.push(rest)
+  return sentences
+}
+
+function splitArticleText(item: NewsItem) {
+  const body = item.articleText || item.summary || '본문을 가져오지 못했습니다. 원문 링크에서 확인해 주세요.'
+  return splitSentences(body)
+}
 
 export function NewsPage({
   items,
@@ -18,12 +42,27 @@ export function NewsPage({
   onQueryChange: (query: string) => void
   formatDate: (value: string) => string
 }) {
+  const [selectedSlug, setSelectedSlug] = useState(items[0]?.slug ?? '')
+  const selectedItem = useMemo(() => items.find((item) => item.slug === selectedSlug) ?? items[0] ?? null, [items, selectedSlug])
+  const articleParagraphs = useMemo(() => (selectedItem ? splitArticleText(selectedItem) : []), [selectedItem])
+
+  useEffect(() => {
+    if (!items.length) {
+      setSelectedSlug('')
+      return
+    }
+
+    if (!items.some((item) => item.slug === selectedSlug)) {
+      setSelectedSlug(items[0].slug)
+    }
+  }, [items, selectedSlug])
+
   return (
     <>
       <SectionHeader
         eyebrow="Security news"
         title="Curated intelligence feed"
-        description="국내외 보안 뉴스를 한 화면에서 검색하고 원문으로 이동합니다."
+        description="수집된 보안 뉴스를 목록에서 선택하고 페이지 안에서 본문을 확인합니다."
       />
       <NewsToolbar
         query={query}
@@ -34,7 +73,59 @@ export function NewsPage({
         onQueryChange={onQueryChange}
       />
       <p className="mb-4 text-xs font-medium uppercase tracking-[0.12em] text-slate-400">Generated at {formatDate(generatedAt)}</p>
-      <NewsList items={items} formatDate={formatDate} />
+      <div className="grid gap-4 lg:grid-cols-[minmax(320px,0.82fr)_minmax(0,1.18fr)] lg:items-start">
+        <div className="min-w-0 lg:max-h-[calc(100vh-13rem)] lg:overflow-y-auto lg:pr-1">
+          <NewsList items={items} selectedSlug={selectedItem?.slug} formatDate={formatDate} onSelect={(item) => setSelectedSlug(item.slug)} />
+        </div>
+        <section className="min-w-0 rounded-2xl border border-white/10 bg-white/[0.035] p-4 shadow-[0_10px_30px_rgba(2,6,23,0.18)] sm:p-5 lg:sticky lg:top-6">
+          {selectedItem ? (
+            <article className="grid gap-4">
+              <div className="flex flex-wrap items-center gap-2 text-[0.72rem] font-semibold leading-none">
+                <span className="rounded-full border border-white/10 bg-white/[0.045] px-2.5 py-1.5 text-slate-300">{selectedItem.source}</span>
+                <span className="rounded-full border border-blue-400/25 bg-blue-400/10 px-2.5 py-1.5 text-blue-200">
+                  {selectedItem.region === 'domestic' ? '국내' : '글로벌'}
+                </span>
+                <span className="rounded-full border border-white/10 bg-slate-950/50 px-2.5 py-1.5 text-slate-400">{formatDate(selectedItem.published)}</span>
+              </div>
+
+              <h3 className="m-0 text-[1.35rem] font-bold leading-tight text-white sm:text-[1.7rem]">{selectedItem.title}</h3>
+
+              {selectedItem.summary ? <p className="m-0 border-l border-blue-400/30 pl-3 text-[0.96rem] leading-6 text-slate-300">{selectedItem.summary}</p> : null}
+
+              <div className="max-h-[58vh] overflow-y-auto pr-1 text-[0.96rem] leading-7 text-slate-300">
+                {articleParagraphs.map((paragraph, index) => (
+                  <p className="mb-3" key={`${selectedItem.slug}-${index}`}>
+                    {paragraph}
+                  </p>
+                ))}
+              </div>
+
+              <div className="flex flex-wrap items-center gap-2 border-t border-white/10 pt-3">
+                <a
+                  className="rounded-full border border-blue-400/25 bg-blue-400/10 px-3 py-1.5 text-sm font-semibold text-blue-200 transition-all hover:border-blue-300/40 hover:bg-blue-400/15 hover:no-underline focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-blue-400/40"
+                  href={selectedItem.url}
+                  target="_blank"
+                  rel="noreferrer noopener"
+                >
+                  원문 사이트 열기
+                </a>
+                {selectedItem.translateUrl ? (
+                  <a
+                    className="rounded-full border border-white/10 bg-white/[0.035] px-3 py-1.5 text-sm font-semibold text-slate-300 transition-all hover:border-blue-400/25 hover:bg-white/[0.06] hover:text-blue-200 hover:no-underline focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-blue-400/40"
+                    href={selectedItem.translateUrl}
+                    target="_blank"
+                    rel="noreferrer noopener"
+                  >
+                    번역 보기
+                  </a>
+                ) : null}
+              </div>
+            </article>
+          ) : (
+            <p className="m-0 text-sm text-slate-400">선택할 뉴스가 없습니다.</p>
+          )}
+        </section>
+      </div>
     </>
   )
 }

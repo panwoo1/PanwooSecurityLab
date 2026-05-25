@@ -393,6 +393,7 @@ const generated = `export type NewsItem = {
   translateUrl: string
   published: string
   summary: string
+  articleText?: string
 }
 
 export type BlogPost = {
